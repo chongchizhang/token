@@ -1,0 +1,34 @@
+{
+  "link": {
+    "default": {
+      "value": {
+        "fill": "{text.primary}",
+        "typography": "{body}"
+      },
+      "type": "composition"
+    },
+    "hover": {
+      "value": {
+        "fill": "{text.strong.primary}",
+        "typography": "{body}",
+        "textDecoration": "{textDecoration.underline}"
+      },
+      "type": "composition"
+    },
+    "press": {
+      "value": {
+        "fill": "{text.stronger.primary}",
+        "typography": "{body}",
+        "textDecoration": "{textDecoration.underline}"
+      },
+      "type": "composition"
+    },
+    "disable": {
+      "value": {
+        "fill": "{text.disable}",
+        "typography": "{body}"
+      },
+      "type": "composition"
+    }
+  }
+}

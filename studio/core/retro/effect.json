@@ -1,0 +1,200 @@
+{
+  "shade": {
+    "10": {
+      "value": "0.0275",
+      "type": "opacity",
+      "inheritTypeLevel": 2
+    },
+    "20": {
+      "value": "0.955",
+      "type": "opacity",
+      "inheritTypeLevel": 2
+    },
+    "30": {
+      "value": "0.1175",
+      "type": "opacity",
+      "inheritTypeLevel": 2
+    },
+    "40": {
+      "value": "0.595",
+      "type": "opacity",
+      "inheritTypeLevel": 2
+    },
+    "50": {
+      "value": "0.42",
+      "type": "opacity",
+      "inheritTypeLevel": 2
+    },
+    "60": {
+      "value": "0.48",
+      "type": "opacity",
+      "inheritTypeLevel": 2
+    },
+    "70": {
+      "value": "0.565",
+      "type": "opacity",
+      "inheritTypeLevel": 2
+    },
+    "80": {
+      "value": "0.335",
+      "type": "opacity",
+      "inheritTypeLevel": 2
+    },
+    "90": {
+      "value": "0.65",
+      "type": "opacity",
+      "inheritTypeLevel": 2
+    },
+    "100": {
+      "value": "0.1",
+      "type": "opacity",
+      "inheritTypeLevel": 2
+    },
+    "110": {
+      "value": "0.885",
+      "type": "opacity",
+      "inheritTypeLevel": 2
+    },
+    "120": {
+      "value": "0.025",
+      "type": "opacity",
+      "inheritTypeLevel": 2
+    }
+  },
+  "opacity": {
+    "none": {
+      "value": "0",
+      "type": "opacity",
+      "inheritTypeLevel": 2
+    },
+    "xxxs": {
+      "value": "0.04",
+      "type": "opacity",
+      "inheritTypeLevel": 2
+    },
+    "xxs": {
+      "value": "0.08",
+      "type": "opacity",
+      "inheritTypeLevel": 2
+    },
+    "xs": {
+      "value": "0.16",
+      "type": "opacity",
+      "inheritTypeLevel": 2
+    },
+    "sm": {
+      "value": "0.24",
+      "type": "opacity",
+      "inheritTypeLevel": 2
+    },
+    "md": {
+      "value": "0.32",
+      "type": "opacity",
+      "inheritTypeLevel": 2
+    },
+    "lg": {
+      "value": "0.48",
+      "type": "opacity",
+      "inheritTypeLevel": 2
+    },
+    "xl": {
+      "value": "0.64",
+      "type": "opacity",
+      "inheritTypeLevel": 2
+    },
+    "xxl": {
+      "value": "0.80",
+      "type": "opacity",
+      "inheritTypeLevel": 2
+    },
+    "xxxl": {
+      "value": "0.96",
+      "type": "opacity",
+      "inheritTypeLevel": 2
+    }
+  },
+  "blur": {
+    "none": {
+      "value": "0",
+      "type": "other",
+      "inheritTypeLevel": 2
+    },
+    "xs": {
+      "value": "1",
+      "type": "other",
+      "inheritTypeLevel": 2
+    },
+    "sm": {
+      "value": "2",
+      "type": "other",
+      "inheritTypeLevel": 2
+    },
+    "md": {
+      "value": "4",
+      "type": "other",
+      "inheritTypeLevel": 2
+    },
+    "lg": {
+      "value": "8",
+      "type": "other",
+      "inheritTypeLevel": 2
+    },
+    "xl": {
+      "value": "12",
+      "type": "other",
+      "inheritTypeLevel": 2
+    },
+    "xxl": {
+      "value": "16",
+      "type": "other",
+      "inheritTypeLevel": 2
+    },
+    "xxxl": {
+      "value": "24",
+      "type": "other",
+      "inheritTypeLevel": 2
+    }
+  },
+  "spread": {
+    "none": {
+      "value": "0",
+      "type": "other",
+      "inheritTypeLevel": 2
+    },
+    "xs": {
+      "value": "1",
+      "type": "other",
+      "inheritTypeLevel": 2
+    },
+    "sm": {
+      "value": "2",
+      "type": "other",
+      "inheritTypeLevel": 2
+    },
+    "md": {
+      "value": "4",
+      "type": "other",
+      "inheritTypeLevel": 2
+    },
+    "lg": {
+      "value": "8",
+      "type": "other",
+      "inheritTypeLevel": 2
+    },
+    "xl": {
+      "value": "12",
+      "type": "other",
+      "inheritTypeLevel": 2
+    },
+    "xxl": {
+      "value": "16",
+      "type": "other",
+      "inheritTypeLevel": 2
+    },
+    "xxxl": {
+      "value": "24",
+      "type": "other",
+      "inheritTypeLevel": 2
+    }
+  }
+}

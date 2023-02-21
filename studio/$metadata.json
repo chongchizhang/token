@@ -1,0 +1,28 @@
+{
+  "tokenSetOrder": [
+    "core/retro/color",
+    "core/retro/effect",
+    "core/retro/size",
+    "core/retro/text",
+    "core/desktop/color",
+    "core/desktop/text",
+    "core/desktop/size",
+    "core/desktop/effect",
+    "core/mobile/color",
+    "core/mobile/text",
+    "core/mobile/size",
+    "core/mobile/effect",
+    "semantic/apple",
+    "semantic/windows",
+    "semantic/android",
+    "semantic/linux",
+    "semantic/desktop",
+    "semantic/mobile",
+    "semantic/zoomLight",
+    "semantic/zoomDark",
+    "semantic/eventsLight",
+    "semantic/retroLight",
+    "component/button",
+    "component/link"
+  ]
+}

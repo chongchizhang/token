@@ -1,0 +1,103 @@
+{
+  "font": {
+    "family": {
+      "value": "{fontFamily.segoeUI}",
+      "type": "other",
+      "inheritTypeLevel": 2
+    },
+    "weight": {
+      "display1": {
+        "value": "{fontWeight.boldDisplay}",
+        "type": "other",
+        "inheritTypeLevel": 2
+      },
+      "display2": {
+        "value": "{fontWeight.semiBoldDisplay}",
+        "type": "other",
+        "inheritTypeLevel": 2
+      },
+      "display3": {
+        "value": "{fontWeight.semiBoldDisplay}",
+        "type": "other",
+        "inheritTypeLevel": 2
+      },
+      "bodyBold": {
+        "value": "{fontWeight.semiBoldText}",
+        "type": "other",
+        "inheritTypeLevel": 2
+      },
+      "body": {
+        "value": "{fontWeight.regular}",
+        "type": "other",
+        "inheritTypeLevel": 2
+      },
+      "subtitleBold": {
+        "value": "{fontWeight.semiBoldText}",
+        "type": "other",
+        "inheritTypeLevel": 2
+      },
+      "subtitle": {
+        "value": "{fontWeight.regular}",
+        "type": "other",
+        "inheritTypeLevel": 2
+      },
+      "caption": {
+        "value": "{fontWeight.regularSmall}",
+        "type": "other",
+        "inheritTypeLevel": 2
+      },
+      "label": {
+        "value": "{fontWeight.semiBoldSmall}",
+        "type": "other",
+        "inheritTypeLevel": 2
+      }
+    },
+    "letterSpacing": {
+      "display1": {
+        "value": "{letterSpacing.auto}",
+        "type": "other",
+        "inheritTypeLevel": 2
+      },
+      "display2": {
+        "value": "{letterSpacing.auto}",
+        "type": "other",
+        "inheritTypeLevel": 2
+      },
+      "display3": {
+        "value": "{letterSpacing.auto}",
+        "type": "other",
+        "inheritTypeLevel": 2
+      },
+      "bodyBold": {
+        "value": "{letterSpacing.auto}",
+        "type": "other",
+        "inheritTypeLevel": 2
+      },
+      "body": {
+        "value": "{letterSpacing.auto}",
+        "type": "other",
+        "inheritTypeLevel": 2
+      },
+      "subtitleBold": {
+        "value": "{letterSpacing.auto}",
+        "type": "other",
+        "inheritTypeLevel": 2
+      },
+      "subtitle": {
+        "value": "{letterSpacing.auto}",
+        "type": "other",
+        "inheritTypeLevel": 2
+      },
+      "caption": {
+        "value": "{letterSpacing.auto}",
+        "type": "other",
+        "inheritTypeLevel": 2
+      },
+      "label": {
+        "value": "{letterSpacing.auto}",
+        "type": "other",
+        "inheritTypeLevel": 2
+      }
+    }
+  }
+}

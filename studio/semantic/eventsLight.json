@@ -1,0 +1,630 @@
+{
+  "bg": {
+    "default": {
+      "value": "{ui.gray.0}",
+      "description": "gray-0",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "neutral": {
+      "value": "{ui.gray.10}",
+      "description": "gray-10",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "primary": {
+      "value": "{ui.teal.10}",
+      "description": "teal-10",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "secondary": {
+      "value": "{ui.orange.10}",
+      "description": "orange-10",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "error": {
+      "value": "{ui.red.10}",
+      "description": "red-10",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "warning": {
+      "value": "{ui.yellow.10}",
+      "description": "yellow-10",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "success": {
+      "value": "{ui.green.10}",
+      "description": "green-10",
+      "type": "color",
+      "inheritTypeLevel": 2
+    }
+  },
+  "fill": {
+    "subtle": {
+      "neutral": {
+        "value": "{ui.gray.20}",
+        "description": "gray-20",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "primary": {
+        "value": "{ui.teal.20}",
+        "description": "teal-20",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "secondary": {
+        "value": "{ui.orange.20}",
+        "description": "orange-20",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "error": {
+        "value": "{ui.red.20}",
+        "description": "red-20",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "warning": {
+        "value": "{ui.yellow.20}",
+        "description": "yellow-20",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "success": {
+        "value": "{ui.green.20}",
+        "description": "green-20",
+        "type": "color",
+        "inheritTypeLevel": 2
+      }
+    },
+    "neutral": {
+      "value": "{ui.gray.70}",
+      "description": "gray-70",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "disable": {
+      "value": "{ui.gray.50}",
+      "description": "gray-50",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "inverse": {
+      "value": "{ui.gray.130}",
+      "description": "gray-130",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "primary": {
+      "value": "{ui.teal.70}",
+      "description": "teal-70",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "secondary": {
+      "value": "{ui.orange.50}",
+      "description": "orange-50",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "error": {
+      "value": "{ui.red.70}",
+      "description": "red-70",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "warning": {
+      "value": "{ui.yellow.70}",
+      "description": "yellow-70",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "success": {
+      "value": "{ui.green.70}",
+      "description": "green-70",
+      "type": "color",
+      "inheritTypeLevel": 2
+    }
+  },
+  "text": {
+    "stronger": {
+      "neutral": {
+        "value": "{ui.gray.110}",
+        "description": "gray-110",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "primary": {
+        "value": "{ui.teal.110}",
+        "description": "teal-110",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "secondary": {
+        "value": "{ui.orange.110}",
+        "description": "orange-110",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "error": {
+        "value": "{ui.red.110}",
+        "description": "red-110",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "warning": {
+        "value": "{ui.yellow.110}",
+        "description": "yellow-110",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "success": {
+        "value": "{ui.green.110}",
+        "description": "green-110",
+        "type": "color",
+        "inheritTypeLevel": 2
+      }
+    },
+    "strong": {
+      "primary": {
+        "value": "{ui.teal.90}",
+        "description": "teal-90",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "secondary": {
+        "value": "{ui.orange.90}",
+        "description": "orange-90",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "error": {
+        "value": "{ui.red.90}",
+        "description": "red-90",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "warning": {
+        "value": "{ui.yellow.90}",
+        "description": "yellow-90",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "success": {
+        "value": "{ui.green.90}",
+        "description": "green-90",
+        "type": "color",
+        "inheritTypeLevel": 2
+      }
+    },
+    "default": {
+      "value": "{ui.gray.90}",
+      "description": "gray-90",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "neutral": {
+      "value": "{ui.gray.70}",
+      "description": "gray-70",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "disable": {
+      "value": "{ui.gray.50}",
+      "description": "gray-50",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "inverse": {
+      "value": "{ui.gray.0}",
+      "description": "gray-0",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "primary": {
+      "value": "{ui.teal.70}",
+      "description": "teal-70",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "secondary": {
+      "value": "{ui.orange.70}",
+      "description": "orange-70",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "error": {
+      "value": "{ui.red.70}",
+      "description": "red-70",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "warning": {
+      "value": "{ui.yellow.70}",
+      "description": "yelow-70",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "success": {
+      "value": "{ui.green.70}",
+      "description": "green-70",
+      "type": "color",
+      "inheritTypeLevel": 2
+    }
+  },
+  "icon": {
+    "neutral": {
+      "value": "{ui.gray.50}",
+      "description": "gray-50",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "primary": {
+      "value": "{ui.teal.50}",
+      "description": "teal-50",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "secondary": {
+      "value": "{ui.orange.50}",
+      "description": "orange-50",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "error": {
+      "value": "{ui.red.60}",
+      "description": "red-60",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "warning": {
+      "value": "{ui.yellow.30}",
+      "description": "yellow-30",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "success": {
+      "value": "{ui.green.50}",
+      "description": "green-50",
+      "type": "color",
+      "inheritTypeLevel": 2
+    }
+  },
+  "border": {
+    "strongest": {
+      "neutral": {
+        "value": "{ui.gray.110}",
+        "description": "gray-110",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "primary": {
+        "value": "{ui.teal.110}",
+        "description": "teal-110",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "secondary": {
+        "value": "{ui.orange.110}",
+        "description": "orange-110",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "error": {
+        "value": "{ui.red.110}",
+        "description": "red-110",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "warning": {
+        "value": "{ui.yellow.110}",
+        "description": "yellow-110",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "success": {
+        "value": "{ui.green.110}",
+        "description": "green-110",
+        "type": "color",
+        "inheritTypeLevel": 2
+      }
+    },
+    "stronger": {
+      "neutral": {
+        "value": "{ui.gray.90}",
+        "description": "gray-90",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "primary": {
+        "value": "{ui.teal.90}",
+        "description": "teal-90",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "scondary": {
+        "value": "{ui.orange.90}",
+        "description": "orange-90",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "error": {
+        "value": "{ui.red.90}",
+        "description": "red-90",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "warning": {
+        "value": "{ui.yellow.90}",
+        "description": "yellow-90",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "success": {
+        "value": "{ui.green.90}",
+        "description": "green-90",
+        "type": "color",
+        "inheritTypeLevel": 2
+      }
+    },
+    "strong": {
+      "neutral": {
+        "value": "{ui.gray.70}",
+        "description": "gray-70",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "primary": {
+        "value": "{ui.teal.70}",
+        "description": "teal-70",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "secondary": {
+        "value": "{ui.orange.70}",
+        "description": "orange-70",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "error": {
+        "value": "{ui.red.70}",
+        "description": "red-70",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "warning": {
+        "value": "{ui.yellow.70}",
+        "description": "yellow-70",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "success": {
+        "value": "{ui.green.70}",
+        "description": "green-70",
+        "type": "color",
+        "inheritTypeLevel": 2
+      }
+    },
+    "neutral": {
+      "value": "{ui.gray.50}",
+      "description": "gray-50",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "primary": {
+      "value": "{ui.teal.50}",
+      "description": "teal-50",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "secondary": {
+      "value": "{ui.orange.50}",
+      "description": "orange-50",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "error": {
+      "value": "{ui.red.50}",
+      "description": "red-50",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "warning": {
+      "value": "{ui.yellow.50}",
+      "description": "yellow-50",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "success": {
+      "value": "{ui.green.50}",
+      "description": "green-50",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "subtle": {
+      "neutral": {
+        "value": "{ui.gray.30}",
+        "description": "gray-30",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "primary": {
+        "value": "{ui.teal.30}",
+        "description": "teal-30",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "secondary": {
+        "value": "{ui.orange.30}",
+        "description": "orange-30",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "error": {
+        "value": "{ui.red.30}",
+        "description": "red-30",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "warning": {
+        "value": "{ui.yellow.30}",
+        "description": "yellow-30",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "success": {
+        "value": "{ui.green.30}",
+        "description": "green-30",
+        "type": "color",
+        "inheritTypeLevel": 2
+      }
+    },
+    "subtler": {
+      "neutral": {
+        "value": "{ui.gray.10}",
+        "description": "gray-10",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "primary": {
+        "value": "{ui.teal.10}",
+        "description": "teal-10",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "secondary": {
+        "value": "{ui.orange.10}",
+        "description": "orange-10",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "error": {
+        "value": "{ui.red.10}",
+        "description": "red-10",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "warning": {
+        "value": "{ui.yellow.10}",
+        "description": "yellow-10",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "success": {
+        "value": "{ui.green.10}",
+        "description": "green-10",
+        "type": "color",
+        "inheritTypeLevel": 2
+      }
+    }
+  },
+  "state": {
+    "hover": {
+      "value": "rgba({ui.black},{shade.30})",
+      "description": "shade-30",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "press": {
+      "value": "rgba({ui.black},{shade.50})",
+      "description": "shade-50",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "inactive": {
+      "value": "rgba({ui.white},{shade.40})",
+      "description": "shade-40",
+      "type": "color",
+      "inheritTypeLevel": 2
+    }
+  },
+  "overlay": {
+    "subtler": {
+      "dark": {
+        "value": "rgba({ui.black},{shade.10})",
+        "description": "shade-10",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "light": {
+        "value": "rgba({ui.white},{shade.120})",
+        "description": "shade-120",
+        "type": "color",
+        "inheritTypeLevel": 2
+      }
+    },
+    "subtle": {
+      "dark": {
+        "value": "rgba({ui.black},{shade.30})",
+        "description": "shade-30",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "light": {
+        "value": "rgba({ui.white},{shade.100})",
+        "description": "shade-100",
+        "type": "color",
+        "inheritTypeLevel": 2
+      }
+    },
+    "dark": {
+      "value": "rgba({ui.black},{shade.50})",
+      "description": "shade-50",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "light": {
+      "value": "rgba({ui.white},{shade.80})",
+      "description": "shade-80",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "strong": {
+      "dark": {
+        "value": "rgba({ui.black},{shade.70})",
+        "description": "shade-70",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "light": {
+        "value": "rgba({ui.white},{shade.60})",
+        "description": "shade-60",
+        "type": "color",
+        "inheritTypeLevel": 2
+      }
+    },
+    "stronger": {
+      "dark": {
+        "value": "rgba({ui.black},{shade.90})",
+        "description": "shade-90",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "light": {
+        "value": "rgba({ui.white},{shade.40})",
+        "description": "shade-40",
+        "type": "color",
+        "inheritTypeLevel": 2
+      }
+    },
+    "strongest": {
+      "dark": {
+        "value": "rgba({ui.black},{shade.110})",
+        "description": "shade-110",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "light": {
+        "value": "rgba({ui.white},{shade.20})",
+        "description": "shade-20",
+        "type": "color",
+        "inheritTypeLevel": 2
+      }
+    }
+  }
+}

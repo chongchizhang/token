@@ -1,0 +1,722 @@
+{
+  "bg": {
+    "default": {
+      "value": "{retro.ui.gray.0}",
+      "description": "gray-0",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "neutral": {
+      "value": "{retro.ui.gray.10}",
+      "description": "gray-10",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "primary": {
+      "value": "{retro.ui.blue.10}",
+      "description": "blue-10",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "secondary": {
+      "value": "{retro.ui.orange.10}",
+      "description": "orange-10",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "error": {
+      "value": "{retro.ui.red.10}",
+      "description": "red-10",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "warning": {
+      "value": "{retro.ui.yellow.10}",
+      "description": "yellow-10",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "success": {
+      "value": "{retro.ui.green.10}",
+      "description": "green-10",
+      "type": "color",
+      "inheritTypeLevel": 2
+    }
+  },
+  "fill": {
+    "subtle": {
+      "neutral": {
+        "value": "{retro.ui.gray.10}",
+        "description": "gray-10",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "primary": {
+        "value": "{retro.ui.blue.10}",
+        "description": "blue-10",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "secondary": {
+        "value": "{retro.ui.orange.10}",
+        "description": "orange-10",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "error": {
+        "value": "{retro.ui.red.10}",
+        "description": "red-10",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "warning": {
+        "value": "{retro.ui.yellow.10}",
+        "description": "yellow-10",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "success": {
+        "value": "{retro.ui.green.10}",
+        "description": "green-10",
+        "type": "color",
+        "inheritTypeLevel": 2
+      }
+    },
+    "neutral": {
+      "value": "{retro.ui.gray.60}",
+      "description": "gray-60",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "disable": {
+      "value": "{retro.ui.gray.10}",
+      "description": "gray-10",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "inverse": {
+      "value": "{retro.ui.gray.90}",
+      "description": "gray-90",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "primary": {
+      "value": "{retro.ui.blue.60}",
+      "description": "blue-60",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "secondary": {
+      "value": "{retro.ui.orange.50}",
+      "description": "orange-50",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "error": {
+      "value": "{retro.ui.red.60}",
+      "description": "red-60",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "warning": {
+      "value": "{retro.ui.yellow.60}",
+      "description": "yellow-60",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "success": {
+      "value": "{retro.ui.green.60}",
+      "description": "green-60",
+      "type": "color",
+      "inheritTypeLevel": 2
+    }
+  },
+  "text": {
+    "stronger": {
+      "neutral": {
+        "value": "{retro.ui.gray.90}",
+        "description": "gray-90",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "primary": {
+        "value": "{retro.ui.blue.90}",
+        "description": "blue-90",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "secondary": {
+        "value": "{retro.ui.orange.90}",
+        "description": "orange-90",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "error": {
+        "value": "{retro.ui.red.90}",
+        "description": "red-90",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "warning": {
+        "value": "{retro.ui.yellow.90}",
+        "description": "yellow-90",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "success": {
+        "value": "{retro.ui.green.90}",
+        "description": "green-90",
+        "type": "color",
+        "inheritTypeLevel": 2
+      }
+    },
+    "strong": {
+      "primary": {
+        "value": "{retro.ui.blue.70}",
+        "description": "blue-70",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "secondary": {
+        "value": "{retro.ui.orange.70}",
+        "description": "orange-70",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "error": {
+        "value": "{retro.ui.red.70}",
+        "description": "red-70",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "warning": {
+        "value": "{retro.ui.yellow.70}",
+        "description": "yellow-70",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "success": {
+        "value": "{retro.ui.green.70}",
+        "description": "green-70",
+        "type": "color",
+        "inheritTypeLevel": 2
+      }
+    },
+    "default": {
+      "value": "{retro.ui.gray.70}",
+      "description": "gray-70",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "neutral": {
+      "value": "{retro.ui.gray.60}",
+      "description": "gray-60",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "disable": {
+      "value": "{retro.ui.gray.50}",
+      "description": "gray-50",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "inverse": {
+      "value": "{retro.ui.gray.0}",
+      "description": "gray-0",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "primary": {
+      "value": "{retro.ui.blue.60}",
+      "description": "blue-60",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "secondary": {
+      "value": "{retro.ui.orange.60}",
+      "description": "orange-60",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "error": {
+      "value": "{retro.ui.red.60}",
+      "description": "red-60",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "warning": {
+      "value": "{retro.ui.yellow.60}",
+      "description": "yelow-60",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "success": {
+      "value": "{retro.ui.green.60}",
+      "description": "green-60",
+      "type": "color",
+      "inheritTypeLevel": 2
+    }
+  },
+  "icon": {
+    "neutral": {
+      "value": "{retro.ui.icon.gray}",
+      "description": "icon-gray",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "primary": {
+      "value": "{retro.ui.icon.blue}",
+      "description": "icon-blue",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "secondary": {
+      "value": "{retro.ui.icon.orange}",
+      "description": "icon-orange",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "error": {
+      "value": "{retro.ui.icon.red}",
+      "description": "icon-red",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "warning": {
+      "value": "{retro.ui.icon.yellow}",
+      "description": "icon-yellow",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "success": {
+      "value": "{retro.ui.icon.green}",
+      "description": "icon-green",
+      "type": "color",
+      "inheritTypeLevel": 2
+    }
+  },
+  "border": {
+    "strongest": {
+      "neutral": {
+        "value": "{retro.ui.gray.90}",
+        "description": "gray-90",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "primary": {
+        "value": "{retro.ui.blue.90}",
+        "description": "blue-90",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "secondary": {
+        "value": "{retro.ui.orange.90}",
+        "description": "orange-90",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "error": {
+        "value": "{retro.ui.red.90}",
+        "description": "red-90",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "warning": {
+        "value": "{retro.ui.yellow.90}",
+        "description": "yellow-90",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "success": {
+        "value": "{retro.ui.green.90}",
+        "description": "green-90",
+        "type": "color",
+        "inheritTypeLevel": 2
+      }
+    },
+    "stronger": {
+      "neutral": {
+        "value": "{retro.ui.gray.70}",
+        "description": "gray-70",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "primary": {
+        "value": "{retro.ui.blue.70}",
+        "description": "blue-70",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "scondary": {
+        "value": "{retro.ui.orange.70}",
+        "description": "orange-70",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "error": {
+        "value": "{retro.ui.red.70}",
+        "description": "red-70",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "warning": {
+        "value": "{retro.ui.yellow.70}",
+        "description": "yellow-70",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "success": {
+        "value": "{retro.ui.green.70}",
+        "description": "green-70",
+        "type": "color",
+        "inheritTypeLevel": 2
+      }
+    },
+    "strong": {
+      "neutral": {
+        "value": "{retro.ui.gray.60}",
+        "description": "gray-60",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "primary": {
+        "value": "{retro.ui.blue.60}",
+        "description": "blue-60",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "secondary": {
+        "value": "{retro.ui.orange.60}",
+        "description": "orange-60",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "error": {
+        "value": "{retro.ui.red.60}",
+        "description": "red-60",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "warning": {
+        "value": "{retro.ui.yellow.60}",
+        "description": "yellow-60",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "success": {
+        "value": "{retro.ui.green.60}",
+        "description": "green-60",
+        "type": "color",
+        "inheritTypeLevel": 2
+      }
+    },
+    "neutral": {
+      "value": "{retro.ui.gray.50}",
+      "description": "gray-50",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "primary": {
+      "value": "{retro.ui.blue.50}",
+      "description": "blue-50",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "secondary": {
+      "value": "{retro.ui.orange.50}",
+      "description": "orange-50",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "error": {
+      "value": "{retro.ui.red.50}",
+      "description": "red-50",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "warning": {
+      "value": "{retro.ui.yellow.50}",
+      "description": "yellow-50",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "success": {
+      "value": "{retro.ui.green.50}",
+      "description": "green-50",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "subtle": {
+      "neutral": {
+        "value": "{retro.ui.gray.30}",
+        "description": "gray-30",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "primary": {
+        "value": "{retro.ui.blue.30}",
+        "description": "blue-30",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "secondary": {
+        "value": "{retro.ui.orange.30}",
+        "description": "orange-30",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "error": {
+        "value": "{retro.ui.red.30}",
+        "description": "red-30",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "warning": {
+        "value": "{retro.ui.yellow.30}",
+        "description": "yellow-30",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "success": {
+        "value": "{retro.ui.green.30}",
+        "description": "green-30",
+        "type": "color",
+        "inheritTypeLevel": 2
+      }
+    },
+    "subtler": {
+      "neutral": {
+        "value": "{retro.ui.gray.10}",
+        "description": "gray-10",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "primary": {
+        "value": "{retro.ui.blue.10}",
+        "description": "blue-10",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "secondary": {
+        "value": "{retro.ui.orange.10}",
+        "description": "orange-10",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "error": {
+        "value": "{retro.ui.red.10}",
+        "description": "red-10",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "warning": {
+        "value": "{retro.ui.yellow.10}",
+        "description": "yellow-10",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "success": {
+        "value": "{retro.ui.green.10}",
+        "description": "green-10",
+        "type": "color",
+        "inheritTypeLevel": 2
+      }
+    }
+  },
+  "state": {
+    "neutral": {
+      "hover": {
+        "value": "rgba({retro.ui.gray.60},{shade.30})",
+        "type": "color",
+        "inheritTypeLevel": 2,
+        "description": "shade-30"
+      },
+      "press": {
+        "value": "rgba({retro.ui.gray.60},{shade.50})",
+        "type": "color",
+        "inheritTypeLevel": 2,
+        "description": "shade-50"
+      }
+    },
+    "primary": {
+      "hover": {
+        "value": "rgba({retro.ui.blue.60},{shade.30})",
+        "type": "color",
+        "inheritTypeLevel": 2,
+        "description": "shade-30"
+      },
+      "press": {
+        "value": "rgba({retro.ui.blue.60},{shade.50})",
+        "type": "color",
+        "inheritTypeLevel": 2,
+        "description": "shade-50"
+      }
+    },
+    "secondary": {
+      "hover": {
+        "value": "rgba({retro.ui.orange.60},{shade.30})",
+        "type": "color",
+        "inheritTypeLevel": 2,
+        "description": "shade-30"
+      },
+      "press": {
+        "value": "rgba({retro.ui.orange.60},{shade.50})",
+        "type": "color",
+        "inheritTypeLevel": 2,
+        "description": "shade-50"
+      }
+    },
+    "error": {
+      "hover": {
+        "value": "rgba({retro.ui.red.60},{shade.30})",
+        "type": "color",
+        "inheritTypeLevel": 2,
+        "description": "shade-30"
+      },
+      "press": {
+        "value": "rgba({retro.ui.red.60},{shade.50})",
+        "type": "color",
+        "inheritTypeLevel": 2,
+        "description": "shade-50"
+      }
+    },
+    "warning": {
+      "hover": {
+        "value": "rgba({retro.ui.yellow.60},{shade.30})",
+        "type": "color",
+        "inheritTypeLevel": 2,
+        "description": "shade-30"
+      },
+      "press": {
+        "value": "rgba({retro.ui.yellow.60},{shade.50})",
+        "type": "color",
+        "inheritTypeLevel": 2,
+        "description": "shade-50"
+      }
+    },
+    "success": {
+      "hover": {
+        "value": "rgba({retro.ui.green.60},{shade.30})",
+        "type": "color",
+        "inheritTypeLevel": 2,
+        "description": "shade-30"
+      },
+      "press": {
+        "value": "rgba({retro.ui.green.60},{shade.50})",
+        "type": "color",
+        "inheritTypeLevel": 2,
+        "description": "shade-50"
+      }
+    },
+    "hover": {
+      "value": "rgba({retro.ui.black},{shade.30})",
+      "description": "shade-30",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "press": {
+      "value": "rgba({retro.ui.black},{shade.50})",
+      "description": "shade-50",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "inactive": {
+      "value": "rgba({retro.ui.white},{shade.40})",
+      "description": "shade-40",
+      "type": "color",
+      "inheritTypeLevel": 2
+    }
+  },
+  "overlay": {
+    "subtler": {
+      "dark": {
+        "value": "rgba({retro.ui.black},{shade.10})",
+        "description": "shade-10",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "light": {
+        "value": "rgba({retro.ui.white},{shade.120})",
+        "description": "shade-120",
+        "type": "color",
+        "inheritTypeLevel": 2
+      }
+    },
+    "subtle": {
+      "dark": {
+        "value": "rgba({retro.ui.black},{shade.30})",
+        "description": "shade-30",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "light": {
+        "value": "rgba({retro.ui.white},{shade.100})",
+        "description": "shade-100",
+        "type": "color",
+        "inheritTypeLevel": 2
+      }
+    },
+    "dark": {
+      "value": "rgba({retro.ui.black},{shade.50})",
+      "description": "shade-50",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "light": {
+      "value": "rgba({retro.ui.white},{shade.80})",
+      "description": "shade-80",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "strong": {
+      "dark": {
+        "value": "rgba({retro.ui.black},{shade.70})",
+        "description": "shade-70",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "light": {
+        "value": "rgba({retro.ui.white},{shade.60})",
+        "description": "shade-60",
+        "type": "color",
+        "inheritTypeLevel": 2
+      }
+    },
+    "stronger": {
+      "dark": {
+        "value": "rgba({retro.ui.black},{shade.90})",
+        "description": "shade-90",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "light": {
+        "value": "rgba({retro.ui.white},{shade.40})",
+        "description": "shade-40",
+        "type": "color",
+        "inheritTypeLevel": 2
+      }
+    },
+    "strongest": {
+      "dark": {
+        "value": "rgba({retro.ui.black},{shade.110})",
+        "description": "shade-110",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "light": {
+        "value": "rgba({retro.ui.white},{shade.20})",
+        "description": "shade-20",
+        "type": "color",
+        "inheritTypeLevel": 2
+      }
+    }
+  },
+  "underlay": {
+    "dark": {
+      "value": "rgba({retro.ui.black},{opacity.xxs})",
+      "description": "opacity-xxs",
+      "type": "color",
+      "inheritTypeLevel": 2
+    }
+  }
+}

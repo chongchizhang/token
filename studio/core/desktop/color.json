@@ -1,0 +1,669 @@
+{
+  "ui": {
+    "black": {
+      "value": "#000000",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "white": {
+      "value": "#FFFFFF",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "gray": {
+      "0": {
+        "value": "#FFFFFF",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "10": {
+        "value": "#F8F8FA",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "20": {
+        "value": "#F4F4F6",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "30": {
+        "value": "#E0E0E6",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "40": {
+        "value": "#9E9EAF",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "50": {
+        "value": "#8C8C9E",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "60": {
+        "value": "#848495",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "70": {
+        "value": "#6E6E7D",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "80": {
+        "value": "#676774",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "90": {
+        "value": "#585864",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "100": {
+        "value": "#2B2B31",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "110": {
+        "value": "#1D1D21",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "120": {
+        "value": "#1A1A1E",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "130": {
+        "value": "#141414",
+        "type": "color",
+        "inheritTypeLevel": 2
+      }
+    },
+    "blue": {
+      "10": {
+        "value": "#F6F9FF",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "20": {
+        "value": "#F0F5FF",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "30": {
+        "value": "#D3E2FF",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "40": {
+        "value": "#6D9EFF",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "50": {
+        "value": "#4E89FF",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "60": {
+        "value": "#407FFF",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "70": {
+        "value": "{brand.bloom}",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "80": {
+        "value": "#0B59F6",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "90": {
+        "value": "#094CD4",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "100": {
+        "value": "#052669",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "110": {
+        "value": "#031B4A",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "120": {
+        "value": "#031842",
+        "type": "color",
+        "inheritTypeLevel": 2
+      }
+    },
+    "orange": {
+      "10": {
+        "value": "#FFF7F0",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "20": {
+        "value": "#FFF2E5",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "30": {
+        "value": "#FFDAB9",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "40": {
+        "value": "#FE7900",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "50": {
+        "value": "#F55A00",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "60": {
+        "value": "#D46600",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "70": {
+        "value": "#B25500",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "80": {
+        "value": "#A65000",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "90": {
+        "value": "#8F4400",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "100": {
+        "value": "#462100",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "110": {
+        "value": "#301700",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "120": {
+        "value": "#2A1400",
+        "type": "color",
+        "inheritTypeLevel": 2
+      }
+    },
+    "teal": {
+      "10": {
+        "value": "#E9FEFD",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "20": {
+        "value": "#D4FCFB",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "30": {
+        "value": "#61F6F2",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "40": {
+        "value": "#00B2AE",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "50": {
+        "value": "#009E9A",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "60": {
+        "value": "#009591",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "70": {
+        "value": "#007C7C",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "80": {
+        "value": "#007573",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "90": {
+        "value": "#006462",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "100": {
+        "value": "#003130",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "110": {
+        "value": "#002322",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "120": {
+        "value": "#001E1E",
+        "type": "color",
+        "inheritTypeLevel": 2
+      }
+    },
+    "purple": {
+      "10": {
+        "value": "#FAF7FD",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "20": {
+        "value": "#F7F2FB",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "30": {
+        "value": "#EBDDF6",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "40": {
+        "value": "#BB8CE0",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "50": {
+        "value": "#AD75DA",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "60": {
+        "value": "#A66BD7",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "70": {
+        "value": "#9053C2",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "80": {
+        "value": "#864EB5",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "90": {
+        "value": "#73439A",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "100": {
+        "value": "#38214C",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "110": {
+        "value": "#261735",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "120": {
+        "value": "#22132D",
+        "type": "color",
+        "inheritTypeLevel": 2
+      }
+    },
+    "red": {
+      "10": {
+        "value": "#FFF6F9",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "20": {
+        "value": "#FFF0F5",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "30": {
+        "value": "#FFD8E5",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "40": {
+        "value": "#FF6E9E",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "50": {
+        "value": "#FF4281",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "60": {
+        "value": "#FF226C",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "70": {
+        "value": "#DD004A",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "80": {
+        "value": "#D20046",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "90": {
+        "value": "#B3003C",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "100": {
+        "value": "#5E001F",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "110": {
+        "value": "#440017",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "120": {
+        "value": "#3B0014",
+        "type": "color",
+        "inheritTypeLevel": 2
+      }
+    },
+    "yellow": {
+      "10": {
+        "value": "#FFFAE5",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "20": {
+        "value": "#FFF5C5",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "30": {
+        "value": "#FFE165",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "40": {
+        "value": "#BD9C40",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "50": {
+        "value": "#AB8A00",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "60": {
+        "value": "#A18200",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "70": {
+        "value": "#876C00",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "80": {
+        "value": "#7E6600",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "90": {
+        "value": "#6C5700",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "100": {
+        "value": "#342A00",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "110": {
+        "value": "#261D00",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "120": {
+        "value": "#1F1900",
+        "type": "color",
+        "inheritTypeLevel": 2
+      }
+    },
+    "green": {
+      "10": {
+        "value": "#E5FFF4",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "20": {
+        "value": "#CAFFE8",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "30": {
+        "value": "{brand.spearmint}",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "40": {
+        "value": "#00B868",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "50": {
+        "value": "#00A25C",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "60": {
+        "value": "#009957",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "70": {
+        "value": "#008049",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "80": {
+        "value": "#007A45",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "90": {
+        "value": "#00673A",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "100": {
+        "value": "#00331D",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "110": {
+        "value": "#002414",
+        "type": "color",
+        "inheritTypeLevel": 2
+      },
+      "120": {
+        "value": "#001F12",
+        "type": "color",
+        "inheritTypeLevel": 2
+      }
+    }
+  },
+  "brand": {
+    "bloom": {
+      "value": "#0B5CFF",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "rose": {
+      "value": "#FF0055",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "goldenrod": {
+      "value": "#FFCD00",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "spearmint": {
+      "value": "#00FF91",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "saffron": {
+      "value": "#FF7A00",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "lavender": {
+      "value": "#9D5BD3",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "agave": {
+      "value": "#00F0EA",
+      "type": "color",
+      "inheritTypeLevel": 2
+    }
+  },
+  "accent": {
+    "r500": {
+      "value": "#FD3D4A",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "r400": {
+      "value": "#F46670",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "br600": {
+      "value": "#CF5A35",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "o550": {
+      "value": "#FF5F0F",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "o600": {
+      "value": "#DC7929",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "o500": {
+      "value": "#FF8422",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "gld500": {
+      "value": "#C28030",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "y400": {
+      "value": "#FFBF39",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "g400": {
+      "value": "#66CC84",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "t500": {
+      "value": "#14BCA0",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "t600": {
+      "value": "#2BA09B",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "b500": {
+      "value": "#2D8CFF",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "b600": {
+      "value": "#1E71D6",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "b700": {
+      "value": "#0956B5",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "b800": {
+      "value": "#285081",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "bp400": {
+      "value": "#A477FF",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "bp500": {
+      "value": "#9D87C9",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "bp600": {
+      "value": "#925DFF",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "p500": {
+      "value": "#5B4FB0",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "p600": {
+      "value": "#493AB7",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "gry100": {
+      "value": "#F7F9FA",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
+    "gry800": {
+      "value": "#252A30",
+      "type": "color",
+      "inheritTypeLevel": 2
+    }
+  }
+}
