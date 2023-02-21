@@ -23,6 +23,7 @@
     "semantic/eventsLight",
     "semantic/retroLight",
     "component/button",
-    "component/link"
+    "component/link",
+    "component/test"
   ]
 }

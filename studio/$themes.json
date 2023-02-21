@@ -11,7 +11,8 @@
       "core/desktop/color": "enabled",
       "core/desktop/text": "enabled",
       "core/desktop/size": "enabled",
-      "core/desktop/effect": "enabled"
+      "core/desktop/effect": "enabled",
+      "component/test": "disabled"
     },
     "$figmaStyleReferences": {
       "bg.default": "S:242be7fc40344613bc76293281f3b74497a01ea0,",
@@ -155,7 +156,8 @@
       "core/desktop/color": "source",
       "core/desktop/text": "source",
       "core/desktop/size": "source",
-      "core/desktop/effect": "source"
+      "core/desktop/effect": "source",
+      "component/test": "disabled"
     },
     "$figmaStyleReferences": {
       "display1": "S:9c54842c138a124a3dc3cb974b5e08d151dd651b,",
@@ -295,7 +297,8 @@
       "semantic/desktop": "enabled",
       "semantic/retroLight": "enabled",
       "component/button": "enabled",
-      "component/link": "enabled"
+      "component/link": "enabled",
+      "component/test": "disabled"
     },
     "$figmaStyleReferences": {
       "bg.default": "S:5bb1ee054e984acf2d29db8bc091714101be95fc,",
@@ -435,7 +438,8 @@
       "semantic/desktop": "enabled",
       "semantic/zoomLight": "enabled",
       "component/button": "enabled",
-      "component/link": "enabled"
+      "component/link": "enabled",
+      "component/test": "disabled"
     },
     "$figmaStyleReferences": {
       "dropShadow.sm": "S:aa7fb018b8adcba78a35a86f47fcdba66b983020,",
@@ -580,7 +584,8 @@
       "semantic/desktop": "enabled",
       "semantic/zoomDark": "enabled",
       "component/button": "enabled",
-      "component/link": "enabled"
+      "component/link": "enabled",
+      "component/test": "disabled"
     },
     "$figmaStyleReferences": {
       "display1": "S:bcc440950b1abb3c02ac747cb7186ec08428bd9f,",
