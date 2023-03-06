@@ -1,0 +1,90 @@
+{
+  "segmentedControl": {
+    "chipBase": {
+      "unselected": {
+        "default": {
+          "value": {
+            "verticalPadding": "{padding.xs}",
+            "horizontalPadding": "{padding.xl}",
+            "borderRadius": "{cornerRadius.sm}"
+          },
+          "type": "composition"
+        },
+        "hover": {
+          "value": {
+            "verticalPadding": "{padding.xs}",
+            "horizontalPadding": "{padding.xl}",
+            "borderRadius": "{cornerRadius.sm}",
+            "fill": "{state.subtle.neutral.hover}"
+          },
+          "type": "composition"
+        },
+        "press": {
+          "value": {
+            "verticalPadding": "{padding.xs}",
+            "horizontalPadding": "{padding.xl}",
+            "borderRadius": "{cornerRadius.sm}",
+            "fill": "{state.subtle.neutral.press}"
+          },
+          "type": "composition"
+        }
+      },
+      "selected": {
+        "default": {
+          "value": {
+            "verticalPadding": "{padding.xs}",
+            "horizontalPadding": "{padding.xl}",
+            "borderRadius": "{cornerRadius.sm}",
+            "fill": "{fill.default}",
+            "boxShadow": "{dropShadow.sm}"
+          },
+          "type": "composition"
+        }
+      }
+    },
+    "label": {
+      "unselected": {
+        "default": {
+          "value": {
+            "typography": "{body}",
+            "fill": "{text.stronger.neutral}"
+          },
+          "type": "composition"
+        },
+        "disable": {
+          "value": {
+            "typography": "{body}",
+            "fill": "{text.subtle.neutral}"
+          },
+          "type": "composition"
+        }
+      },
+      "selected": {
+        "default": {
+          "value": {
+            "typography": "{bodyBold}",
+            "fill": "{text.primary}"
+          },
+          "type": "composition"
+        },
+        "disable": {
+          "value": {
+            "typography": "{bodyBold}",
+            "fill": "{text.subtle.neutral}"
+          },
+          "type": "composition"
+        }
+      }
+    },
+    "trackBase": {
+      "value": {
+        "verticalPadding": "{padding.xxs}",
+        "horizontalPadding": "{padding.xxs}",
+        "itemSpacing": "{gap.xxs}",
+        "fill": "{fill.subtle.neutral}",
+        "borderRadius": "{cornerRadius.md}"
+      },
+      "type": "composition"
+    }
+  }
+}

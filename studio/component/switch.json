@@ -1,0 +1,114 @@
+{
+  "switch": {
+    "base": {
+      "unselected": {
+        "default": {
+          "value": {
+            "height": "{height.md}*3",
+            "width": "{width.lg}*4+2",
+            "borderRadius": "{cornerRadius.max}",
+            "fill": "{fill.neutral}"
+          },
+          "type": "composition"
+        },
+        "hover": {
+          "value": {
+            "height": "{height.md}*3",
+            "width": "{width.lg}*4+2",
+            "borderRadius": "{cornerRadius.max}",
+            "fill": "{state.neutral.hover}"
+          },
+          "type": "composition"
+        },
+        "press": {
+          "value": {
+            "height": "{height.md}*3",
+            "width": "{width.lg}*4+2",
+            "borderRadius": "{cornerRadius.max}",
+            "fill": "{state.neutral.press}"
+          },
+          "type": "composition"
+        },
+        "disable": {
+          "value": {
+            "height": "{height.md}*3",
+            "width": "{width.lg}*4+2",
+            "borderRadius": "{cornerRadius.max}",
+            "fill": "{fill.subtle.neutral}"
+          },
+          "type": "composition"
+        }
+      },
+      "selected": {
+        "default": {
+          "value": {
+            "height": "{height.md}*3",
+            "width": "{width.lg}*4+2",
+            "borderRadius": "{cornerRadius.max}",
+            "fill": "{fill.primary}"
+          },
+          "type": "composition"
+        },
+        "hover": {
+          "value": {
+            "height": "{height.md}*3",
+            "width": "{width.lg}*4+2",
+            "borderRadius": "{cornerRadius.max}",
+            "fill": "{state.primary.hover}"
+          },
+          "type": "composition"
+        },
+        "press": {
+          "value": {
+            "height": "{height.md}*3",
+            "width": "{width.lg}*4+2",
+            "borderRadius": "{cornerRadius.max}",
+            "fill": "{state.primary.press}"
+          },
+          "type": "composition"
+        },
+        "disable": {
+          "value": {
+            "height": "{height.md}*3",
+            "width": "{width.lg}*4+2",
+            "borderRadius": "{cornerRadius.max}",
+            "fill": "{fill.subtle.neutral}"
+          },
+          "type": "composition"
+        }
+      }
+    },
+    "layout": {
+      "value": {
+        "itemSpacing": "{gap.sm}"
+      },
+      "type": "composition"
+    },
+    "onBase": {
+      "knob": {
+        "value": {
+          "width": "{width.lg}*2",
+          "height": "{height.lg}*2",
+          "borderRadius": "{cornerRadius.max}",
+          "fill": "{icon.inverse}",
+          "boxShadow": "{dropShadow.sm}"
+        },
+        "type": "composition"
+      },
+      "label": {
+        "value": {
+          "typography": "{body}",
+          "fill": "{text.strong.neutral}"
+        },
+        "type": "composition"
+      },
+      "labelDisable": {
+        "value": {
+          "typography": "{body}",
+          "fill": "{text.subtle.neutral}"
+        },
+        "type": "composition"
+      }
+    }
+  }
+}

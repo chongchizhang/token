@@ -1,0 +1,55 @@
+{
+  "audioLevel": {
+    "onBase": {
+      "none": {
+        "value": {
+          "height": "{height.lg}*2",
+          "width": "{height.xl}",
+          "fill": "{fill.disable}",
+          "borderRadius": "{cornerRadius.xxs}"
+        },
+        "type": "composition"
+      },
+      "high": {
+        "value": {
+          "height": "{height.lg}*2",
+          "width": "{height.xl}",
+          "fill": "{icon.success}",
+          "borderColor": "{border.strong.success}",
+          "borderWidth": "{stroke.xxs}/2"
+        },
+        "type": "composition"
+      },
+      "medium": {
+        "value": {
+          "height": "{height.lg}*2",
+          "width": "{height.xl}",
+          "fill": "{icon.warning}",
+          "borderColor": "{border.strong.warning}",
+          "borderWidth": "{stroke.xxs}/2"
+        },
+        "type": "composition"
+      },
+      "low": {
+        "value": {
+          "height": "{height.lg}*2",
+          "width": "{height.xl}",
+          "fill": "{icon.error}",
+          "borderColor": "{border.strong.error}",
+          "borderWidth": "{stroke.xxs}/2"
+        },
+        "type": "composition"
+      }
+    },
+    "base": {
+      "layout": {
+        "value": {
+          "verticalPadding": "{padding.none}",
+          "horizontalPadding": "{padding.none}",
+          "itemSpacing": "{gap.xxs}"
+        },
+        "type": "composition"
+      }
+    }
+  }
+}

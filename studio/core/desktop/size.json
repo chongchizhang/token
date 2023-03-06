@@ -1,387 +1,209 @@
 {
-  "sizing": {
-    "none": {
-      "value": "0",
-      "type": "sizing",
-      "inheritTypeLevel": 2
-    },
-    "xxxs": {
-      "value": "1",
-      "type": "sizing",
-      "inheritTypeLevel": 2
-    },
-    "xxs": {
-      "value": "2",
-      "type": "sizing",
-      "inheritTypeLevel": 2
-    },
-    "xs": {
-      "value": "4",
-      "type": "sizing",
-      "inheritTypeLevel": 2
-    },
-    "sm": {
-      "value": "6",
-      "type": "sizing",
-      "inheritTypeLevel": 2
-    },
-    "md": {
-      "value": "8",
-      "type": "sizing",
-      "inheritTypeLevel": 2
-    },
-    "lg": {
-      "value": "10",
-      "type": "sizing",
-      "inheritTypeLevel": 2
-    },
-    "xl": {
-      "value": "12",
-      "type": "sizing",
-      "inheritTypeLevel": 2
-    },
-    "xxl": {
-      "value": "14",
-      "type": "sizing",
-      "inheritTypeLevel": 2
-    },
-    "xxxl": {
-      "value": "16",
-      "type": "sizing",
-      "inheritTypeLevel": 2
-    }
-  },
-  "spacing": {
-    "none": {
-      "value": "0",
-      "type": "spacing",
-      "inheritTypeLevel": 2
-    },
-    "xxxs": {
-      "value": "1",
-      "type": "spacing",
-      "inheritTypeLevel": 2
-    },
-    "xxs": {
-      "value": "2",
-      "type": "spacing",
-      "inheritTypeLevel": 2
-    },
-    "xs": {
-      "value": "4",
-      "type": "spacing",
-      "inheritTypeLevel": 2
-    },
-    "sm": {
-      "value": "6",
-      "type": "spacing",
-      "inheritTypeLevel": 2
-    },
-    "md": {
-      "value": "8",
-      "type": "spacing",
-      "inheritTypeLevel": 2
-    },
-    "lg": {
-      "value": "10",
-      "type": "spacing",
-      "inheritTypeLevel": 2
-    },
-    "xl": {
-      "value": "12",
-      "type": "spacing",
-      "inheritTypeLevel": 2
-    },
-    "xxl": {
-      "value": "14",
-      "type": "spacing",
-      "inheritTypeLevel": 2
-    },
-    "xxxl": {
-      "value": "16",
-      "type": "spacing",
-      "inheritTypeLevel": 2
-    }
-  },
-  "borderRadius": {
-    "none": {
-      "value": "0",
-      "type": "borderRadius",
-      "inheritTypeLevel": 2
-    },
-    "xxxs": {
-      "value": "1",
-      "type": "borderRadius",
-      "inheritTypeLevel": 2
-    },
-    "xxs": {
-      "value": "2",
-      "type": "borderRadius",
-      "inheritTypeLevel": 2
-    },
-    "xs": {
-      "value": "4",
-      "type": "borderRadius",
-      "inheritTypeLevel": 2
-    },
-    "sm": {
-      "value": "6",
-      "type": "borderRadius",
-      "inheritTypeLevel": 2
-    },
-    "md": {
-      "value": "8",
-      "type": "borderRadius",
-      "inheritTypeLevel": 2
-    },
-    "lg": {
-      "value": "10",
-      "type": "borderRadius",
-      "inheritTypeLevel": 2
-    },
-    "xl": {
-      "value": "12",
-      "type": "borderRadius",
-      "inheritTypeLevel": 2
-    },
-    "xxl": {
-      "value": "14",
-      "type": "borderRadius",
-      "inheritTypeLevel": 2
-    },
-    "xxxl": {
-      "value": "16",
-      "type": "borderRadius",
-      "inheritTypeLevel": 2
-    },
-    "max": {
-      "value": "9999",
-      "type": "borderRadius"
-    }
-  },
-  "borderWidth": {
-    "none": {
-      "value": "0",
-      "type": "borderWidth",
-      "inheritTypeLevel": 2
-    },
-    "xxs": {
-      "value": "1",
-      "type": "borderWidth",
-      "inheritTypeLevel": 2
-    },
-    "xs": {
-      "value": "2",
-      "type": "borderWidth",
-      "inheritTypeLevel": 2
-    },
-    "sm": {
-      "value": "3",
-      "type": "borderWidth",
-      "inheritTypeLevel": 2
-    },
-    "md": {
-      "value": "4",
-      "type": "borderWidth",
-      "inheritTypeLevel": 2
-    },
-    "lg": {
-      "value": "5",
-      "type": "borderWidth",
-      "inheritTypeLevel": 2
-    },
-    "xl": {
-      "value": "6",
-      "type": "borderWidth",
-      "inheritTypeLevel": 2
-    },
-    "xxl": {
-      "value": "7",
-      "type": "borderWidth",
-      "inheritTypeLevel": 2
-    },
-    "xxxl": {
-      "value": "8",
-      "type": "borderWidth",
-      "inheritTypeLevel": 2
-    }
-  },
-  "scale": {
-    "minorSecond": {
-      "value": "1.067",
-      "type": "other",
-      "inheritTypeLevel": 2
-    },
-    "majorSecond": {
-      "value": "1.125",
-      "type": "other",
-      "inheritTypeLevel": 2
-    },
-    "minorThird": {
-      "value": "1.2",
-      "type": "other",
-      "inheritTypeLevel": 2
-    },
-    "majorThird": {
-      "value": "1.25",
-      "type": "other",
-      "inheritTypeLevel": 2
-    },
-    "perfectFourth": {
-      "value": "1.333",
-      "type": "other",
-      "inheritTypeLevel": 2
-    },
-    "augmentedFourth": {
-      "value": "1.414",
-      "type": "other",
-      "inheritTypeLevel": 2
-    },
-    "perfectFifth": {
-      "value": "1.5",
-      "type": "other",
-      "inheritTypeLevel": 2
-    },
-    "minorSixth": {
-      "value": "1.6",
-      "type": "other",
-      "inheritTypeLevel": 2
-    },
-    "goldenRatio": {
-      "value": "1.618",
-      "type": "other",
-      "inheritTypeLevel": 2
-    },
-    "majorSixth": {
-      "value": "1.667",
-      "type": "other",
-      "inheritTypeLevel": 2
-    },
-    "minorSeventh": {
-      "value": "1.778",
-      "type": "other",
-      "inheritTypeLevel": 2
-    },
-    "majorSeventh": {
-      "value": "1.875",
-      "type": "other",
-      "inheritTypeLevel": 2
-    },
-    "octave": {
-      "value": "2",
-      "type": "other",
-      "inheritTypeLevel": 2
-    },
-    "majorTenth": {
-      "value": "2.5",
-      "type": "other",
-      "inheritTypeLevel": 2
-    },
-    "majorEleventh": {
-      "value": "2.667",
-      "type": "other",
-      "inheritTypeLevel": 2
-    },
-    "majorTwelfth": {
-      "value": "3",
-      "type": "other",
-      "inheritTypeLevel": 2
-    },
-    "doubleOctave": {
-      "value": "4",
-      "type": "other",
-      "inheritTypeLevel": 2
-    }
-  },
-  "breakpoint": {
-    "xxs-screen": {
-      "min": {
+  "desktop": {
+    "sizing": {
+      "none": {
         "value": "0",
-        "type": "other",
+        "type": "sizing",
         "inheritTypeLevel": 2
       },
-      "max": {
-        "value": "319",
-        "type": "other",
+      "xxxs": {
+        "value": "1",
+        "type": "sizing",
+        "inheritTypeLevel": 2
+      },
+      "xxs": {
+        "value": "2",
+        "type": "sizing",
+        "inheritTypeLevel": 2
+      },
+      "xs": {
+        "value": "4",
+        "type": "sizing",
+        "inheritTypeLevel": 2
+      },
+      "sm": {
+        "value": "6",
+        "type": "sizing",
+        "inheritTypeLevel": 2
+      },
+      "md": {
+        "value": "8",
+        "type": "sizing",
+        "inheritTypeLevel": 2
+      },
+      "lg": {
+        "value": "10",
+        "type": "sizing",
+        "inheritTypeLevel": 2
+      },
+      "xl": {
+        "value": "12",
+        "type": "sizing",
+        "inheritTypeLevel": 2
+      },
+      "xxl": {
+        "value": "14",
+        "type": "sizing",
+        "inheritTypeLevel": 2
+      },
+      "xxxl": {
+        "value": "16",
+        "type": "sizing",
         "inheritTypeLevel": 2
       }
     },
-    "xs-screen": {
-      "min": {
-        "value": "320",
-        "type": "other",
+    "spacing": {
+      "none": {
+        "value": "0",
+        "type": "spacing",
         "inheritTypeLevel": 2
       },
-      "max": {
-        "value": "374",
-        "type": "other",
+      "xxxs": {
+        "value": "1",
+        "type": "spacing",
+        "inheritTypeLevel": 2
+      },
+      "xxs": {
+        "value": "2",
+        "type": "spacing",
+        "inheritTypeLevel": 2
+      },
+      "xs": {
+        "value": "4",
+        "type": "spacing",
+        "inheritTypeLevel": 2
+      },
+      "sm": {
+        "value": "6",
+        "type": "spacing",
+        "inheritTypeLevel": 2
+      },
+      "md": {
+        "value": "8",
+        "type": "spacing",
+        "inheritTypeLevel": 2
+      },
+      "lg": {
+        "value": "10",
+        "type": "spacing",
+        "inheritTypeLevel": 2
+      },
+      "xl": {
+        "value": "12",
+        "type": "spacing",
+        "inheritTypeLevel": 2
+      },
+      "xxl": {
+        "value": "14",
+        "type": "spacing",
+        "inheritTypeLevel": 2
+      },
+      "xxxl": {
+        "value": "16",
+        "type": "spacing",
         "inheritTypeLevel": 2
       }
     },
-    "sm-screen": {
-      "min": {
-        "value": "375",
-        "type": "other",
+    "borderRadius": {
+      "none": {
+        "value": "0",
+        "type": "borderRadius",
+        "inheritTypeLevel": 2
+      },
+      "xxxs": {
+        "value": "1",
+        "type": "borderRadius",
+        "inheritTypeLevel": 2
+      },
+      "xxs": {
+        "value": "2",
+        "type": "borderRadius",
+        "inheritTypeLevel": 2
+      },
+      "xs": {
+        "value": "4",
+        "type": "borderRadius",
+        "inheritTypeLevel": 2
+      },
+      "sm": {
+        "value": "6",
+        "type": "borderRadius",
+        "inheritTypeLevel": 2
+      },
+      "md": {
+        "value": "8",
+        "type": "borderRadius",
+        "inheritTypeLevel": 2
+      },
+      "lg": {
+        "value": "10",
+        "type": "borderRadius",
+        "inheritTypeLevel": 2
+      },
+      "xl": {
+        "value": "12",
+        "type": "borderRadius",
+        "inheritTypeLevel": 2
+      },
+      "xxl": {
+        "value": "14",
+        "type": "borderRadius",
+        "inheritTypeLevel": 2
+      },
+      "xxxl": {
+        "value": "16",
+        "type": "borderRadius",
         "inheritTypeLevel": 2
       },
       "max": {
-        "value": "424",
-        "type": "other",
-        "inheritTypeLevel": 2
+        "value": "9999",
+        "type": "borderRadius"
       }
     },
-    "md-screen": {
-      "min": {
-        "value": "425",
-        "type": "other",
+    "borderWidth": {
+      "none": {
+        "value": "0",
+        "type": "borderWidth",
         "inheritTypeLevel": 2
       },
-      "max": {
-        "value": "767",
-        "type": "other",
-        "inheritTypeLevel": 2
-      }
-    },
-    "lg-screen": {
-      "min": {
-        "value": "768",
-        "type": "other",
+      "xxs": {
+        "value": "1",
+        "type": "borderWidth",
         "inheritTypeLevel": 2
       },
-      "max": {
-        "value": "1023",
-        "type": "other",
-        "inheritTypeLevel": 2
-      }
-    },
-    "xl-screen": {
-      "min": {
-        "value": "1024",
-        "type": "other",
+      "xs": {
+        "value": "2",
+        "type": "borderWidth",
         "inheritTypeLevel": 2
       },
-      "max": {
-        "value": "1439",
-        "type": "other",
-        "inheritTypeLevel": 2
-      }
-    },
-    "xxl-screen": {
-      "min": {
-        "value": "1440",
-        "type": "other",
+      "sm": {
+        "value": "3",
+        "type": "borderWidth",
         "inheritTypeLevel": 2
       },
-      "max": {
-        "value": "2559",
-        "type": "other",
+      "md": {
+        "value": "4",
+        "type": "borderWidth",
         "inheritTypeLevel": 2
-      }
-    },
-    "xxxl-screen": {
-      "min": {
-        "value": "2560",
-        "type": "other",
+      },
+      "lg": {
+        "value": "5",
+        "type": "borderWidth",
+        "inheritTypeLevel": 2
+      },
+      "xl": {
+        "value": "6",
+        "type": "borderWidth",
+        "inheritTypeLevel": 2
+      },
+      "xxl": {
+        "value": "7",
+        "type": "borderWidth",
+        "inheritTypeLevel": 2
+      },
+      "xxxl": {
+        "value": "8",
+        "type": "borderWidth",
         "inheritTypeLevel": 2
       }
     }

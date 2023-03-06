@@ -9,7 +9,7 @@
     },
     "hover": {
       "value": {
-        "fill": "{text.strong.primary}",
+        "fill": "{state.primary.hover}",
         "typography": "{body}",
         "textDecoration": "{textDecoration.underline}"
       },
@@ -17,7 +17,7 @@
     },
     "press": {
       "value": {
-        "fill": "{text.stronger.primary}",
+        "fill": "{state.primary.press}",
         "typography": "{body}",
         "textDecoration": "{textDecoration.underline}"
       },
@@ -25,7 +25,7 @@
     },
     "disable": {
       "value": {
-        "fill": "{text.disable}",
+        "fill": "{text.subtle.neutral}",
         "typography": "{body}"
       },
       "type": "composition"

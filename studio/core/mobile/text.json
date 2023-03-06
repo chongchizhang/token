@@ -1,238 +1,98 @@
 {
   "mobile": {
-    "fontFamily": {
-      "sfPro": {
-        "value": "SF Pro",
-        "type": "fontFamily",
-        "inheritTypeLevel": 3
-      },
-      "segoeUI": {
-        "value": "Segoe UI Variable",
-        "type": "fontFamily",
-        "inheritTypeLevel": 3
-      },
-      "roboto": {
-        "value": "Roboto",
-        "type": "fontFamily",
-        "inheritTypeLevel": 3
-      },
-      "ubuntu": {
-        "value": "Ubuntu",
-        "type": "fontFamily",
-        "inheritTypeLevel": 3
-      },
-      "sfMono": {
-        "value": "SF Mono",
-        "type": "fontFamily",
-        "inheritTypeLevel": 3
-      },
-      "consolas": {
-        "value": "Consolas",
-        "type": "fontFamily",
-        "inheritTypeLevel": 3
-      },
-      "robotoMono": {
-        "value": "Roboto Mono",
-        "type": "fontFamily",
-        "inheritTypeLevel": 3
-      },
-      "ubuntuMono": {
-        "value": "Ubuntu Mono",
-        "type": "fontFamily",
-        "inheritTypeLevel": 3
-      }
-    },
-    "fontWeight": {
-      "regularSmall": {
-        "value": "Regular Small",
-        "type": "fontWeight",
-        "inheritTypeLevel": 2
-      },
-      "regular": {
-        "value": "Regular",
-        "type": "fontWeight",
-        "inheritTypeLevel": 2
-      },
-      "medium": {
-        "value": "Medium",
-        "type": "fontWeight",
-        "inheritTypeLevel": 2
-      },
-      "semiBoldSmall": {
-        "value": "Semibold Small",
-        "type": "fontWeight",
-        "inheritTypeLevel": 2
-      },
-      "semiBold": {
-        "value": "SemiBold",
-        "type": "fontWeight",
-        "inheritTypeLevel": 2
-      },
-      "semiBoldDisplay": {
-        "value": "Semibold Display",
-        "type": "fontWeight",
-        "inheritTypeLevel": 2
-      },
-      "semiBoldText": {
-        "value": "Semibold Text",
-        "type": "fontWeight",
-        "inheritTypeLevel": 2
-      },
-      "bold": {
-        "value": "Bold",
-        "type": "fontWeight",
-        "inheritTypeLevel": 2
-      },
-      "boldDisplay": {
-        "value": "Bold Display",
-        "type": "fontWeight",
-        "inheritTypeLevel": 2
-      }
-    },
     "fontSize": {
       "xxs": {
-        "value": "roundTo({fontSize.xxs}*{scale.majorSecond})",
+        "value": "roundTo({desktop.fontSize.xxs}*{scale.majorSecond})",
         "type": "fontSize",
         "inheritTypeLevel": 3
       },
       "xs": {
-        "value": "roundTo({fontSize.xs}*{scale.majorSecond})",
+        "value": "roundTo({desktop.fontSize.xs}*{scale.majorSecond})",
         "type": "fontSize",
         "inheritTypeLevel": 3
       },
       "sm": {
-        "value": "roundTo({fontSize.sm}*{scale.majorSecond})",
+        "value": "roundTo({desktop.fontSize.sm}*{scale.majorSecond})",
         "type": "fontSize",
         "inheritTypeLevel": 3
       },
       "md": {
-        "value": "roundTo({fontSize.md}*{scale.majorSecond})",
+        "value": "roundTo({desktop.fontSize.md}*{scale.majorSecond})",
         "type": "fontSize",
         "inheritTypeLevel": 3
       },
       "lg": {
-        "value": "roundTo({fontSize.lg}*{scale.majorSecond})",
+        "value": "roundTo({desktop.fontSize.lg}*{scale.majorSecond})",
         "type": "fontSize",
         "inheritTypeLevel": 3
       },
       "xl": {
-        "value": "roundTo({fontSize.xl}*{scale.majorSecond})",
+        "value": "roundTo({desktop.fontSize.xl}*{scale.majorSecond})",
         "type": "fontSize",
         "inheritTypeLevel": 3
       },
       "xxl": {
-        "value": "roundTo({fontSize.xxl}*{scale.majorSecond})",
+        "value": "roundTo({desktop.fontSize.xxl}*{scale.majorSecond})",
         "type": "fontSize",
         "inheritTypeLevel": 3
       }
     },
     "lineHeight": {
       "xxs": {
-        "value": "roundTo({lineHeight.xxs}*{scale.majorSecond})",
+        "value": "roundTo({desktop.lineHeight.xxs}*{scale.majorSecond})",
         "type": "lineHeight",
         "inheritTypeLevel": 3
       },
       "xs": {
-        "value": "roundTo({lineHeight.xs}*{scale.majorSecond})",
+        "value": "roundTo({desktop.lineHeight.xs}*{scale.majorSecond})",
         "type": "lineHeight",
         "inheritTypeLevel": 3
       },
       "sm": {
-        "value": "roundTo({lineHeight.sm}*{scale.majorSecond})",
+        "value": "roundTo({desktop.lineHeight.sm}*{scale.majorSecond})",
         "type": "lineHeight",
         "inheritTypeLevel": 3
       },
       "md": {
-        "value": "roundTo({lineHeight.md}*{scale.majorSecond})",
+        "value": "roundTo({desktop.lineHeight.md}*{scale.majorSecond})",
         "type": "lineHeight",
         "inheritTypeLevel": 3
       },
       "lg": {
-        "value": "roundTo({lineHeight.lg}*{scale.majorSecond})",
+        "value": "roundTo({desktop.lineHeight.lg}*{scale.majorSecond})",
         "type": "lineHeight",
         "inheritTypeLevel": 3
       },
       "xl": {
-        "value": "roundTo({lineHeight.xl}*{scale.majorSecond})",
+        "value": "roundTo({desktop.lineHeight.xl}*{scale.majorSecond})",
         "type": "lineHeight",
         "inheritTypeLevel": 3
       },
       "xxl": {
-        "value": "roundTo({lineHeight.xxl}*{scale.majorSecond})",
+        "value": "roundTo({desktop.lineHeight.xxl}*{scale.majorSecond})",
         "type": "lineHeight",
         "inheritTypeLevel": 3
       },
       "auto": {
         "value": "auto",
         "type": "lineHeight",
-        "inheritTypeLevel": 3
-      }
-    },
-    "letterSpacing": {
-      "auto": {
-        "value": "auto",
-        "type": "letterSpacing",
-        "inheritTypeLevel": 3
-      },
-      "Increased": {
-        "value": "3%",
-        "type": "letterSpacing",
         "inheritTypeLevel": 3
       }
     },
     "paragraphSpacing": {
       "sm": {
-        "value": "roundTo({paragraphSpacing.sm}*{scale.majorSecond})",
+        "value": "roundTo({desktop.paragraphSpacing.sm}*{scale.majorSecond})",
         "type": "paragraphSpacing",
         "inheritTypeLevel": 3
       },
       "md": {
-        "value": "roundTo({paragraphSpacing.md}*{scale.majorSecond})",
+        "value": "roundTo({desktop.paragraphSpacing.md}*{scale.majorSecond})",
         "type": "paragraphSpacing",
         "inheritTypeLevel": 3
       },
       "lg": {
-        "value": "roundTo({paragraphSpacing.lg}*{scale.majorSecond})",
+        "value": "roundTo({desktop.paragraphSpacing.lg}*{scale.majorSecond})",
         "type": "paragraphSpacing",
-        "inheritTypeLevel": 3
-      }
-    },
-    "textCase": {
-      "none": {
-        "value": "none",
-        "type": "textCase",
-        "inheritTypeLevel": 3
-      },
-      "upper": {
-        "value": "uppercase",
-        "type": "textCase",
-        "inheritTypeLevel": 3
-      },
-      "lower": {
-        "value": "lowercase",
-        "type": "textCase",
-        "inheritTypeLevel": 3
-      },
-      "cap": {
-        "value": "capitalize",
-        "type": "textCase",
-        "inheritTypeLevel": 3
-      }
-    },
-    "textDecoration": {
-      "none": {
-        "value": "none",
-        "type": "textDecoration",
-        "inheritTypeLevel": 3
-      },
-      "underline": {
-        "value": "underline",
-        "type": "textDecoration",
-        "inheritTypeLevel": 3
-      },
-      "lineThrough": {
-        "value": "line-through",
-        "type": "textDecoration",
         "inheritTypeLevel": 3
       }
     }

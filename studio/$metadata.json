@@ -1,14 +1,13 @@
 {
   "tokenSetOrder": [
-    "core/retro/color",
-    "core/retro/effect",
-    "core/retro/size",
-    "core/retro/text",
-    "core/desktop/color",
+    "core/palette/color1.0",
+    "core/palette/color2.0",
+    "core/palette/effect",
+    "core/universal/size",
+    "core/universal/text",
     "core/desktop/text",
     "core/desktop/size",
     "core/desktop/effect",
-    "core/mobile/color",
     "core/mobile/text",
     "core/mobile/size",
     "core/mobile/effect",
@@ -22,8 +21,18 @@
     "semantic/zoomDark",
     "semantic/eventsLight",
     "semantic/retroLight",
+    "semantic/retroDark",
+    "component/accordion",
     "component/button",
     "component/link",
-    "component/test"
+    "component/checkbox",
+    "component/radioButton",
+    "component/switch",
+    "component/divider",
+    "component/segmentedControl",
+    "component/tooltip",
+    "component/audioLevel",
+    "component/progressBar",
+    "component/slider"
   ]
 }

@@ -44,6 +44,12 @@
     }
   },
   "fill": {
+    "default": {
+      "value": "{ui.gray.0}",
+      "description": "gray-0",
+      "type": "color",
+      "inheritTypeLevel": 2
+    },
     "subtle": {
       "neutral": {
         "value": "{ui.gray.20}",

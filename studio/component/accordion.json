@@ -1,0 +1,57 @@
+{
+  "accordion": {
+    "base": {
+      "default": {
+        "value": {
+          "verticalPadding": "{padding.xl}",
+          "horizontalPadding": "{padding.md}",
+          "itemSpacing": "{gap.md}",
+          "width": "{width.lg}*20"
+        },
+        "type": "composition"
+      },
+      "hover": {
+        "value": {
+          "verticalPadding": "{padding.xl}",
+          "horizontalPadding": "{padding.md}",
+          "itemSpacing": "{gap.md}",
+          "width": "{width.lg}*20",
+          "fill": "{state.subtle.neutral.hover}"
+        },
+        "type": "composition"
+      },
+      "press": {
+        "value": {
+          "verticalPadding": "{padding.xl}",
+          "horizontalPadding": "{padding.md}",
+          "itemSpacing": "{gap.md}",
+          "width": "{width.lg}*20",
+          "fill": "{state.subtle.neutral.press}"
+        },
+        "type": "composition"
+      }
+    },
+    "onBase": {
+      "label": {
+        "value": {
+          "typography": "{bodyBold}",
+          "fill": "{text.stronger.neutral}"
+        },
+        "type": "composition"
+      },
+      "icon": {
+        "value": {
+          "width": "{width.xxxl}",
+          "height": "{height.xxxl}"
+        },
+        "type": "composition"
+      },
+      "iconColor": {
+        "value": {
+          "fill": "{icon.neutral}"
+        },
+        "type": "composition"
+      }
+    }
+  }
+}

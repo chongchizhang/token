@@ -1,0 +1,11 @@
+{
+  "divider": {
+    "base": {
+      "value": {
+        "borderWidth": "{stroke.xxs}",
+        "borderColor": "{border.subtle.neutral}"
+      },
+      "type": "composition"
+    }
+  }
+}

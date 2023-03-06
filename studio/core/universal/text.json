@@ -88,93 +88,14 @@
       "inheritTypeLevel": 2
     }
   },
-  "fontSize": {
-    "xxs": {
-      "value": "9",
-      "type": "fontSize",
-      "inheritTypeLevel": 2
-    },
-    "xs": {
-      "value": "10",
-      "type": "fontSize",
-      "inheritTypeLevel": 2
-    },
-    "sm": {
-      "value": "12",
-      "type": "fontSize",
-      "inheritTypeLevel": 2
-    },
-    "md": {
-      "value": "14",
-      "type": "fontSize",
-      "inheritTypeLevel": 2
-    },
-    "lg": {
-      "value": "16",
-      "type": "fontSize",
-      "inheritTypeLevel": 2
-    },
-    "xl": {
-      "value": "24",
-      "type": "fontSize",
-      "inheritTypeLevel": 2
-    },
-    "xxl": {
-      "value": "36",
-      "type": "fontSize",
-      "inheritTypeLevel": 2
-    }
-  },
-  "lineHeight": {
-    "xxs": {
-      "value": "12",
-      "type": "lineHeight",
-      "inheritTypeLevel": 2
-    },
-    "xs": {
-      "value": "16",
-      "type": "lineHeight",
-      "inheritTypeLevel": 2
-    },
-    "sm": {
-      "value": "18",
-      "type": "lineHeight",
-      "inheritTypeLevel": 2
-    },
-    "md": {
-      "value": "20",
-      "type": "lineHeight",
-      "inheritTypeLevel": 2
-    },
-    "lg": {
-      "value": "28",
-      "type": "lineHeight",
-      "inheritTypeLevel": 2
-    },
-    "xl": {
-      "value": "32",
-      "type": "lineHeight",
-      "inheritTypeLevel": 2
-    },
-    "xxl": {
-      "value": "40",
-      "type": "lineHeight",
-      "inheritTypeLevel": 2
-    },
-    "auto": {
-      "value": "auto",
-      "type": "lineHeight",
-      "inheritTypeLevel": 2
-    }
-  },
   "letterSpacing": {
     "xxs": {
-      "value": "-0.02",
+      "value": "-0.31",
       "type": "letterSpacing",
       "inheritTypeLevel": 2
     },
     "xs": {
-      "value": "-0.011",
+      "value": "-0.15",
       "type": "letterSpacing",
       "inheritTypeLevel": 2
     },
@@ -184,45 +105,28 @@
       "inheritTypeLevel": 2
     },
     "md": {
-      "value": "0.003",
+      "value": "0.07",
       "type": "letterSpacing",
       "inheritTypeLevel": 2
     },
     "lg": {
-      "value": "0.01",
+      "value": "0.37",
       "type": "letterSpacing",
       "inheritTypeLevel": 2
     },
     "xl": {
-      "value": "0.012",
+      "value": "0.12",
       "type": "letterSpacing",
       "inheritTypeLevel": 2
     },
     "xxl": {
-      "value": "0.019",
+      "value": "0.17",
       "type": "letterSpacing",
       "inheritTypeLevel": 2
     },
     "auto": {
       "value": "auto",
       "type": "lineHeight",
-      "inheritTypeLevel": 2
-    }
-  },
-  "paragraphSpacing": {
-    "sm": {
-      "value": "4",
-      "type": "paragraphSpacing",
-      "inheritTypeLevel": 2
-    },
-    "md": {
-      "value": "8",
-      "type": "paragraphSpacing",
-      "inheritTypeLevel": 2
-    },
-    "lg": {
-      "value": "16",
-      "type": "paragraphSpacing",
       "inheritTypeLevel": 2
     }
   },

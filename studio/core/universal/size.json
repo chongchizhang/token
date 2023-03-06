@@ -1,0 +1,182 @@
+{
+  "scale": {
+    "minorSecond": {
+      "value": "1.067",
+      "type": "other",
+      "inheritTypeLevel": 1
+    },
+    "majorSecond": {
+      "value": "1.125",
+      "type": "other",
+      "inheritTypeLevel": 1
+    },
+    "minorThird": {
+      "value": "1.2",
+      "type": "other",
+      "inheritTypeLevel": 1
+    },
+    "majorThird": {
+      "value": "1.25",
+      "type": "other",
+      "inheritTypeLevel": 1
+    },
+    "perfectFourth": {
+      "value": "1.333",
+      "type": "other",
+      "inheritTypeLevel": 1
+    },
+    "augmentedFourth": {
+      "value": "1.414",
+      "type": "other",
+      "inheritTypeLevel": 1
+    },
+    "perfectFifth": {
+      "value": "1.5",
+      "type": "other",
+      "inheritTypeLevel": 1
+    },
+    "minorSixth": {
+      "value": "1.6",
+      "type": "other",
+      "inheritTypeLevel": 1
+    },
+    "goldenRatio": {
+      "value": "1.618",
+      "type": "other",
+      "inheritTypeLevel": 1
+    },
+    "majorSixth": {
+      "value": "1.667",
+      "type": "other",
+      "inheritTypeLevel": 1
+    },
+    "minorSeventh": {
+      "value": "1.778",
+      "type": "other",
+      "inheritTypeLevel": 1
+    },
+    "majorSeventh": {
+      "value": "1.875",
+      "type": "other",
+      "inheritTypeLevel": 1
+    },
+    "octave": {
+      "value": "2",
+      "type": "other",
+      "inheritTypeLevel": 1
+    },
+    "majorTenth": {
+      "value": "2.5",
+      "type": "other",
+      "inheritTypeLevel": 1
+    },
+    "majorEleventh": {
+      "value": "2.667",
+      "type": "other",
+      "inheritTypeLevel": 1
+    },
+    "majorTwelfth": {
+      "value": "3",
+      "type": "other",
+      "inheritTypeLevel": 1
+    },
+    "doubleOctave": {
+      "value": "4",
+      "type": "other",
+      "inheritTypeLevel": 1
+    }
+  },
+  "breakpoint": {
+    "xxs-screen": {
+      "min": {
+        "value": "0",
+        "type": "other",
+        "inheritTypeLevel": 1
+      },
+      "max": {
+        "value": "319",
+        "type": "other",
+        "inheritTypeLevel": 1
+      }
+    },
+    "xs-screen": {
+      "min": {
+        "value": "320",
+        "type": "other",
+        "inheritTypeLevel": 1
+      },
+      "max": {
+        "value": "374",
+        "type": "other",
+        "inheritTypeLevel": 1
+      }
+    },
+    "sm-screen": {
+      "min": {
+        "value": "375",
+        "type": "other",
+        "inheritTypeLevel": 1
+      },
+      "max": {
+        "value": "424",
+        "type": "other",
+        "inheritTypeLevel": 1
+      }
+    },
+    "md-screen": {
+      "min": {
+        "value": "425",
+        "type": "other",
+        "inheritTypeLevel": 1
+      },
+      "max": {
+        "value": "767",
+        "type": "other",
+        "inheritTypeLevel": 1
+      }
+    },
+    "lg-screen": {
+      "min": {
+        "value": "768",
+        "type": "other",
+        "inheritTypeLevel": 1
+      },
+      "max": {
+        "value": "1023",
+        "type": "other",
+        "inheritTypeLevel": 1
+      }
+    },
+    "xl-screen": {
+      "min": {
+        "value": "1024",
+        "type": "other",
+        "inheritTypeLevel": 1
+      },
+      "max": {
+        "value": "1439",
+        "type": "other",
+        "inheritTypeLevel": 1
+      }
+    },
+    "xxl-screen": {
+      "min": {
+        "value": "1440",
+        "type": "other",
+        "inheritTypeLevel": 1
+      },
+      "max": {
+        "value": "2559",
+        "type": "other",
+        "inheritTypeLevel": 1
+      }
+    },
+    "xxxl-screen": {
+      "min": {
+        "value": "2560",
+        "type": "other",
+        "inheritTypeLevel": 1
+      }
+    }
+  }
+}

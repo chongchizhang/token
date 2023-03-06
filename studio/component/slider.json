@@ -1,0 +1,64 @@
+{
+  "slider": {
+    "base": {
+      "track": {
+        "value": {
+          "width": "{width.xxxl}*10",
+          "height": "{height.xs}",
+          "fill": "{fill.subtle.neutral}",
+          "borderRadius": "{cornerRadius.max}"
+        },
+        "type": "composition"
+      },
+      "selected": {
+        "value": {
+          "height": "{height.xs}",
+          "width": "{height.md}*10",
+          "fill": "{fill.primary}",
+          "borderRadius": "{cornerRadius.max}"
+        },
+        "type": "composition"
+      },
+      "selectedDisable": {
+        "value": {
+          "height": "{height.xs}",
+          "width": "{height.md}*10",
+          "fill": "{fill.neutral}",
+          "borderRadius": "{cornerRadius.max}"
+        },
+        "type": "composition"
+      }
+    },
+    "onBase": {
+      "knob": {
+        "value": {
+          "height": "{height.xxxl}",
+          "width": "{width.xxxl}",
+          "borderRadius": "{cornerRadius.max}",
+          "fill": "{fill.primary}",
+          "boxShadow": "{dropShadow.sm}"
+        },
+        "type": "composition"
+      },
+      "onKnob": {
+        "value": {
+          "height": "{height.lg}",
+          "width": "{width.lg}",
+          "borderRadius": "{cornerRadius.max}",
+          "fill": "{text.inverse}"
+        },
+        "type": "composition"
+      },
+      "knobDisable": {
+        "value": {
+          "height": "{height.xxxl}",
+          "width": "{width.xxxl}",
+          "borderRadius": "{cornerRadius.max}",
+          "fill": "{fill.neutral}",
+          "boxShadow": "{dropShadow.sm}"
+        },
+        "type": "composition"
+      }
+    }
+  }
+}

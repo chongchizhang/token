@@ -1,0 +1,42 @@
+{
+  "progressBar": {
+    "base": {
+      "track": {
+        "value": {
+          "width": "{width.xxxl}*10",
+          "height": "{height.xs}",
+          "fill": "{fill.subtle.neutral}",
+          "borderRadius": "{cornerRadius.max}"
+        },
+        "type": "composition"
+      },
+      "selected50": {
+        "value": {
+          "height": "{height.xs}",
+          "width": "{height.md}*10",
+          "fill": "{fill.primary}",
+          "borderRadius": "{cornerRadius.max}"
+        },
+        "type": "composition"
+      },
+      "selected100": {
+        "value": {
+          "height": "{height.xs}",
+          "width": "{height.xxxl}*10",
+          "fill": "{fill.primary}",
+          "borderRadius": "{cornerRadius.max}"
+        },
+        "type": "composition"
+      },
+      "selectedDisable": {
+        "value": {
+          "height": "{height.xs}",
+          "width": "{height.md}*10",
+          "fill": "{fill.neutral}",
+          "borderRadius": "{cornerRadius.max}"
+        },
+        "type": "composition"
+      }
+    }
+  }
+}

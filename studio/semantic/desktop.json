@@ -4,8 +4,8 @@
     "value": {
       "fontFamily": "{font.family}",
       "fontWeight": "{font.weight.display1}",
-      "fontSize": "{fontSize.xxl}",
-      "lineHeight": "{lineHeight.xxl}",
+      "fontSize": "{desktop.fontSize.xxl}",
+      "lineHeight": "{desktop.lineHeight.xxl}",
       "letterSpacing": "{font.letterSpacing.display1}"
     }
   },
@@ -14,8 +14,8 @@
     "value": {
       "fontFamily": "{font.family}",
       "fontWeight": "{font.weight.display2}",
-      "fontSize": "{fontSize.xl}",
-      "lineHeight": "{lineHeight.lg}",
+      "fontSize": "{desktop.fontSize.xl}",
+      "lineHeight": "{desktop.lineHeight.lg}",
       "letterSpacing": "{font.letterSpacing.display2}"
     }
   },
@@ -24,8 +24,8 @@
     "value": {
       "fontFamily": "{font.family}",
       "fontWeight": "{font.weight.display3}",
-      "fontSize": "{fontSize.lg}",
-      "lineHeight": "{lineHeight.sm}",
+      "fontSize": "{desktop.fontSize.lg}",
+      "lineHeight": "{desktop.lineHeight.sm}",
       "letterSpacing": "{font.letterSpacing.display3}"
     }
   },
@@ -34,8 +34,8 @@
     "value": {
       "fontFamily": "{font.family}",
       "fontWeight": "{font.weight.bodyBold}",
-      "fontSize": "{fontSize.md}",
-      "lineHeight": "{lineHeight.md}",
+      "fontSize": "{desktop.fontSize.md}",
+      "lineHeight": "{desktop.lineHeight.md}",
       "letterSpacing": "{font.letterSpacing.bodyBold}"
     }
   },
@@ -44,8 +44,8 @@
     "value": {
       "fontFamily": "{font.family}",
       "fontWeight": "{font.weight.body}",
-      "fontSize": "{fontSize.md}",
-      "lineHeight": "{lineHeight.md}",
+      "fontSize": "{desktop.fontSize.md}",
+      "lineHeight": "{desktop.lineHeight.md}",
       "letterSpacing": "{font.letterSpacing.body}"
     }
   },
@@ -54,8 +54,8 @@
     "value": {
       "fontFamily": "{font.family}",
       "fontWeight": "{font.weight.subtitleBold}",
-      "fontSize": "{fontSize.sm}",
-      "lineHeight": "{lineHeight.xs}",
+      "fontSize": "{desktop.fontSize.sm}",
+      "lineHeight": "{desktop.lineHeight.xs}",
       "letterSpacing": "{font.letterSpacing.subtitleBold}"
     }
   },
@@ -64,8 +64,8 @@
     "value": {
       "fontFamily": "{font.family}",
       "fontWeight": "{font.weight.subtitle}",
-      "fontSize": "{fontSize.sm}",
-      "lineHeight": "{lineHeight.xs}",
+      "fontSize": "{desktop.fontSize.sm}",
+      "lineHeight": "{desktop.lineHeight.xs}",
       "letterSpacing": "{font.letterSpacing.subtitle}"
     }
   },
@@ -74,8 +74,8 @@
     "value": {
       "fontFamily": "{font.family}",
       "fontWeight": "{font.weight.caption}",
-      "fontSize": "{fontSize.xs}",
-      "lineHeight": "{lineHeight.xs}",
+      "fontSize": "{desktop.fontSize.xs}",
+      "lineHeight": "{desktop.lineHeight.xs}",
       "letterSpacing": "{font.letterSpacing.caption}"
     }
   },
@@ -84,320 +84,320 @@
     "value": {
       "fontFamily": "{font.family}",
       "fontWeight": "{font.weight.label}",
-      "fontSize": "{fontSize.xxs}",
-      "lineHeight": "{lineHeight.xxs}",
+      "fontSize": "{desktop.fontSize.xxs}",
+      "lineHeight": "{desktop.lineHeight.xxs}",
       "letterSpacing": "{font.letterSpacing.label}",
       "textCase": "{textCase.upper}"
     }
   },
   "padding": {
     "none": {
-      "value": "{spacing.none}",
+      "value": "{desktop.spacing.none}",
       "type": "spacing",
       "inheritTypeLevel": 2
     },
     "xxxs": {
-      "value": "{spacing.xxxs}",
+      "value": "{desktop.spacing.xxxs}",
       "type": "spacing",
       "inheritTypeLevel": 2
     },
     "xxs": {
-      "value": "{spacing.xxs}",
+      "value": "{desktop.spacing.xxs}",
       "type": "spacing",
       "inheritTypeLevel": 2
     },
     "xs": {
-      "value": "{spacing.xs}",
+      "value": "{desktop.spacing.xs}",
       "type": "spacing",
       "inheritTypeLevel": 2
     },
     "sm": {
-      "value": "{spacing.sm}",
+      "value": "{desktop.spacing.sm}",
       "type": "spacing",
       "inheritTypeLevel": 2
     },
     "md": {
-      "value": "{spacing.md}",
+      "value": "{desktop.spacing.md}",
       "type": "spacing",
       "inheritTypeLevel": 2
     },
     "lg": {
-      "value": "{spacing.lg}",
+      "value": "{desktop.spacing.lg}",
       "type": "spacing",
       "inheritTypeLevel": 2
     },
     "xl": {
-      "value": "{spacing.xl}",
+      "value": "{desktop.spacing.xl}",
       "type": "spacing",
       "inheritTypeLevel": 2
     },
     "xxl": {
-      "value": "{spacing.xxl}",
+      "value": "{desktop.spacing.xxl}",
       "type": "spacing",
       "inheritTypeLevel": 2
     },
     "xxxl": {
-      "value": "{spacing.xxxl}",
+      "value": "{desktop.spacing.xxxl}",
       "type": "spacing",
       "inheritTypeLevel": 2
     }
   },
   "gap": {
     "none": {
-      "value": "{spacing.none}",
+      "value": "{desktop.spacing.none}",
       "type": "spacing",
       "inheritTypeLevel": 2
     },
     "xxxs": {
-      "value": "{spacing.xxxs}",
+      "value": "{desktop.spacing.xxxs}",
       "type": "spacing",
       "inheritTypeLevel": 2
     },
     "xxs": {
-      "value": "{spacing.xxs}",
+      "value": "{desktop.spacing.xxs}",
       "type": "spacing",
       "inheritTypeLevel": 2
     },
     "xs": {
-      "value": "{spacing.xs}",
+      "value": "{desktop.spacing.xs}",
       "type": "spacing",
       "inheritTypeLevel": 2
     },
     "sm": {
-      "value": "{spacing.sm}",
+      "value": "{desktop.spacing.sm}",
       "type": "spacing",
       "inheritTypeLevel": 2
     },
     "md": {
-      "value": "{spacing.md}",
+      "value": "{desktop.spacing.md}",
       "type": "spacing",
       "inheritTypeLevel": 2
     },
     "lg": {
-      "value": "{spacing.lg}",
+      "value": "{desktop.spacing.lg}",
       "type": "spacing",
       "inheritTypeLevel": 2
     },
     "xl": {
-      "value": "{spacing.xl}",
+      "value": "{desktop.spacing.xl}",
       "type": "spacing",
       "inheritTypeLevel": 2
     },
     "xxl": {
-      "value": "{spacing.xxl}",
+      "value": "{desktop.spacing.xxl}",
       "type": "spacing",
       "inheritTypeLevel": 2
     },
     "xxxl": {
-      "value": "{spacing.xxxl}",
+      "value": "{desktop.spacing.xxxl}",
       "type": "spacing",
       "inheritTypeLevel": 2
     }
   },
   "width": {
     "none": {
-      "value": "{sizing.none}",
+      "value": "{desktop.sizing.none}",
       "type": "sizing",
       "inheritTypeLevel": 2
     },
     "xxxs": {
-      "value": "{sizing.xxxs}",
+      "value": "{desktop.sizing.xxxs}",
       "type": "sizing",
       "inheritTypeLevel": 2
     },
     "xxs": {
-      "value": "{sizing.xxs}",
+      "value": "{desktop.sizing.xxs}",
       "type": "sizing",
       "inheritTypeLevel": 2
     },
     "xs": {
-      "value": "{sizing.xs}",
+      "value": "{desktop.sizing.xs}",
       "type": "sizing",
       "inheritTypeLevel": 2
     },
     "sm": {
-      "value": "{sizing.sm}",
+      "value": "{desktop.sizing.sm}",
       "type": "sizing",
       "inheritTypeLevel": 2
     },
     "md": {
-      "value": "{sizing.md}",
+      "value": "{desktop.sizing.md}",
       "type": "sizing",
       "inheritTypeLevel": 2
     },
     "lg": {
-      "value": "{sizing.lg}",
+      "value": "{desktop.sizing.lg}",
       "type": "sizing",
       "inheritTypeLevel": 2
     },
     "xl": {
-      "value": "{sizing.xl}",
+      "value": "{desktop.sizing.xl}",
       "type": "sizing",
       "inheritTypeLevel": 2
     },
     "xxl": {
-      "value": "{sizing.xxl}",
+      "value": "{desktop.sizing.xxl}",
       "type": "sizing",
       "inheritTypeLevel": 2
     },
     "xxxl": {
-      "value": "{sizing.xxxl}",
+      "value": "{desktop.sizing.xxxl}",
       "type": "sizing",
       "inheritTypeLevel": 2
     }
   },
   "height": {
     "none": {
-      "value": "{sizing.none}",
+      "value": "{desktop.sizing.none}",
       "type": "sizing",
       "inheritTypeLevel": 2
     },
     "xxxs": {
-      "value": "{sizing.xxxs}",
+      "value": "{desktop.sizing.xxxs}",
       "type": "sizing",
       "inheritTypeLevel": 2
     },
     "xxs": {
-      "value": "{sizing.xxs}",
+      "value": "{desktop.sizing.xxs}",
       "type": "sizing",
       "inheritTypeLevel": 2
     },
     "xs": {
-      "value": "{sizing.xs}",
+      "value": "{desktop.sizing.xs}",
       "type": "sizing",
       "inheritTypeLevel": 2
     },
     "sm": {
-      "value": "{sizing.sm}",
+      "value": "{desktop.sizing.sm}",
       "type": "sizing",
       "inheritTypeLevel": 2
     },
     "md": {
-      "value": "{sizing.md}",
+      "value": "{desktop.sizing.md}",
       "type": "sizing",
       "inheritTypeLevel": 2
     },
     "lg": {
-      "value": "{sizing.lg}",
+      "value": "{desktop.sizing.lg}",
       "type": "sizing",
       "inheritTypeLevel": 2
     },
     "xl": {
-      "value": "{sizing.xl}",
+      "value": "{desktop.sizing.xl}",
       "type": "sizing",
       "inheritTypeLevel": 2
     },
     "xxl": {
-      "value": "{sizing.xxl}",
+      "value": "{desktop.sizing.xxl}",
       "type": "sizing",
       "inheritTypeLevel": 2
     },
     "xxxl": {
-      "value": "{sizing.xxxl}",
+      "value": "{desktop.sizing.xxxl}",
       "type": "sizing",
       "inheritTypeLevel": 2
     }
   },
   "stroke": {
     "none": {
-      "value": "{borderWidth.none}",
+      "value": "{desktop.borderWidth.none}",
       "type": "borderWidth",
       "inheritTypeLevel": 2
     },
     "xxs": {
-      "value": "{borderWidth.xxs}",
+      "value": "{desktop.borderWidth.xxs}",
       "type": "borderWidth",
       "inheritTypeLevel": 2
     },
     "xs": {
-      "value": "{borderWidth.xs}",
+      "value": "{desktop.borderWidth.xs}",
       "type": "borderWidth",
       "inheritTypeLevel": 2
     },
     "sm": {
-      "value": "{borderWidth.sm}",
+      "value": "{desktop.borderWidth.sm}",
       "type": "borderWidth",
       "inheritTypeLevel": 2
     },
     "md": {
-      "value": "{borderWidth.md}",
+      "value": "{desktop.borderWidth.md}",
       "type": "borderWidth",
       "inheritTypeLevel": 2
     },
     "lg": {
-      "value": "{borderWidth.lg}",
+      "value": "{desktop.borderWidth.lg}",
       "type": "borderWidth",
       "inheritTypeLevel": 2
     },
     "xl": {
-      "value": "{borderWidth.xl}",
+      "value": "{desktop.borderWidth.xl}",
       "type": "borderWidth",
       "inheritTypeLevel": 2
     },
     "xxl": {
-      "value": "{borderWidth.xxl}",
+      "value": "{desktop.borderWidth.xxl}",
       "type": "borderWidth",
       "inheritTypeLevel": 2
     },
     "xxxl": {
-      "value": "{borderWidth.xxxl}",
+      "value": "{desktop.borderWidth.xxxl}",
       "type": "borderWidth",
       "inheritTypeLevel": 2
     }
   },
   "cornerRadius": {
     "none": {
-      "value": "{borderRadius.none}",
+      "value": "{desktop.borderRadius.none}",
       "type": "borderRadius",
       "inheritTypeLevel": 2
     },
     "xxxs": {
-      "value": "{borderRadius.xxxs}",
+      "value": "{desktop.borderRadius.xxxs}",
       "type": "borderRadius",
       "inheritTypeLevel": 2
     },
     "xxs": {
-      "value": "{borderRadius.xxs}",
+      "value": "{desktop.borderRadius.xxs}",
       "type": "borderRadius",
       "inheritTypeLevel": 2
     },
     "xs": {
-      "value": "{borderRadius.xs}",
+      "value": "{desktop.borderRadius.xs}",
       "type": "borderRadius",
       "inheritTypeLevel": 2
     },
     "sm": {
-      "value": "{borderRadius.sm}",
+      "value": "{desktop.borderRadius.sm}",
       "type": "borderRadius",
       "inheritTypeLevel": 2
     },
     "md": {
-      "value": "{borderRadius.md}",
+      "value": "{desktop.borderRadius.md}",
       "type": "borderRadius",
       "inheritTypeLevel": 2
     },
     "lg": {
-      "value": "{borderRadius.lg}",
+      "value": "{desktop.borderRadius.lg}",
       "type": "borderRadius",
       "inheritTypeLevel": 2
     },
     "xl": {
-      "value": "{borderRadius.xl}",
+      "value": "{desktop.borderRadius.xl}",
       "type": "borderRadius",
       "inheritTypeLevel": 2
     },
     "xxl": {
-      "value": "{borderRadius.xxl}",
+      "value": "{desktop.borderRadius.xxl}",
       "type": "borderRadius",
       "inheritTypeLevel": 2
     },
     "xxxl": {
-      "value": "{borderRadius.xxxl}",
+      "value": "{desktop.borderRadius.xxxl}",
       "type": "borderRadius",
       "inheritTypeLevel": 2
     },
     "max": {
-      "value": "{borderRadius.max}",
+      "value": "{desktop.borderRadius.max}",
       "type": "borderRadius"
     }
   },
@@ -406,18 +406,18 @@
       "value": [
         {
           "type": "dropShadow",
-          "x": "{sizing.none}",
-          "y": "{sizing.xs}",
-          "blur": "{blur.lg}",
-          "spread": "{spread.none}",
+          "x": "{desktop.sizing.none}",
+          "y": "{desktop.sizing.xs}",
+          "blur": "{desktop.blur.lg}",
+          "spread": "{desktop.spread.none}",
           "color": "{underlay.dark}"
         },
         {
           "type": "dropShadow",
-          "x": "{sizing.none}",
-          "y": "{sizing.xxs}",
-          "blur": "{blur.md}",
-          "spread": "{spread.none}",
+          "x": "{desktop.sizing.none}",
+          "y": "{desktop.sizing.xxs}",
+          "blur": "{desktop.blur.md}",
+          "spread": "{desktop.spread.none}",
           "color": "{underlay.dark}"
         }
       ],
@@ -428,18 +428,18 @@
       "value": [
         {
           "type": "dropShadow",
-          "x": "{sizing.none}",
-          "y": "{sizing.xl}",
-          "blur": "{blur.xxxl}",
-          "spread": "{spread.none}",
+          "x": "{desktop.sizing.none}",
+          "y": "{desktop.sizing.xl}",
+          "blur": "{desktop.blur.xxxl}",
+          "spread": "{desktop.spread.none}",
           "color": "{underlay.dark}"
         },
         {
           "type": "dropShadow",
-          "x": "{sizing.none}",
-          "y": "{sizing.sm}",
-          "blur": "{blur.xl}",
-          "spread": "{spread.none}",
+          "x": "{desktop.sizing.none}",
+          "y": "{desktop.sizing.sm}",
+          "blur": "{desktop.blur.xl}",
+          "spread": "{desktop.spread.none}",
           "color": "{underlay.dark}"
         }
       ],
@@ -450,18 +450,18 @@
       "value": [
         {
           "type": "dropShadow",
-          "x": "{sizing.none}",
-          "y": "{sizing.md} * 3",
-          "blur": "{blur.md} * 12",
-          "spread": "{spread.none}",
+          "x": "{desktop.sizing.none}",
+          "y": "{desktop.sizing.md} * 3",
+          "blur": "{desktop.blur.md} * 12",
+          "spread": "{desktop.spread.none}",
           "color": "{underlay.dark}"
         },
         {
           "type": "dropShadow",
-          "x": "{sizing.none}",
-          "y": "{sizing.xl}",
-          "blur": "{blur.xxxl}",
-          "spread": "{spread.none}",
+          "x": "{desktop.sizing.none}",
+          "y": "{desktop.sizing.xl}",
+          "blur": "{desktop.blur.xxxl}",
+          "spread": "{desktop.spread.none}",
           "color": "{underlay.dark}"
         }
       ],
@@ -471,14 +471,14 @@
   },
   "focus": {
     "value": {
-      "borderWidth": "{borderWidth.xs}",
+      "borderWidth": "{desktop.borderWidth.xs}",
       "border": "{border.primary}"
     },
     "type": "composition"
   },
   "select": {
     "value": {
-      "borderWidth": "{borderWidth.xs}",
+      "borderWidth": "{desktop.borderWidth.xs}",
       "border": "{border.strong.primary}"
     },
     "type": "composition"

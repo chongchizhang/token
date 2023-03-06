@@ -1,0 +1,32 @@
+{
+  "tooltip": {
+    "base": {
+      "container": {
+        "value": {
+          "verticalPadding": "{padding.md}",
+          "horizontalPadding": "{padding.md}",
+          "boxShadow": "{dropShadow.md}"
+        },
+        "type": "composition"
+      },
+      "background": {
+        "value": {
+          "borderWidth": "{stroke.xxs}",
+          "borderColor": "{border.subtle.neutral}",
+          "fill": "{bg.default}",
+          "borderRadius": "{cornerRadius.md}"
+        },
+        "type": "composition"
+      }
+    },
+    "onBase": {
+      "label": {
+        "value": {
+          "fill": "{text.default}",
+          "typography": "{body}"
+        },
+        "type": "composition"
+      }
+    }
+  }
+}
