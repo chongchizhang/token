@@ -87,96 +87,40 @@
     }
   },
   "breakpoint": {
-    "xxs-screen": {
-      "min": {
-        "value": "0",
-        "type": "other",
-        "inheritTypeLevel": 1
-      },
-      "max": {
-        "value": "319",
-        "type": "other",
-        "inheritTypeLevel": 1
-      }
+    "mobileS": {
+      "value": "320",
+      "type": "other",
+      "inheritTypeLevel": 1
     },
-    "xs-screen": {
-      "min": {
-        "value": "320",
-        "type": "other",
-        "inheritTypeLevel": 1
-      },
-      "max": {
-        "value": "374",
-        "type": "other",
-        "inheritTypeLevel": 1
-      }
+    "mobileM": {
+      "value": "375",
+      "type": "other",
+      "inheritTypeLevel": 1
     },
-    "sm-screen": {
-      "min": {
-        "value": "375",
-        "type": "other",
-        "inheritTypeLevel": 1
-      },
-      "max": {
-        "value": "424",
-        "type": "other",
-        "inheritTypeLevel": 1
-      }
+    "mobileL": {
+      "value": "425",
+      "type": "other",
+      "inheritTypeLevel": 1
     },
-    "md-screen": {
-      "min": {
-        "value": "425",
-        "type": "other",
-        "inheritTypeLevel": 1
-      },
-      "max": {
-        "value": "767",
-        "type": "other",
-        "inheritTypeLevel": 1
-      }
+    "tablet": {
+      "value": "768",
+      "type": "other",
+      "inheritTypeLevel": 1
     },
-    "lg-screen": {
-      "min": {
-        "value": "768",
-        "type": "other",
-        "inheritTypeLevel": 1
-      },
-      "max": {
-        "value": "1023",
-        "type": "other",
-        "inheritTypeLevel": 1
-      }
+    "laptop": {
+      "value": "1024",
+      "type": "other",
+      "inheritTypeLevel": 1
     },
-    "xl-screen": {
-      "min": {
-        "value": "1024",
-        "type": "other",
-        "inheritTypeLevel": 1
-      },
-      "max": {
-        "value": "1439",
-        "type": "other",
-        "inheritTypeLevel": 1
-      }
+    "laptopL": {
+      "value": "1440",
+      "type": "other",
+      "inheritTypeLevel": 1
     },
-    "xxl-screen": {
-      "min": {
-        "value": "1440",
-        "type": "other",
-        "inheritTypeLevel": 1
-      },
-      "max": {
-        "value": "2559",
-        "type": "other",
-        "inheritTypeLevel": 1
-      }
-    },
-    "xxxl-screen": {
-      "min": {
-        "value": "2560",
-        "type": "other",
-        "inheritTypeLevel": 1
-      }
+    "4k": {
+      "value": "2560",
+      "type": "other",
+      "inheritTypeLevel": 1
     }
   }
 }

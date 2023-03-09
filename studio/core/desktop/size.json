@@ -17,12 +17,27 @@
         "inheritTypeLevel": 2
       },
       "xs": {
-        "value": "4",
+        "value": "3",
         "type": "sizing",
         "inheritTypeLevel": 2
       },
       "sm": {
+        "value": "4",
+        "type": "sizing",
+        "inheritTypeLevel": 2
+      },
+      "xxms": {
+        "value": "5",
+        "type": "sizing",
+        "inheritTypeLevel": 2
+      },
+      "xms": {
         "value": "6",
+        "type": "sizing",
+        "inheritTypeLevel": 2
+      },
+      "ms": {
+        "value": "7",
         "type": "sizing",
         "inheritTypeLevel": 2
       },
@@ -31,23 +46,43 @@
         "type": "sizing",
         "inheritTypeLevel": 2
       },
-      "lg": {
+      "ml": {
+        "value": "9",
+        "type": "sizing",
+        "inheritTypeLevel": 2
+      },
+      "xml": {
         "value": "10",
         "type": "sizing",
         "inheritTypeLevel": 2
       },
-      "xl": {
+      "xxml": {
         "value": "12",
         "type": "sizing",
         "inheritTypeLevel": 2
       },
-      "xxl": {
+      "xxxml": {
         "value": "14",
         "type": "sizing",
         "inheritTypeLevel": 2
       },
-      "xxxl": {
+      "lg": {
         "value": "16",
+        "type": "sizing",
+        "inheritTypeLevel": 2
+      },
+      "xl": {
+        "value": "24",
+        "type": "sizing",
+        "inheritTypeLevel": 2
+      },
+      "xxl": {
+        "value": "32",
+        "type": "sizing",
+        "inheritTypeLevel": 2
+      },
+      "xxxl": {
+        "value": "40",
         "type": "sizing",
         "inheritTypeLevel": 2
       }
@@ -69,12 +104,27 @@
         "inheritTypeLevel": 2
       },
       "xs": {
-        "value": "4",
+        "value": "3",
         "type": "spacing",
         "inheritTypeLevel": 2
       },
       "sm": {
+        "value": "4",
+        "type": "spacing",
+        "inheritTypeLevel": 2
+      },
+      "xxms": {
+        "value": "5",
+        "type": "spacing",
+        "inheritTypeLevel": 2
+      },
+      "xms": {
         "value": "6",
+        "type": "spacing",
+        "inheritTypeLevel": 2
+      },
+      "ms": {
+        "value": "7",
         "type": "spacing",
         "inheritTypeLevel": 2
       },
@@ -83,23 +133,43 @@
         "type": "spacing",
         "inheritTypeLevel": 2
       },
-      "lg": {
+      "ml": {
+        "value": "9",
+        "type": "spacing",
+        "inheritTypeLevel": 2
+      },
+      "xml": {
         "value": "10",
         "type": "spacing",
         "inheritTypeLevel": 2
       },
-      "xl": {
+      "xxml": {
         "value": "12",
         "type": "spacing",
         "inheritTypeLevel": 2
       },
-      "xxl": {
+      "xxxml": {
         "value": "14",
         "type": "spacing",
         "inheritTypeLevel": 2
       },
-      "xxxl": {
+      "lg": {
         "value": "16",
+        "type": "spacing",
+        "inheritTypeLevel": 2
+      },
+      "xl": {
+        "value": "24",
+        "type": "spacing",
+        "inheritTypeLevel": 2
+      },
+      "xxl": {
+        "value": "32",
+        "type": "spacing",
+        "inheritTypeLevel": 2
+      },
+      "xxxl": {
+        "value": "40",
         "type": "spacing",
         "inheritTypeLevel": 2
       }
@@ -121,12 +191,27 @@
         "inheritTypeLevel": 2
       },
       "xs": {
-        "value": "4",
+        "value": "3",
         "type": "borderRadius",
         "inheritTypeLevel": 2
       },
       "sm": {
+        "value": "4",
+        "type": "borderRadius",
+        "inheritTypeLevel": 2
+      },
+      "xxms": {
+        "value": "5",
+        "type": "borderRadius",
+        "inheritTypeLevel": 2
+      },
+      "xms": {
         "value": "6",
+        "type": "borderRadius",
+        "inheritTypeLevel": 2
+      },
+      "ms": {
+        "value": "7",
         "type": "borderRadius",
         "inheritTypeLevel": 2
       },
@@ -135,29 +220,45 @@
         "type": "borderRadius",
         "inheritTypeLevel": 2
       },
-      "lg": {
+      "ml": {
+        "value": "9",
+        "type": "borderRadius",
+        "inheritTypeLevel": 2
+      },
+      "xml": {
         "value": "10",
         "type": "borderRadius",
         "inheritTypeLevel": 2
       },
-      "xl": {
+      "xxml": {
         "value": "12",
         "type": "borderRadius",
         "inheritTypeLevel": 2
       },
-      "xxl": {
+      "xxxml": {
         "value": "14",
         "type": "borderRadius",
         "inheritTypeLevel": 2
       },
-      "xxxl": {
+      "lg": {
         "value": "16",
         "type": "borderRadius",
         "inheritTypeLevel": 2
       },
-      "max": {
-        "value": "9999",
-        "type": "borderRadius"
+      "xl": {
+        "value": "24",
+        "type": "borderRadius",
+        "inheritTypeLevel": 2
+      },
+      "xxl": {
+        "value": "32",
+        "type": "borderRadius",
+        "inheritTypeLevel": 2
+      },
+      "xxxl": {
+        "value": "40",
+        "type": "borderRadius",
+        "inheritTypeLevel": 2
       }
     },
     "borderWidth": {
@@ -166,43 +267,83 @@
         "type": "borderWidth",
         "inheritTypeLevel": 2
       },
-      "xxs": {
+      "xxxs": {
         "value": "1",
         "type": "borderWidth",
         "inheritTypeLevel": 2
       },
-      "xs": {
+      "xxs": {
         "value": "2",
         "type": "borderWidth",
         "inheritTypeLevel": 2
       },
-      "sm": {
+      "xs": {
         "value": "3",
         "type": "borderWidth",
         "inheritTypeLevel": 2
       },
-      "md": {
+      "sm": {
         "value": "4",
         "type": "borderWidth",
         "inheritTypeLevel": 2
       },
-      "lg": {
+      "xxms": {
         "value": "5",
         "type": "borderWidth",
         "inheritTypeLevel": 2
       },
-      "xl": {
+      "xms": {
         "value": "6",
         "type": "borderWidth",
         "inheritTypeLevel": 2
       },
-      "xxl": {
+      "ms": {
         "value": "7",
         "type": "borderWidth",
         "inheritTypeLevel": 2
       },
-      "xxxl": {
+      "md": {
         "value": "8",
+        "type": "borderWidth",
+        "inheritTypeLevel": 2
+      },
+      "ml": {
+        "value": "9",
+        "type": "borderWidth",
+        "inheritTypeLevel": 2
+      },
+      "xml": {
+        "value": "10",
+        "type": "borderWidth",
+        "inheritTypeLevel": 2
+      },
+      "xxml": {
+        "value": "12",
+        "type": "borderWidth",
+        "inheritTypeLevel": 2
+      },
+      "xxxml": {
+        "value": "14",
+        "type": "borderWidth",
+        "inheritTypeLevel": 2
+      },
+      "lg": {
+        "value": "16",
+        "type": "borderWidth",
+        "inheritTypeLevel": 2
+      },
+      "xl": {
+        "value": "24",
+        "type": "borderWidth",
+        "inheritTypeLevel": 2
+      },
+      "xxl": {
+        "value": "32",
+        "type": "borderWidth",
+        "inheritTypeLevel": 2
+      },
+      "xxxl": {
+        "value": "40",
         "type": "borderWidth",
         "inheritTypeLevel": 2
       }

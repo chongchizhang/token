@@ -1,0 +1,245 @@
+{
+  "shade": {
+    "10": {
+      "value": "0.0275",
+      "type": "opacity",
+      "inheritTypeLevel": 1
+    },
+    "20": {
+      "value": "0.955",
+      "type": "opacity",
+      "inheritTypeLevel": 1
+    },
+    "30": {
+      "value": "0.1175",
+      "type": "opacity",
+      "inheritTypeLevel": 1
+    },
+    "40": {
+      "value": "0.595",
+      "type": "opacity",
+      "inheritTypeLevel": 1
+    },
+    "50": {
+      "value": "0.42",
+      "type": "opacity",
+      "inheritTypeLevel": 1
+    },
+    "60": {
+      "value": "0.48",
+      "type": "opacity",
+      "inheritTypeLevel": 1
+    },
+    "70": {
+      "value": "0.565",
+      "type": "opacity",
+      "inheritTypeLevel": 1
+    },
+    "80": {
+      "value": "0.335",
+      "type": "opacity",
+      "inheritTypeLevel": 1
+    },
+    "90": {
+      "value": "0.65",
+      "type": "opacity",
+      "inheritTypeLevel": 1
+    },
+    "100": {
+      "value": "0.1",
+      "type": "opacity",
+      "inheritTypeLevel": 1
+    },
+    "110": {
+      "value": "0.885",
+      "type": "opacity",
+      "inheritTypeLevel": 1
+    },
+    "120": {
+      "value": "0.025",
+      "type": "opacity",
+      "inheritTypeLevel": 1
+    }
+  },
+  "opacity": {
+    "none": {
+      "value": "0",
+      "type": "opacity",
+      "inheritTypeLevel": 1
+    },
+    "xxxs": {
+      "value": "0.04",
+      "type": "opacity",
+      "inheritTypeLevel": 1
+    },
+    "xxs": {
+      "value": "0.08",
+      "type": "opacity",
+      "inheritTypeLevel": 1
+    },
+    "xs": {
+      "value": "0.16",
+      "type": "opacity",
+      "inheritTypeLevel": 1
+    },
+    "sm": {
+      "value": "0.24",
+      "type": "opacity",
+      "inheritTypeLevel": 1
+    },
+    "xxms": {
+      "value": "0.32",
+      "type": "opacity",
+      "inheritTypeLevel": 1
+    },
+    "xms": {
+      "value": "0.40",
+      "type": "opacity",
+      "inheritTypeLevel": 1
+    },
+    "ms": {
+      "value": "0.48",
+      "type": "opacity",
+      "inheritTypeLevel": 1
+    },
+    "md": {
+      "value": "0.50",
+      "type": "opacity",
+      "inheritTypeLevel": 1
+    },
+    "ml": {
+      "value": "0.56",
+      "type": "opacity",
+      "inheritTypeLevel": 1
+    },
+    "xml": {
+      "value": "0.64",
+      "type": "opacity",
+      "inheritTypeLevel": 1
+    },
+    "xxml": {
+      "value": "0.72",
+      "type": "opacity",
+      "inheritTypeLevel": 1
+    },
+    "lg": {
+      "value": "0.80",
+      "type": "opacity",
+      "inheritTypeLevel": 1
+    },
+    "xl": {
+      "value": "0.88",
+      "type": "opacity",
+      "inheritTypeLevel": 1
+    },
+    "xxl": {
+      "value": "0.96",
+      "type": "opacity",
+      "inheritTypeLevel": 1
+    },
+    "max": {
+      "value": "1",
+      "type": "opacity",
+      "inheritTypeLevel": 1
+    }
+  },
+  "blur": {
+    "none": {
+      "value": "0",
+      "type": "other",
+      "inheritTypeLevel": 1
+    },
+    "xxxs": {
+      "value": "1",
+      "type": "other",
+      "inheritTypeLevel": 1
+    },
+    "xxs": {
+      "value": "2",
+      "type": "other",
+      "inheritTypeLevel": 1
+    },
+    "xs": {
+      "value": "3",
+      "type": "other",
+      "inheritTypeLevel": 1
+    },
+    "sm": {
+      "value": "4",
+      "type": "other",
+      "inheritTypeLevel": 1
+    },
+    "xxms": {
+      "value": "5",
+      "type": "other",
+      "inheritTypeLevel": 1
+    },
+    "xms": {
+      "value": "6",
+      "type": "other",
+      "inheritTypeLevel": 1
+    },
+    "ms": {
+      "value": "7",
+      "type": "other",
+      "inheritTypeLevel": 1
+    },
+    "md": {
+      "value": "8",
+      "type": "other",
+      "inheritTypeLevel": 1
+    },
+    "ml": {
+      "value": "9",
+      "type": "other",
+      "inheritTypeLevel": 1
+    },
+    "xml": {
+      "value": "10",
+      "type": "other",
+      "inheritTypeLevel": 1
+    },
+    "xxml": {
+      "value": "12",
+      "type": "other",
+      "inheritTypeLevel": 1
+    },
+    "xxxml": {
+      "value": "14",
+      "type": "other",
+      "inheritTypeLevel": 1
+    },
+    "lg": {
+      "value": "16",
+      "type": "other",
+      "inheritTypeLevel": 1
+    },
+    "xl": {
+      "value": "24",
+      "type": "other",
+      "inheritTypeLevel": 1
+    },
+    "xxl": {
+      "value": "32",
+      "type": "other",
+      "inheritTypeLevel": 1
+    },
+    "xxxl": {
+      "value": "40",
+      "type": "other",
+      "inheritTypeLevel": 1
+    }
+  },
+  "borderStyle": {
+    "solid": {
+      "value": "solid",
+      "type": "other",
+      "inheritTypeLevel": 1
+    },
+    "dashed": {
+      "value": "dashed",
+      "type": "other",
+      "inheritTypeLevel": 1
+    }
+  }
+}

@@ -1,11 +1,6 @@
 {
   "desktop": {
     "fontSize": {
-      "xxs": {
-        "value": "9",
-        "type": "fontSize",
-        "inheritTypeLevel": 2
-      },
       "xs": {
         "value": "10",
         "type": "fontSize",
@@ -27,48 +22,53 @@
         "inheritTypeLevel": 2
       },
       "xl": {
-        "value": "24",
+        "value": "20",
         "type": "fontSize",
         "inheritTypeLevel": 2
       },
       "xxl": {
+        "value": "24",
+        "type": "fontSize",
+        "inheritTypeLevel": 2
+      },
+      "xxxl": {
         "value": "36",
         "type": "fontSize",
         "inheritTypeLevel": 2
       }
     },
     "lineHeight": {
-      "xxs": {
+      "xs": {
         "value": "12",
         "type": "lineHeight",
         "inheritTypeLevel": 2
       },
-      "xs": {
+      "sm": {
         "value": "16",
         "type": "lineHeight",
         "inheritTypeLevel": 2
       },
-      "sm": {
+      "md": {
         "value": "18",
         "type": "lineHeight",
         "inheritTypeLevel": 2
       },
-      "md": {
+      "lg": {
         "value": "20",
         "type": "lineHeight",
         "inheritTypeLevel": 2
       },
-      "lg": {
-        "value": "28",
-        "type": "lineHeight",
-        "inheritTypeLevel": 2
-      },
       "xl": {
-        "value": "32",
+        "value": "24",
         "type": "lineHeight",
         "inheritTypeLevel": 2
       },
       "xxl": {
+        "value": "32",
+        "type": "lineHeight",
+        "inheritTypeLevel": 2
+      },
+      "xxxl": {
         "value": "40",
         "type": "lineHeight",
         "inheritTypeLevel": 2

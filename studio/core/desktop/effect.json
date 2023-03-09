@@ -1,85 +1,88 @@
 {
   "desktop": {
-    "blur": {
-      "none": {
-        "value": "0",
-        "type": "other",
-        "inheritTypeLevel": 2
-      },
-      "xs": {
-        "value": "1",
-        "type": "other",
-        "inheritTypeLevel": 2
-      },
-      "sm": {
-        "value": "2",
-        "type": "other",
-        "inheritTypeLevel": 2
-      },
-      "md": {
-        "value": "4",
-        "type": "other",
-        "inheritTypeLevel": 2
-      },
-      "lg": {
-        "value": "8",
-        "type": "other",
-        "inheritTypeLevel": 2
-      },
-      "xl": {
-        "value": "12",
-        "type": "other",
-        "inheritTypeLevel": 2
-      },
-      "xxl": {
-        "value": "16",
-        "type": "other",
-        "inheritTypeLevel": 2
-      },
-      "xxxl": {
-        "value": "24",
-        "type": "other",
-        "inheritTypeLevel": 2
-      }
-    },
     "spread": {
       "none": {
         "value": "0",
         "type": "other",
         "inheritTypeLevel": 2
       },
-      "xs": {
+      "xxxs": {
         "value": "1",
         "type": "other",
         "inheritTypeLevel": 2
       },
-      "sm": {
+      "xxs": {
         "value": "2",
         "type": "other",
         "inheritTypeLevel": 2
       },
-      "md": {
+      "xs": {
+        "value": "3",
+        "type": "other",
+        "inheritTypeLevel": 2
+      },
+      "sm": {
         "value": "4",
         "type": "other",
         "inheritTypeLevel": 2
       },
-      "lg": {
+      "xxms": {
+        "value": "5",
+        "type": "other",
+        "inheritTypeLevel": 2
+      },
+      "xms": {
+        "value": "6",
+        "type": "other",
+        "inheritTypeLevel": 2
+      },
+      "ms": {
+        "value": "7",
+        "type": "other",
+        "inheritTypeLevel": 2
+      },
+      "md": {
         "value": "8",
         "type": "other",
         "inheritTypeLevel": 2
       },
-      "xl": {
+      "ml": {
+        "value": "9",
+        "type": "other",
+        "inheritTypeLevel": 2
+      },
+      "xml": {
+        "value": "10",
+        "type": "other",
+        "inheritTypeLevel": 2
+      },
+      "xxml": {
         "value": "12",
         "type": "other",
         "inheritTypeLevel": 2
       },
-      "xxl": {
+      "xxxml": {
+        "value": "14",
+        "type": "other",
+        "inheritTypeLevel": 2
+      },
+      "lg": {
         "value": "16",
         "type": "other",
         "inheritTypeLevel": 2
       },
-      "xxxl": {
+      "xl": {
         "value": "24",
+        "type": "other",
+        "inheritTypeLevel": 2
+      },
+      "xxl": {
+        "value": "32",
+        "type": "other",
+        "inheritTypeLevel": 2
+      },
+      "xxxl": {
+        "value": "40",
         "type": "other",
         "inheritTypeLevel": 2
       }
