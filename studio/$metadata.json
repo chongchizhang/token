@@ -2,7 +2,6 @@
   "tokenSetOrder": [
     "core/palette/color1.0",
     "core/palette/color2.0",
-    "core/palette/effect",
     "core/universal/size",
     "core/universal/text",
     "core/desktop/text",
@@ -33,6 +32,8 @@
     "component/tooltip",
     "component/audioLevel",
     "component/progressBar",
-    "component/slider"
+    "component/slider",
+    "core/palette/color3.0",
+    "core/universal/effect"
   ]
 }
