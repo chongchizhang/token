@@ -1,87 +1,90 @@
 {
   "mobile": {
-    "blur": {
-      "none": {
-        "value": "roundTo({desktop.blur.none}*{scale.majorSecond})",
-        "type": "other",
-        "inheritTypeLevel": 3
-      },
-      "xs": {
-        "value": "roundTo({desktop.blur.xs}*{scale.majorSecond})",
-        "type": "other",
-        "inheritTypeLevel": 3
-      },
-      "sm": {
-        "value": "roundTo({desktop.blur.sm}*{scale.majorSecond})",
-        "type": "other",
-        "inheritTypeLevel": 3
-      },
-      "md": {
-        "value": "roundTo({desktop.blur.md}*{scale.majorSecond})",
-        "type": "other",
-        "inheritTypeLevel": 3
-      },
-      "lg": {
-        "value": "roundTo({desktop.blur.lg}*{scale.majorSecond})",
-        "type": "other",
-        "inheritTypeLevel": 3
-      },
-      "xl": {
-        "value": "roundTo({desktop.blur.xl}*{scale.majorSecond})",
-        "type": "other",
-        "inheritTypeLevel": 3
-      },
-      "xxl": {
-        "value": "roundTo({desktop.blur.xxl}*{scale.majorSecond})",
-        "type": "other",
-        "inheritTypeLevel": 3
-      },
-      "xxxl": {
-        "value": "roundTo({desktop.blur.xxl}*{scale.majorSecond})",
-        "type": "other",
-        "inheritTypeLevel": 3
-      }
-    },
     "spread": {
       "none": {
         "value": "roundTo({desktop.spread.none}*{scale.majorSecond})",
         "type": "other",
-        "inheritTypeLevel": 3
+        "inheritTypeLevel": 2
+      },
+      "xxxs": {
+        "value": "roundTo({desktop.spread.xxxs}*{scale.majorSecond})",
+        "type": "other",
+        "inheritTypeLevel": 2
+      },
+      "xxs": {
+        "value": "roundTo({desktop.spread.xxs}*{scale.majorSecond})",
+        "type": "other",
+        "inheritTypeLevel": 2
       },
       "xs": {
         "value": "roundTo({desktop.spread.xs}*{scale.majorSecond})",
         "type": "other",
-        "inheritTypeLevel": 3
+        "inheritTypeLevel": 2
       },
       "sm": {
         "value": "roundTo({desktop.spread.sm}*{scale.majorSecond})",
         "type": "other",
-        "inheritTypeLevel": 3
+        "inheritTypeLevel": 2
+      },
+      "xxms": {
+        "value": "roundTo({desktop.spread.xxms}*{scale.majorSecond})",
+        "type": "other",
+        "inheritTypeLevel": 2
+      },
+      "xms": {
+        "value": "roundTo({desktop.spread.xms}*{scale.majorSecond})",
+        "type": "other",
+        "inheritTypeLevel": 2
+      },
+      "ms": {
+        "value": "roundTo({desktop.spread.ms}*{scale.majorSecond})",
+        "type": "other",
+        "inheritTypeLevel": 2
       },
       "md": {
         "value": "roundTo({desktop.spread.md}*{scale.majorSecond})",
         "type": "other",
-        "inheritTypeLevel": 3
+        "inheritTypeLevel": 2
+      },
+      "ml": {
+        "value": "roundTo({desktop.spread.ml}*{scale.majorSecond})",
+        "type": "other",
+        "inheritTypeLevel": 2
+      },
+      "xml": {
+        "value": "roundTo({desktop.spread.xml}*{scale.majorSecond})",
+        "type": "other",
+        "inheritTypeLevel": 2
+      },
+      "xxml": {
+        "value": "roundTo({desktop.spread.xxml}*{scale.majorSecond})",
+        "type": "other",
+        "inheritTypeLevel": 2
+      },
+      "xxxml": {
+        "value": "roundTo({desktop.spread.xxxml}*{scale.majorSecond})",
+        "type": "other",
+        "inheritTypeLevel": 2
       },
       "lg": {
         "value": "roundTo({desktop.spread.lg}*{scale.majorSecond})",
         "type": "other",
-        "inheritTypeLevel": 3
+        "inheritTypeLevel": 2
       },
       "xl": {
         "value": "roundTo({desktop.spread.xl}*{scale.majorSecond})",
         "type": "other",
-        "inheritTypeLevel": 3
+        "inheritTypeLevel": 2
       },
       "xxl": {
         "value": "roundTo({desktop.spread.xxl}*{scale.majorSecond})",
         "type": "other",
-        "inheritTypeLevel": 3
+        "inheritTypeLevel": 2
       },
       "xxxl": {
         "value": "roundTo({desktop.spread.xxxl}*{scale.majorSecond})",
         "type": "other",
-        "inheritTypeLevel": 3
+        "inheritTypeLevel": 2
       }
     }
   }

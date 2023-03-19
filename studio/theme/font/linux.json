@@ -1,0 +1,150 @@
+{
+  "font": {
+    "family": {
+      "sans": {
+        "value": "{fontFamily.ubuntu}",
+        "type": "other",
+        "inheritTypeLevel": 2
+      },
+      "mono": {
+        "value": "{fontFamily.ubuntuMono}",
+        "type": "other",
+        "inheritTypeLevel": 2
+      }
+    },
+    "weight": {
+      "heading1": {
+        "value": "{fontWeight.bold}",
+        "type": "other",
+        "inheritTypeLevel": 2
+      },
+      "heading2": {
+        "value": "{fontWeight.bold}",
+        "type": "other",
+        "inheritTypeLevel": 2
+      },
+      "heading3": {
+        "value": "{fontWeight.semiBold}",
+        "type": "other",
+        "inheritTypeLevel": 2
+      },
+      "title": {
+        "value": "{fontWeight.bold}",
+        "type": "other",
+        "inheritTypeLevel": 2
+      },
+      "label": {
+        "value": "{fontWeight.semiBold}",
+        "type": "other",
+        "inheritTypeLevel": 2
+      },
+      "body": {
+        "value": "{fontWeight.regular}",
+        "type": "other",
+        "inheritTypeLevel": 2
+      },
+      "caption": {
+        "value": "{fontWeight.medium}",
+        "type": "other",
+        "inheritTypeLevel": 2
+      },
+      "detail": {
+        "value": "{fontWeight.semiBold}",
+        "type": "other",
+        "inheritTypeLevel": 2
+      },
+      "monoTitle": {
+        "value": "{fontWeight.bold}",
+        "type": "other",
+        "inheritTypeLevel": 2
+      },
+      "monoLabel": {
+        "value": "{fontWeight.bold}",
+        "type": "other",
+        "inheritTypeLevel": 2
+      },
+      "monoBody": {
+        "value": "{fontWeight.regular}",
+        "type": "other",
+        "inheritTypeLevel": 2
+      },
+      "monoCaption": {
+        "value": "{fontWeight.regular}",
+        "type": "other",
+        "inheritTypeLevel": 2
+      },
+      "monoDetail": {
+        "value": "{fontWeight.regular}",
+        "type": "other",
+        "inheritTypeLevel": 2
+      }
+    },
+    "letterSpacing": {
+      "heading1": {
+        "value": "{letterSpacing.auto}",
+        "type": "other",
+        "inheritTypeLevel": 2
+      },
+      "heading2": {
+        "value": "{letterSpacing.auto}",
+        "type": "other",
+        "inheritTypeLevel": 2
+      },
+      "heading3": {
+        "value": "{letterSpacing.auto}",
+        "type": "other",
+        "inheritTypeLevel": 2
+      },
+      "title": {
+        "value": "{letterSpacing.auto}",
+        "type": "other",
+        "inheritTypeLevel": 2
+      },
+      "label": {
+        "value": "{letterSpacing.auto}",
+        "type": "other",
+        "inheritTypeLevel": 2
+      },
+      "body": {
+        "value": "{letterSpacing.auto}",
+        "type": "other",
+        "inheritTypeLevel": 2
+      },
+      "caption": {
+        "value": "{letterSpacing.auto}",
+        "type": "other",
+        "inheritTypeLevel": 2
+      },
+      "detail": {
+        "value": "{letterSpacing.auto}",
+        "type": "other",
+        "inheritTypeLevel": 2
+      },
+      "monoTitle": {
+        "value": "{letterSpacing.auto}",
+        "type": "other",
+        "inheritTypeLevel": 2
+      },
+      "monoLabel": {
+        "value": "{letterSpacing.auto}",
+        "type": "other",
+        "inheritTypeLevel": 2
+      },
+      "monoBody": {
+        "value": "{letterSpacing.auto}",
+        "type": "other",
+        "inheritTypeLevel": 2
+      },
+      "monoCaption": {
+        "value": "{letterSpacing.auto}",
+        "type": "other",
+        "inheritTypeLevel": 2
+      },
+      "monoDetail": {
+        "value": "{letterSpacing.auto}",
+        "type": "other",
+        "inheritTypeLevel": 2
+      }
+    }
+  }
+}
