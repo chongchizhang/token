@@ -1,742 +1,744 @@
 {
-  "gl": {
-    "ui": {
-      "black": {
-        "value": "#000000",
-        "type": "color",
-        "inheritTypeLevel": 1
-      },
-      "white": {
-        "value": "#FFFFFF",
-        "type": "color",
-        "inheritTypeLevel": 1
-      },
-      "gray": {
-        "0": {
+  "color": {
+    "gl": {
+      "ui": {
+        "black": {
+          "value": "#000000",
+          "type": "color",
+          "inheritTypeLevel": 1
+        },
+        "white": {
           "value": "#FFFFFF",
           "type": "color",
           "inheritTypeLevel": 1
         },
-        "10": {
-          "value": "#F8F9F9",
+        "gray": {
+          "0": {
+            "value": "#FFFFFF",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "10": {
+            "value": "#F8F9F9",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "20": {
+            "value": "#F3F3F4",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "30": {
+            "value": "#E0E2E4",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "40": {
+            "value": "#99A0A7",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "50": {
+            "value": "#868E96",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "60": {
+            "value": "#7D868E",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "70": {
+            "value": "#687078",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "80": {
+            "value": "#616970",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "90": {
+            "value": "#535A5F",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "100": {
+            "value": "#282C2E",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "110": {
+            "value": "#1C1E20",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "120": {
+            "value": "#17191B",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "130": {
+            "value": "#141414",
+            "type": "color",
+            "inheritTypeLevel": 1
+          }
+        },
+        "blue": {
+          "10": {
+            "value": "#F4F9FE",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "20": {
+            "value": "#ECF5FD",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "30": {
+            "value": "#CEE5F9",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "40": {
+            "value": "#55A5EB",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "50": {
+            "value": "#4E89FF",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "60": {
+            "value": "#1D88E5",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "70": {
+            "value": "{brand.azul}",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "80": {
+            "value": "#156AB5",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "90": {
+            "value": "#125B9B",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "100": {
+            "value": "#092C4B",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "110": {
+            "value": "#061F35",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "120": {
+            "value": "#051A2D",
+            "type": "color",
+            "inheritTypeLevel": 1
+          }
+        },
+        "olive": {
+          "10": {
+            "value": "#F8F9F8",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "20": {
+            "value": "#F1F4F1",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "30": {
+            "value": "#DDE3DD",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "40": {
+            "value": "#91A591",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "50": {
+            "value": "#7C937C",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "60": {
+            "value": "#738B73",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "70": {
+            "value": "#607560",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "80": {
+            "value": "#5A6D5A",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "90": {
+            "value": "#4D5E4D",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "100": {
+            "value": "#252D25",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "110": {
+            "value": "#1A1F1A",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "120": {
+            "value": "#161A16",
+            "type": "color",
+            "inheritTypeLevel": 1
+          }
+        },
+        "purple": {
+          "10": {
+            "value": "#FAF8F9",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "20": {
+            "value": "#F7F3F6",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "30": {
+            "value": "#E9DEE5",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "40": {
+            "value": "#B896AC",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "50": {
+            "value": "#AA819C",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "60": {
+            "value": "#A47895",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "70": {
+            "value": "#90617F",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "80": {
+            "value": "#865A77",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "90": {
+            "value": "#734E66",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "100": {
+            "value": "#382631",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "110": {
+            "value": "#271A23",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "120": {
+            "value": "#20161C",
+            "type": "color",
+            "inheritTypeLevel": 1
+          }
+        },
+        "orange": {
+          "10": {
+            "value": "#FFF7EB",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "20": {
+            "value": "#FFF1DE",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "30": {
+            "value": "#FFDCAA",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "40": {
+            "value": "#E68901",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "50": {
+            "value": "#CD7901",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "60": {
+            "value": "#C17201",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "70": {
+            "value": "#A16001",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "80": {
+            "value": "#975901",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "90": {
+            "value": "#814D01",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "100": {
+            "value": "#3F2600",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "110": {
+            "value": "#2D1A00",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "120": {
+            "value": "#251600",
+            "type": "color",
+            "inheritTypeLevel": 1
+          }
+        },
+        "teal": {
+          "10": {
+            "value": "#E7FDFE",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "20": {
+            "value": "#CFFCFD",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "30": {
+            "value": "#6FF5F9",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "40": {
+            "value": "#08B1B6",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "50": {
+            "value": "#079DA1",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "60": {
+            "value": "#069499",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "70": {
+            "value": "#057C7F",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "80": {
+            "value": "#057477",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "90": {
+            "value": "#046366",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "100": {
+            "value": "#023133",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "110": {
+            "value": "#012223",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "120": {
+            "value": "#011C1D",
+            "type": "color",
+            "inheritTypeLevel": 1
+          }
+        },
+        "red": {
+          "10": {
+            "value": "#FFF7F6",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "20": {
+            "value": "#FEF2F0",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "30": {
+            "value": "#FDD9D2",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "40": {
+            "value": "#F77B62",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "50": {
+            "value": "#F55939",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "60": {
+            "value": "#F34521",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "70": {
+            "value": "#D42D0B",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "80": {
+            "value": "#C72A0A",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "90": {
+            "value": "#AB2409",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "100": {
+            "value": "#561204",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "110": {
+            "value": "#3E0D03",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "120": {
+            "value": "#330B03",
+            "type": "color",
+            "inheritTypeLevel": 1
+          }
+        },
+        "yellow": {
+          "10": {
+            "value": "#FFFAD8",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "20": {
+            "value": "#FEF5B1",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "30": {
+            "value": "#FDE229",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "40": {
+            "value": "#B69F02",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "50": {
+            "value": "#A18D02",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "60": {
+            "value": "#988502",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "70": {
+            "value": "#7F6F01",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "80": {
+            "value": "#776801",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "90": {
+            "value": "#665901",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "100": {
+            "value": "#322B01",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "110": {
+            "value": "#231E00",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "120": {
+            "value": "#1D1900",
+            "type": "color",
+            "inheritTypeLevel": 1
+          }
+        },
+        "green": {
+          "10": {
+            "value": "#EDFCF2",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "20": {
+            "value": "#E1FAE9",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "30": {
+            "value": "#AAF1C2",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "40": {
+            "value": "#1FB751",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "50": {
+            "value": "#1BA248",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "60": {
+            "value": "#1A9944",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "70": {
+            "value": "#168039",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "80": {
+            "value": "#147836",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "90": {
+            "value": "#11662E",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "100": {
+            "value": "#083216",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "110": {
+            "value": "#062310",
+            "type": "color",
+            "inheritTypeLevel": 1
+          },
+          "120": {
+            "value": "#051D0D",
+            "type": "color",
+            "inheritTypeLevel": 1
+          }
+        }
+      },
+      "brand": {
+        "slate": {
+          "value": "#646C73",
           "type": "color",
           "inheritTypeLevel": 1
         },
-        "20": {
-          "value": "#F3F3F4",
+        "azul": {
+          "value": "#1671C1",
           "type": "color",
           "inheritTypeLevel": 1
         },
-        "30": {
-          "value": "#E0E2E4",
+        "olive": {
+          "value": "#2E382E",
           "type": "color",
           "inheritTypeLevel": 1
         },
-        "40": {
-          "value": "#99A0A7",
+        "violet": {
+          "value": "#996888",
           "type": "color",
           "inheritTypeLevel": 1
         },
-        "50": {
-          "value": "#868E96",
+        "carrot": {
+          "value": "#F18F01",
           "type": "color",
           "inheritTypeLevel": 1
         },
-        "60": {
-          "value": "#7D868E",
+        "aqua": {
+          "value": "#42F2F7",
           "type": "color",
           "inheritTypeLevel": 1
         },
-        "70": {
-          "value": "#687078",
+        "tomato": {
+          "value": "#F55D3E",
           "type": "color",
           "inheritTypeLevel": 1
         },
-        "80": {
-          "value": "#616970",
+        "maize": {
+          "value": "#FDE74C",
           "type": "color",
           "inheritTypeLevel": 1
         },
-        "90": {
-          "value": "#535A5F",
-          "type": "color",
-          "inheritTypeLevel": 1
-        },
-        "100": {
-          "value": "#282C2E",
-          "type": "color",
-          "inheritTypeLevel": 1
-        },
-        "110": {
-          "value": "#1C1E20",
-          "type": "color",
-          "inheritTypeLevel": 1
-        },
-        "120": {
-          "value": "#17191B",
-          "type": "color",
-          "inheritTypeLevel": 1
-        },
-        "130": {
-          "value": "#141414",
+        "grass": {
+          "value": "#20BF55",
           "type": "color",
           "inheritTypeLevel": 1
         }
       },
-      "blue": {
-        "10": {
-          "value": "#F4F9FE",
+      "accent": {
+        "r500": {
+          "value": "#FD3D4A",
           "type": "color",
           "inheritTypeLevel": 1
         },
-        "20": {
-          "value": "#ECF5FD",
+        "r400": {
+          "value": "#F46670",
           "type": "color",
           "inheritTypeLevel": 1
         },
-        "30": {
-          "value": "#CEE5F9",
+        "br600": {
+          "value": "#CF5A35",
           "type": "color",
           "inheritTypeLevel": 1
         },
-        "40": {
-          "value": "#55A5EB",
+        "o550": {
+          "value": "#FF5F0F",
           "type": "color",
           "inheritTypeLevel": 1
         },
-        "50": {
-          "value": "#4E89FF",
+        "o600": {
+          "value": "#DC7929",
           "type": "color",
           "inheritTypeLevel": 1
         },
-        "60": {
-          "value": "#1D88E5",
+        "o500": {
+          "value": "#FF8422",
           "type": "color",
           "inheritTypeLevel": 1
         },
-        "70": {
-          "value": "{brand.azul}",
+        "gld500": {
+          "value": "#C28030",
           "type": "color",
           "inheritTypeLevel": 1
         },
-        "80": {
-          "value": "#156AB5",
+        "y400": {
+          "value": "#FFBF39",
           "type": "color",
           "inheritTypeLevel": 1
         },
-        "90": {
-          "value": "#125B9B",
+        "g400": {
+          "value": "#66CC84",
           "type": "color",
           "inheritTypeLevel": 1
         },
-        "100": {
-          "value": "#092C4B",
+        "t500": {
+          "value": "#14BCA0",
           "type": "color",
           "inheritTypeLevel": 1
         },
-        "110": {
-          "value": "#061F35",
+        "t600": {
+          "value": "#2BA09B",
           "type": "color",
           "inheritTypeLevel": 1
         },
-        "120": {
-          "value": "#051A2D",
-          "type": "color",
-          "inheritTypeLevel": 1
-        }
-      },
-      "olive": {
-        "10": {
-          "value": "#F8F9F8",
+        "b500": {
+          "value": "#2D8CFF",
           "type": "color",
           "inheritTypeLevel": 1
         },
-        "20": {
-          "value": "#F1F4F1",
+        "b600": {
+          "value": "#1E71D6",
           "type": "color",
           "inheritTypeLevel": 1
         },
-        "30": {
-          "value": "#DDE3DD",
+        "b700": {
+          "value": "#0956B5",
           "type": "color",
           "inheritTypeLevel": 1
         },
-        "40": {
-          "value": "#91A591",
+        "b800": {
+          "value": "#285081",
           "type": "color",
           "inheritTypeLevel": 1
         },
-        "50": {
-          "value": "#7C937C",
+        "bp400": {
+          "value": "#A477FF",
           "type": "color",
           "inheritTypeLevel": 1
         },
-        "60": {
-          "value": "#738B73",
+        "bp500": {
+          "value": "#9D87C9",
           "type": "color",
           "inheritTypeLevel": 1
         },
-        "70": {
-          "value": "#607560",
+        "bp600": {
+          "value": "#925DFF",
           "type": "color",
           "inheritTypeLevel": 1
         },
-        "80": {
-          "value": "#5A6D5A",
+        "p500": {
+          "value": "#5B4FB0",
           "type": "color",
           "inheritTypeLevel": 1
         },
-        "90": {
-          "value": "#4D5E4D",
+        "p600": {
+          "value": "#493AB7",
           "type": "color",
           "inheritTypeLevel": 1
         },
-        "100": {
-          "value": "#252D25",
+        "gry100": {
+          "value": "#F7F9FA",
           "type": "color",
           "inheritTypeLevel": 1
         },
-        "110": {
-          "value": "#1A1F1A",
-          "type": "color",
-          "inheritTypeLevel": 1
-        },
-        "120": {
-          "value": "#161A16",
+        "gry800": {
+          "value": "#252A30",
           "type": "color",
           "inheritTypeLevel": 1
         }
-      },
-      "purple": {
-        "10": {
-          "value": "#FAF8F9",
-          "type": "color",
-          "inheritTypeLevel": 1
-        },
-        "20": {
-          "value": "#F7F3F6",
-          "type": "color",
-          "inheritTypeLevel": 1
-        },
-        "30": {
-          "value": "#E9DEE5",
-          "type": "color",
-          "inheritTypeLevel": 1
-        },
-        "40": {
-          "value": "#B896AC",
-          "type": "color",
-          "inheritTypeLevel": 1
-        },
-        "50": {
-          "value": "#AA819C",
-          "type": "color",
-          "inheritTypeLevel": 1
-        },
-        "60": {
-          "value": "#A47895",
-          "type": "color",
-          "inheritTypeLevel": 1
-        },
-        "70": {
-          "value": "#90617F",
-          "type": "color",
-          "inheritTypeLevel": 1
-        },
-        "80": {
-          "value": "#865A77",
-          "type": "color",
-          "inheritTypeLevel": 1
-        },
-        "90": {
-          "value": "#734E66",
-          "type": "color",
-          "inheritTypeLevel": 1
-        },
-        "100": {
-          "value": "#382631",
-          "type": "color",
-          "inheritTypeLevel": 1
-        },
-        "110": {
-          "value": "#271A23",
-          "type": "color",
-          "inheritTypeLevel": 1
-        },
-        "120": {
-          "value": "#20161C",
-          "type": "color",
-          "inheritTypeLevel": 1
-        }
-      },
-      "orange": {
-        "10": {
-          "value": "#FFF7EB",
-          "type": "color",
-          "inheritTypeLevel": 1
-        },
-        "20": {
-          "value": "#FFF1DE",
-          "type": "color",
-          "inheritTypeLevel": 1
-        },
-        "30": {
-          "value": "#FFDCAA",
-          "type": "color",
-          "inheritTypeLevel": 1
-        },
-        "40": {
-          "value": "#E68901",
-          "type": "color",
-          "inheritTypeLevel": 1
-        },
-        "50": {
-          "value": "#CD7901",
-          "type": "color",
-          "inheritTypeLevel": 1
-        },
-        "60": {
-          "value": "#C17201",
-          "type": "color",
-          "inheritTypeLevel": 1
-        },
-        "70": {
-          "value": "#A16001",
-          "type": "color",
-          "inheritTypeLevel": 1
-        },
-        "80": {
-          "value": "#975901",
-          "type": "color",
-          "inheritTypeLevel": 1
-        },
-        "90": {
-          "value": "#814D01",
-          "type": "color",
-          "inheritTypeLevel": 1
-        },
-        "100": {
-          "value": "#3F2600",
-          "type": "color",
-          "inheritTypeLevel": 1
-        },
-        "110": {
-          "value": "#2D1A00",
-          "type": "color",
-          "inheritTypeLevel": 1
-        },
-        "120": {
-          "value": "#251600",
-          "type": "color",
-          "inheritTypeLevel": 1
-        }
-      },
-      "teal": {
-        "10": {
-          "value": "#E7FDFE",
-          "type": "color",
-          "inheritTypeLevel": 1
-        },
-        "20": {
-          "value": "#CFFCFD",
-          "type": "color",
-          "inheritTypeLevel": 1
-        },
-        "30": {
-          "value": "#6FF5F9",
-          "type": "color",
-          "inheritTypeLevel": 1
-        },
-        "40": {
-          "value": "#08B1B6",
-          "type": "color",
-          "inheritTypeLevel": 1
-        },
-        "50": {
-          "value": "#079DA1",
-          "type": "color",
-          "inheritTypeLevel": 1
-        },
-        "60": {
-          "value": "#069499",
-          "type": "color",
-          "inheritTypeLevel": 1
-        },
-        "70": {
-          "value": "#057C7F",
-          "type": "color",
-          "inheritTypeLevel": 1
-        },
-        "80": {
-          "value": "#057477",
-          "type": "color",
-          "inheritTypeLevel": 1
-        },
-        "90": {
-          "value": "#046366",
-          "type": "color",
-          "inheritTypeLevel": 1
-        },
-        "100": {
-          "value": "#023133",
-          "type": "color",
-          "inheritTypeLevel": 1
-        },
-        "110": {
-          "value": "#012223",
-          "type": "color",
-          "inheritTypeLevel": 1
-        },
-        "120": {
-          "value": "#011C1D",
-          "type": "color",
-          "inheritTypeLevel": 1
-        }
-      },
-      "red": {
-        "10": {
-          "value": "#FFF7F6",
-          "type": "color",
-          "inheritTypeLevel": 1
-        },
-        "20": {
-          "value": "#FEF2F0",
-          "type": "color",
-          "inheritTypeLevel": 1
-        },
-        "30": {
-          "value": "#FDD9D2",
-          "type": "color",
-          "inheritTypeLevel": 1
-        },
-        "40": {
-          "value": "#F77B62",
-          "type": "color",
-          "inheritTypeLevel": 1
-        },
-        "50": {
-          "value": "#F55939",
-          "type": "color",
-          "inheritTypeLevel": 1
-        },
-        "60": {
-          "value": "#F34521",
-          "type": "color",
-          "inheritTypeLevel": 1
-        },
-        "70": {
-          "value": "#D42D0B",
-          "type": "color",
-          "inheritTypeLevel": 1
-        },
-        "80": {
-          "value": "#C72A0A",
-          "type": "color",
-          "inheritTypeLevel": 1
-        },
-        "90": {
-          "value": "#AB2409",
-          "type": "color",
-          "inheritTypeLevel": 1
-        },
-        "100": {
-          "value": "#561204",
-          "type": "color",
-          "inheritTypeLevel": 1
-        },
-        "110": {
-          "value": "#3E0D03",
-          "type": "color",
-          "inheritTypeLevel": 1
-        },
-        "120": {
-          "value": "#330B03",
-          "type": "color",
-          "inheritTypeLevel": 1
-        }
-      },
-      "yellow": {
-        "10": {
-          "value": "#FFFAD8",
-          "type": "color",
-          "inheritTypeLevel": 1
-        },
-        "20": {
-          "value": "#FEF5B1",
-          "type": "color",
-          "inheritTypeLevel": 1
-        },
-        "30": {
-          "value": "#FDE229",
-          "type": "color",
-          "inheritTypeLevel": 1
-        },
-        "40": {
-          "value": "#B69F02",
-          "type": "color",
-          "inheritTypeLevel": 1
-        },
-        "50": {
-          "value": "#A18D02",
-          "type": "color",
-          "inheritTypeLevel": 1
-        },
-        "60": {
-          "value": "#988502",
-          "type": "color",
-          "inheritTypeLevel": 1
-        },
-        "70": {
-          "value": "#7F6F01",
-          "type": "color",
-          "inheritTypeLevel": 1
-        },
-        "80": {
-          "value": "#776801",
-          "type": "color",
-          "inheritTypeLevel": 1
-        },
-        "90": {
-          "value": "#665901",
-          "type": "color",
-          "inheritTypeLevel": 1
-        },
-        "100": {
-          "value": "#322B01",
-          "type": "color",
-          "inheritTypeLevel": 1
-        },
-        "110": {
-          "value": "#231E00",
-          "type": "color",
-          "inheritTypeLevel": 1
-        },
-        "120": {
-          "value": "#1D1900",
-          "type": "color",
-          "inheritTypeLevel": 1
-        }
-      },
-      "green": {
-        "10": {
-          "value": "#EDFCF2",
-          "type": "color",
-          "inheritTypeLevel": 1
-        },
-        "20": {
-          "value": "#E1FAE9",
-          "type": "color",
-          "inheritTypeLevel": 1
-        },
-        "30": {
-          "value": "#AAF1C2",
-          "type": "color",
-          "inheritTypeLevel": 1
-        },
-        "40": {
-          "value": "#1FB751",
-          "type": "color",
-          "inheritTypeLevel": 1
-        },
-        "50": {
-          "value": "#1BA248",
-          "type": "color",
-          "inheritTypeLevel": 1
-        },
-        "60": {
-          "value": "#1A9944",
-          "type": "color",
-          "inheritTypeLevel": 1
-        },
-        "70": {
-          "value": "#168039",
-          "type": "color",
-          "inheritTypeLevel": 1
-        },
-        "80": {
-          "value": "#147836",
-          "type": "color",
-          "inheritTypeLevel": 1
-        },
-        "90": {
-          "value": "#11662E",
-          "type": "color",
-          "inheritTypeLevel": 1
-        },
-        "100": {
-          "value": "#083216",
-          "type": "color",
-          "inheritTypeLevel": 1
-        },
-        "110": {
-          "value": "#062310",
-          "type": "color",
-          "inheritTypeLevel": 1
-        },
-        "120": {
-          "value": "#051D0D",
-          "type": "color",
-          "inheritTypeLevel": 1
-        }
-      }
-    },
-    "brand": {
-      "slate": {
-        "value": "#646C73",
-        "type": "color",
-        "inheritTypeLevel": 1
-      },
-      "azul": {
-        "value": "#1671C1",
-        "type": "color",
-        "inheritTypeLevel": 1
-      },
-      "olive": {
-        "value": "#2E382E",
-        "type": "color",
-        "inheritTypeLevel": 1
-      },
-      "violet": {
-        "value": "#996888",
-        "type": "color",
-        "inheritTypeLevel": 1
-      },
-      "carrot": {
-        "value": "#F18F01",
-        "type": "color",
-        "inheritTypeLevel": 1
-      },
-      "aqua": {
-        "value": "#42F2F7",
-        "type": "color",
-        "inheritTypeLevel": 1
-      },
-      "tomato": {
-        "value": "#F55D3E",
-        "type": "color",
-        "inheritTypeLevel": 1
-      },
-      "maize": {
-        "value": "#FDE74C",
-        "type": "color",
-        "inheritTypeLevel": 1
-      },
-      "grass": {
-        "value": "#20BF55",
-        "type": "color",
-        "inheritTypeLevel": 1
-      }
-    },
-    "accent": {
-      "r500": {
-        "value": "#FD3D4A",
-        "type": "color",
-        "inheritTypeLevel": 1
-      },
-      "r400": {
-        "value": "#F46670",
-        "type": "color",
-        "inheritTypeLevel": 1
-      },
-      "br600": {
-        "value": "#CF5A35",
-        "type": "color",
-        "inheritTypeLevel": 1
-      },
-      "o550": {
-        "value": "#FF5F0F",
-        "type": "color",
-        "inheritTypeLevel": 1
-      },
-      "o600": {
-        "value": "#DC7929",
-        "type": "color",
-        "inheritTypeLevel": 1
-      },
-      "o500": {
-        "value": "#FF8422",
-        "type": "color",
-        "inheritTypeLevel": 1
-      },
-      "gld500": {
-        "value": "#C28030",
-        "type": "color",
-        "inheritTypeLevel": 1
-      },
-      "y400": {
-        "value": "#FFBF39",
-        "type": "color",
-        "inheritTypeLevel": 1
-      },
-      "g400": {
-        "value": "#66CC84",
-        "type": "color",
-        "inheritTypeLevel": 1
-      },
-      "t500": {
-        "value": "#14BCA0",
-        "type": "color",
-        "inheritTypeLevel": 1
-      },
-      "t600": {
-        "value": "#2BA09B",
-        "type": "color",
-        "inheritTypeLevel": 1
-      },
-      "b500": {
-        "value": "#2D8CFF",
-        "type": "color",
-        "inheritTypeLevel": 1
-      },
-      "b600": {
-        "value": "#1E71D6",
-        "type": "color",
-        "inheritTypeLevel": 1
-      },
-      "b700": {
-        "value": "#0956B5",
-        "type": "color",
-        "inheritTypeLevel": 1
-      },
-      "b800": {
-        "value": "#285081",
-        "type": "color",
-        "inheritTypeLevel": 1
-      },
-      "bp400": {
-        "value": "#A477FF",
-        "type": "color",
-        "inheritTypeLevel": 1
-      },
-      "bp500": {
-        "value": "#9D87C9",
-        "type": "color",
-        "inheritTypeLevel": 1
-      },
-      "bp600": {
-        "value": "#925DFF",
-        "type": "color",
-        "inheritTypeLevel": 1
-      },
-      "p500": {
-        "value": "#5B4FB0",
-        "type": "color",
-        "inheritTypeLevel": 1
-      },
-      "p600": {
-        "value": "#493AB7",
-        "type": "color",
-        "inheritTypeLevel": 1
-      },
-      "gry100": {
-        "value": "#F7F9FA",
-        "type": "color",
-        "inheritTypeLevel": 1
-      },
-      "gry800": {
-        "value": "#252A30",
-        "type": "color",
-        "inheritTypeLevel": 1
       }
     }
   }
