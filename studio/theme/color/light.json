@@ -126,22 +126,22 @@
         "inheritTypeLevel": 2
       },
       "supplementary1": {
-        "value": "{palette.gl.ui.olive.50}",
-        "description": "olive-50",
+        "value": "{palette.gl.ui.olive.70}",
         "type": "color",
-        "inheritTypeLevel": 2
+        "inheritTypeLevel": 2,
+        "description": "olive-50"
       },
       "supplementary2": {
-        "value": "{palette.gl.ui.purple.50}",
-        "description": "purple-50",
+        "value": "{palette.gl.ui.purple.70}",
         "type": "color",
-        "inheritTypeLevel": 2
+        "inheritTypeLevel": 2,
+        "description": "purple-50"
       },
       "supplementary3": {
-        "value": "{palette.gl.ui.teal.50}",
-        "description": "teal-50",
+        "value": "{palette.gl.ui.teal.70}",
         "type": "color",
-        "inheritTypeLevel": 2
+        "inheritTypeLevel": 2,
+        "description": "teal-50"
       },
       "darkOverlay": {
         "value": "rgba({palette.gl.ui.black},{shade.50})",
