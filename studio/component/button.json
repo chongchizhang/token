@@ -225,7 +225,7 @@
             "default": {
               "value": {
                 "typography": "{bodyBold}",
-                "fill": "{color.text.inverse}"
+                "fill": "{color.text.inverse.neutral}"
               },
               "type": "composition"
             },
