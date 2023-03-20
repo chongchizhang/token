@@ -581,53 +581,6 @@
           }
         }
       },
-      "palette.gl.brand": {
-        "slate": {
-          "value": "#646C73",
-          "type": "color",
-          "inheritTypeLevel": 1
-        },
-        "azul": {
-          "value": "#1671C1",
-          "type": "color",
-          "inheritTypeLevel": 1
-        },
-        "olive": {
-          "value": "#2E382E",
-          "type": "color",
-          "inheritTypeLevel": 1
-        },
-        "violet": {
-          "value": "#996888",
-          "type": "color",
-          "inheritTypeLevel": 1
-        },
-        "carrot": {
-          "value": "#F18F01",
-          "type": "color",
-          "inheritTypeLevel": 1
-        },
-        "aqua": {
-          "value": "#42F2F7",
-          "type": "color",
-          "inheritTypeLevel": 1
-        },
-        "tomato": {
-          "value": "#F55D3E",
-          "type": "color",
-          "inheritTypeLevel": 1
-        },
-        "maize": {
-          "value": "#FDE74C",
-          "type": "color",
-          "inheritTypeLevel": 1
-        },
-        "grass": {
-          "value": "#20BF55",
-          "type": "color",
-          "inheritTypeLevel": 1
-        }
-      },
       "accent": {
         "r500": {
           "value": "#FD3D4A",
@@ -736,6 +689,53 @@
         },
         "gry800": {
           "value": "#252A30",
+          "type": "color",
+          "inheritTypeLevel": 1
+        }
+      },
+      "brand": {
+        "slate": {
+          "value": "#646C73",
+          "type": "color",
+          "inheritTypeLevel": 1
+        },
+        "azul": {
+          "value": "#1671C1",
+          "type": "color",
+          "inheritTypeLevel": 1
+        },
+        "olive": {
+          "value": "#2E382E",
+          "type": "color",
+          "inheritTypeLevel": 1
+        },
+        "violet": {
+          "value": "#996888",
+          "type": "color",
+          "inheritTypeLevel": 1
+        },
+        "carrot": {
+          "value": "#F18F01",
+          "type": "color",
+          "inheritTypeLevel": 1
+        },
+        "aqua": {
+          "value": "#42F2F7",
+          "type": "color",
+          "inheritTypeLevel": 1
+        },
+        "tomato": {
+          "value": "#F55D3E",
+          "type": "color",
+          "inheritTypeLevel": 1
+        },
+        "maize": {
+          "value": "#FDE74C",
+          "type": "color",
+          "inheritTypeLevel": 1
+        },
+        "grass": {
+          "value": "#20BF55",
           "type": "color",
           "inheritTypeLevel": 1
         }
