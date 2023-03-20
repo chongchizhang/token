@@ -1221,7 +1221,7 @@
         "iconColor": {
           "default": {
             "value": {
-              "fill": "{color.icon.inverse}"
+              "fill": "{icon.inverse}"
             },
             "type": "composition"
           },
@@ -1487,7 +1487,7 @@
       "iconColor": {
         "default": {
           "value": {
-            "fill": "{color.icon.inverse}"
+            "fill": "{icon.inverse}"
           },
           "type": "composition"
         },
