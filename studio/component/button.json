@@ -77,7 +77,7 @@
         "small": {
           "default": {
             "value": {
-              "fill": "{color.fill.supplementary2}",
+              "fill": "{color.fill.supplementary1}",
               "horizontalPadding": "{padding.md}",
               "verticalPadding": "{padding.xxs}",
               "itemSpacing": "{gap.xs}",
