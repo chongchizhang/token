@@ -32,6 +32,8 @@
     "component/tooltip",
     "component/audioLevel",
     "component/progressBar",
-    "component/slider"
+    "component/slider",
+    "theme/color/retroDark",
+    "theme/color/retroLight"
   ]
 }

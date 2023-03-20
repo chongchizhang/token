@@ -1112,10 +1112,10 @@
             "inheritTypeLevel": 2
           },
           "press": {
-            "value": "rgba({palette.gl.ui.black},{opacity.xxxl})",
-            "description": "opacity-xxxl",
+            "value": "rgba({palette.gl.ui.black},{opacity.xxl})",
             "type": "color",
-            "inheritTypeLevel": 2
+            "inheritTypeLevel": 2,
+            "description": "opacity-xxxl"
           }
         },
         "lightOverlay": {
