@@ -116,7 +116,7 @@
             "inheritTypeLevel": 1
           },
           "70": {
-            "value": "{brand.azul}",
+            "value": "{palette.gl.brand.azul}",
             "type": "color",
             "inheritTypeLevel": 1
           },
@@ -581,7 +581,7 @@
           }
         }
       },
-      "brand": {
+      "palette.gl.brand": {
         "slate": {
           "value": "#646C73",
           "type": "color",
