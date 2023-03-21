@@ -82,6 +82,11 @@
       "type": "fontWeight",
       "inheritTypeLevel": 1
     },
+    "semiBold3": {
+      "value": "SemiBold",
+      "type": "fontWeight",
+      "inheritTypeLevel": 1
+    },
     "semiBoldDisplay": {
       "value": "Semibold Display",
       "type": "fontWeight",
