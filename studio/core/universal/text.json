@@ -102,6 +102,11 @@
       "type": "fontWeight",
       "inheritTypeLevel": 1
     },
+    "boldText": {
+      "value": "Bold Text",
+      "type": "fontWeight",
+      "inheritTypeLevel": 1
+    },
     "boldDisplay": {
       "value": "Bold Display",
       "type": "fontWeight",
