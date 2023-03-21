@@ -259,6 +259,11 @@
         "value": "roundTo({desktop.borderRadius.xxxl}*{scale.majorSecond})",
         "type": "borderRadius",
         "inheritTypeLevel": 2
+      },
+      "max": {
+        "value": "roundTo({desktop.borderRadius.max}*{scale.majorSecond})",
+        "type": "borderRadius",
+        "inheritTypeLevel": 2
       }
     },
     "borderWidth": {

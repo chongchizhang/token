@@ -259,6 +259,11 @@
         "value": "40",
         "type": "borderRadius",
         "inheritTypeLevel": 2
+      },
+      "max": {
+        "value": "9999",
+        "type": "borderRadius",
+        "inheritTypeLevel": 2
       }
     },
     "borderWidth": {

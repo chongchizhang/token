@@ -32,9 +32,6 @@
       "dropShadow.lg": "S:dcb369fa825beb85a0ba3443aeecb400b0bd9516,",
       "foreground.label": "S:988fa5d6bb6d8c5e1dde41b18be9e90d6c5fdc02,",
       "body": "S:b2e5fbd4d1c8e5c1f3b519eff49721d918bb2977,",
-      "subtitleBold": "S:640b52a555a9a965bd120370c942bc449abf60ed,",
-      "subtitle": "S:cee503ab8e7e28eed1d83cae8eba73472ed7c365,",
-      "caption": "S:006e64610eba5553923d2fa62a4a15a9535ef5c8,",
       "bg.default": "S:242be7fc40344613bc76293281f3b74497a01ea0,",
       "bg.neutral": "S:4057b3cdb43d5b9c9b1d4c36f2593e8f00f89424,",
       "bg.primary": "S:74cc126c6871e5c851950193c4b8b7efb1897249,",
@@ -306,7 +303,9 @@
       "heading1": "S:f01c8b6040c2b567d2a079af72d079f03f5f5eb2,",
       "heading2": "S:884f098699225e153b31828a345a906db9d038e5,",
       "heading3": "S:97b7f61d616ed095f3ca4a51ea199aa22fe61be8,",
-      "title": "S:d11395f10663842259222aa56395876b91359b7b,"
+      "title": "S:d11395f10663842259222aa56395876b91359b7b,",
+      "caption": "S:640b52a555a9a965bd120370c942bc449abf60ed,",
+      "detail": "S:cee503ab8e7e28eed1d83cae8eba73472ed7c365,"
     }
   },
   {
@@ -453,15 +452,14 @@
       "dropShadow.lg": "S:830d2283c8d48eafb6fbbbbcf31aba6c2530222e,",
       "foreground.label": "S:988fa5d6bb6d8c5e1dde41b18be9e90d6c5fdc02,",
       "body": "S:46846c57eed2be1b20595d620a416913abe45fbd,",
-      "subtitleBold": "S:ead508872c0e82fb207a9f6743373baa8c5c0c69,",
-      "subtitle": "S:a0fe8fb1111b0c46d3ab6b0797f5b3f8f1888c8a,",
-      "caption": "S:a84e941a135e66cde2dd48c322ccf2b68ec45e33,",
       "onBase.label": "S:a40b0395a92307b62f1e0bb997b073795b7a82b2,",
       "fill.default": "S:e9e77ea415c853341e02d95702d5858bc44c7643,",
       "heading1": "S:2c29e2392dd96fd6cd2e1b4f020b209c45047737,",
       "heading2": "S:930756559b612ae42f715282091b107a7729e310,",
       "heading3": "S:d6ef634ad3738d69e9ea53cf6d822354b1e4610a,",
-      "title": "S:2778c200367e1370f741ef491f64bef7b9f9f42b,"
+      "title": "S:2778c200367e1370f741ef491f64bef7b9f9f42b,",
+      "caption": "S:ead508872c0e82fb207a9f6743373baa8c5c0c69,",
+      "detail": "S:a0fe8fb1111b0c46d3ab6b0797f5b3f8f1888c8a,"
     }
   },
   {
@@ -496,9 +494,7 @@
     },
     "$figmaStyleReferences": {
       "body": "S:d7e76dffb6639fc475b960c8cf50a804f8d3688b,",
-      "subtitleBold": "S:c79793265055c4d4114f28a4781eed73c7751494,",
-      "subtitle": "S:88fff59c193b99d799b4858ceb737704cd7f0618,",
-      "caption": "S:05d360ec0f2f2e5129ddd2a7ed2d9b1966d898dc,",
+      "caption": "S:c79793265055c4d4114f28a4781eed73c7751494,",
       "bg.default": "S:242be7fc40344613bc76293281f3b74497a01ea0,",
       "bg.neutral": "S:4057b3cdb43d5b9c9b1d4c36f2593e8f00f89424,",
       "bg.primary": "S:74cc126c6871e5c851950193c4b8b7efb1897249,",
@@ -618,7 +614,8 @@
       "heading1": "S:9c54842c138a124a3dc3cb974b5e08d151dd651b,",
       "heading2": "S:724c9d5063a00e8039a8d01937f6e11e96cbe5f1,",
       "heading3": "S:e7bf69be7df4cc57860bf2b4f2ff2fcbd7162a65,",
-      "title": "S:9418b6954c4e1c3eeebcb6afb56ac2d9c1f0c3b4,"
+      "title": "S:9418b6954c4e1c3eeebcb6afb56ac2d9c1f0c3b4,",
+      "detail": "S:88fff59c193b99d799b4858ceb737704cd7f0618,"
     }
   },
   {
@@ -764,15 +761,14 @@
       "dropShadow.md": "S:6febffd4b8e7b6b01dfb343cbd921aa7db4f3351,",
       "dropShadow.lg": "S:07715705169fef25d2b8336ad12b3414cca5aa89,",
       "body": "S:930458c1af90f12cdc78550b84ac75646ed13916,",
-      "subtitleBold": "S:5fb7235877cf1addf52cf494c0dec964703f699b,",
-      "subtitle": "S:8d553da9b44ffb9114ee0a940f4f59b4eb8308bb,",
-      "caption": "S:d01b558989d4549bcadab51eb8712fb46b56476f,",
       "onBase.label": "S:39d357f62ba32fc41969280a29545b032dea1e68,",
       "fill.default": "S:fea1ee9dedff16cf1345402de90285b4aab2129f,",
       "heading1": "S:c81289a48b6b63fe2462cf68122e9d39c18957eb,",
       "heading2": "S:49d8651ba1bf85561321db5b5de2e731766b92b5,",
       "heading3": "S:223a5b772ac22f3fda3b38faa318b836024fa125,",
-      "title": "S:07761c1cbd08f1126e4635ad2c166d7e0bd0cffc,"
+      "title": "S:07761c1cbd08f1126e4635ad2c166d7e0bd0cffc,",
+      "caption": "S:5fb7235877cf1addf52cf494c0dec964703f699b,",
+      "detail": "S:8d553da9b44ffb9114ee0a940f4f59b4eb8308bb,"
     }
   }
 ]
