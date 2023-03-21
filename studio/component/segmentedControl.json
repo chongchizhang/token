@@ -62,14 +62,14 @@
       "selected": {
         "default": {
           "value": {
-            "typography": "{bodyBold}",
+            "typography": "{title}",
             "fill": "{text.primary}"
           },
           "type": "composition"
         },
         "disable": {
           "value": {
-            "typography": "{bodyBold}",
+            "typography": "{title}",
             "fill": "{text.subtle.neutral}"
           },
           "type": "composition"

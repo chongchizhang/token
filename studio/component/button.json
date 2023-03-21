@@ -224,14 +224,14 @@
           "medium": {
             "default": {
               "value": {
-                "typography": "{bodyBold}",
+                "typography": "{title}",
                 "fill": "{color.text.inverse.neutral}"
               },
               "type": "composition"
             },
             "disable": {
               "value": {
-                "typography": "{bodyBold}",
+                "typography": "{title}",
                 "fill": "{color.text.subtle.neutral}"
               },
               "type": "composition"

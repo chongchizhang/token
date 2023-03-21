@@ -81,7 +81,7 @@
     },
     "paragraphSpacing": {
       "sm": {
-        "value": "4",
+        "value": "6",
         "type": "paragraphSpacing",
         "inheritTypeLevel": 2
       },
@@ -91,7 +91,7 @@
         "inheritTypeLevel": 2
       },
       "lg": {
-        "value": "16",
+        "value": "12",
         "type": "paragraphSpacing",
         "inheritTypeLevel": 2
       }
