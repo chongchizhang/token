@@ -116,7 +116,7 @@
             "inheritTypeLevel": 2
           },
           "70": {
-            "value": "{brand.bloom}",
+            "value": "{palette.zoom.brand.bloom}",
             "type": "color",
             "inheritTypeLevel": 2
           },
@@ -468,7 +468,7 @@
             "inheritTypeLevel": 2
           },
           "30": {
-            "value": "{brand.spearmint}",
+            "value": "{palette.zoom.brand.spearmint}",
             "type": "color",
             "inheritTypeLevel": 2
           },

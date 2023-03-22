@@ -34,8 +34,8 @@
     "onBase": {
       "label": {
         "value": {
-          "typography": "{title}",
-          "fill": "{text.stronger.neutral}"
+          "typography": "{typography.label}",
+          "fill": "{color.text.stronger.neutral}"
         },
         "type": "composition"
       },

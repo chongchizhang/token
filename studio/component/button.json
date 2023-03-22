@@ -224,7 +224,7 @@
           "medium": {
             "default": {
               "value": {
-                "typography": "{title}",
+                "typography": "{typography.title}",
                 "fill": "{color.text.inverse.neutral}"
               },
               "type": "composition"
