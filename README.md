@@ -19,11 +19,9 @@ It is often desirable for design system teams to integrate such tools together, 
         2. Use Global Library components, which already contain design tokens
     - Advanced
         1. Download [Tokens Studio for Figma](https://www.figma.com/community/plugin/843461159747178978/Tokens-Studio-for-Figma-(Figma-Tokens))
-        2. Visit Zoom Design System GitLab Token [repository](https://git.zoom.us/design/system/tokens)
+        2. Visit Global Library Design Token [repository](https://github.com/chongchizhang/token)
         2. Follow [GitLab Sync steps on Tokens Studio Figma Docs](https://docs.tokens.studio/sync/gitlab)
 - For developers
-    - Visit [Zoom Artifacory on JFrog](https://artifacts.corp.zoom.us/ui/packages)
-    - Search for "@zoom/design-token"
-    - Install the design token npm package
+    - Coming soon
 
 Visit [Design Tokens WCG](https://tr.designtokens.org/format/) for detailed introduction

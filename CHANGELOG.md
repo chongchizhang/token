@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.2.0]
+### Updated
+- README.md 
+### Removed 
+- In Core tier
+    - Removed two color palette
+
 ## [0.1.0]
 
 ### Removed 
