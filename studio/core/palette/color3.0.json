@@ -1,743 +1,460 @@
 {
+  "": {
+    "type": "color"
+  },
   "palette": {
     "gl": {
       "ui": {
         "black": {
-          "value": "#000000",
-          "type": "color",
-          "inheritTypeLevel": 1
+          "value": "#000000"
         },
         "white": {
-          "value": "#FFFFFF",
-          "type": "color",
-          "inheritTypeLevel": 1
+          "value": "#FFFFFF"
         },
         "gray": {
           "0": {
-            "value": "#FFFFFF",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#FFFFFF"
           },
           "10": {
-            "value": "#F8F9F9",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#F8F9F9"
           },
           "20": {
-            "value": "#F3F3F4",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#F3F3F4"
           },
           "30": {
-            "value": "#E0E2E4",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#E0E2E4"
           },
           "40": {
-            "value": "#99A0A7",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#99A0A7"
           },
           "50": {
-            "value": "#868E96",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#868E96"
           },
           "60": {
-            "value": "#7D868E",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#7D868E"
           },
           "70": {
-            "value": "#687078",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#687078"
           },
           "80": {
-            "value": "#616970",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#616970"
           },
           "90": {
-            "value": "#535A5F",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#535A5F"
           },
           "100": {
-            "value": "#282C2E",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#282C2E"
           },
           "110": {
-            "value": "#1C1E20",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#1C1E20"
           },
           "120": {
-            "value": "#17191B",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#17191B"
           },
           "130": {
-            "value": "#141414",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#141414"
           }
         },
         "blue": {
           "10": {
-            "value": "#F4F9FE",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#F4F9FE"
           },
           "20": {
-            "value": "#ECF5FD",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#ECF5FD"
           },
           "30": {
-            "value": "#CEE5F9",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#CEE5F9"
           },
           "40": {
-            "value": "#55A5EB",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#55A5EB"
           },
           "50": {
-            "value": "#4E89FF",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#4E89FF"
           },
           "60": {
-            "value": "#1D88E5",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#1D88E5"
           },
           "70": {
-            "value": "{palette.gl.brand.azul}",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "{palette.gl.brand.azul}"
           },
           "80": {
-            "value": "#156AB5",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#156AB5"
           },
           "90": {
-            "value": "#125B9B",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#125B9B"
           },
           "100": {
-            "value": "#092C4B",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#092C4B"
           },
           "110": {
-            "value": "#061F35",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#061F35"
           },
           "120": {
-            "value": "#051A2D",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#051A2D"
           }
         },
         "olive": {
           "10": {
-            "value": "#F8F9F8",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#F8F9F8"
           },
           "20": {
-            "value": "#F1F4F1",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#F1F4F1"
           },
           "30": {
-            "value": "#DDE3DD",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#DDE3DD"
           },
           "40": {
-            "value": "#91A591",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#91A591"
           },
           "50": {
-            "value": "#7C937C",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#7C937C"
           },
           "60": {
-            "value": "#738B73",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#738B73"
           },
           "70": {
-            "value": "#607560",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#607560"
           },
           "80": {
-            "value": "#5A6D5A",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#5A6D5A"
           },
           "90": {
-            "value": "#4D5E4D",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#4D5E4D"
           },
           "100": {
-            "value": "#252D25",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#252D25"
           },
           "110": {
-            "value": "#1A1F1A",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#1A1F1A"
           },
           "120": {
-            "value": "#161A16",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#161A16"
           }
         },
         "purple": {
           "10": {
-            "value": "#FAF8F9",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#FAF8F9"
           },
           "20": {
-            "value": "#F7F3F6",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#F7F3F6"
           },
           "30": {
-            "value": "#E9DEE5",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#E9DEE5"
           },
           "40": {
-            "value": "#B896AC",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#B896AC"
           },
           "50": {
-            "value": "#AA819C",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#AA819C"
           },
           "60": {
-            "value": "#A47895",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#A47895"
           },
           "70": {
-            "value": "#90617F",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#90617F"
           },
           "80": {
-            "value": "#865A77",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#865A77"
           },
           "90": {
-            "value": "#734E66",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#734E66"
           },
           "100": {
-            "value": "#382631",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#382631"
           },
           "110": {
-            "value": "#271A23",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#271A23"
           },
           "120": {
-            "value": "#20161C",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#20161C"
           }
         },
         "orange": {
           "10": {
-            "value": "#FFF7EB",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#FFF7EB"
           },
           "20": {
-            "value": "#FFF1DE",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#FFF1DE"
           },
           "30": {
-            "value": "#FFDCAA",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#FFDCAA"
           },
           "40": {
-            "value": "#E68901",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#E68901"
           },
           "50": {
-            "value": "#CD7901",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#CD7901"
           },
           "60": {
-            "value": "#C17201",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#C17201"
           },
           "70": {
-            "value": "#A16001",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#A16001"
           },
           "80": {
-            "value": "#975901",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#975901"
           },
           "90": {
-            "value": "#814D01",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#814D01"
           },
           "100": {
-            "value": "#3F2600",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#3F2600"
           },
           "110": {
-            "value": "#2D1A00",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#2D1A00"
           },
           "120": {
-            "value": "#251600",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#251600"
           }
         },
         "teal": {
           "10": {
-            "value": "#E7FDFE",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#E7FDFE"
           },
           "20": {
-            "value": "#CFFCFD",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#CFFCFD"
           },
           "30": {
-            "value": "#6FF5F9",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#6FF5F9"
           },
           "40": {
-            "value": "#08B1B6",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#08B1B6"
           },
           "50": {
-            "value": "#079DA1",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#079DA1"
           },
           "60": {
-            "value": "#069499",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#069499"
           },
           "70": {
-            "value": "#057C7F",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#057C7F"
           },
           "80": {
-            "value": "#057477",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#057477"
           },
           "90": {
-            "value": "#046366",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#046366"
           },
           "100": {
-            "value": "#023133",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#023133"
           },
           "110": {
-            "value": "#012223",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#012223"
           },
           "120": {
-            "value": "#011C1D",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#011C1D"
           }
         },
         "red": {
           "10": {
-            "value": "#FFF7F6",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#FFF7F6"
           },
           "20": {
-            "value": "#FEF2F0",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#FEF2F0"
           },
           "30": {
-            "value": "#FDD9D2",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#FDD9D2"
           },
           "40": {
-            "value": "#F77B62",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#F77B62"
           },
           "50": {
-            "value": "#F55939",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#F55939"
           },
           "60": {
-            "value": "#F34521",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#F34521"
           },
           "70": {
-            "value": "#D42D0B",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#D42D0B"
           },
           "80": {
-            "value": "#C72A0A",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#C72A0A"
           },
           "90": {
-            "value": "#AB2409",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#AB2409"
           },
           "100": {
-            "value": "#561204",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#561204"
           },
           "110": {
-            "value": "#3E0D03",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#3E0D03"
           },
           "120": {
-            "value": "#330B03",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#330B03"
           }
         },
         "yellow": {
           "10": {
-            "value": "#FFFAD8",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#FFFAD8"
           },
           "20": {
-            "value": "#FEF5B1",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#FEF5B1"
           },
           "30": {
-            "value": "#FDE229",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#FDE229"
           },
           "40": {
-            "value": "#B69F02",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#B69F02"
           },
           "50": {
-            "value": "#A18D02",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#A18D02"
           },
           "60": {
-            "value": "#988502",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#988502"
           },
           "70": {
-            "value": "#7F6F01",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#7F6F01"
           },
           "80": {
-            "value": "#776801",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#776801"
           },
           "90": {
-            "value": "#665901",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#665901"
           },
           "100": {
-            "value": "#322B01",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#322B01"
           },
           "110": {
-            "value": "#231E00",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#231E00"
           },
           "120": {
-            "value": "#1D1900",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#1D1900"
           }
         },
         "green": {
           "10": {
-            "value": "#EDFCF2",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#EDFCF2"
           },
           "20": {
-            "value": "#E1FAE9",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#E1FAE9"
           },
           "30": {
-            "value": "#AAF1C2",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#AAF1C2"
           },
           "40": {
-            "value": "#1FB751",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#1FB751"
           },
           "50": {
-            "value": "#1BA248",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#1BA248"
           },
           "60": {
-            "value": "#1A9944",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#1A9944"
           },
           "70": {
-            "value": "#168039",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#168039"
           },
           "80": {
-            "value": "#147836",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#147836"
           },
           "90": {
-            "value": "#11662E",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#11662E"
           },
           "100": {
-            "value": "#083216",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#083216"
           },
           "110": {
-            "value": "#062310",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#062310"
           },
           "120": {
-            "value": "#051D0D",
-            "type": "color",
-            "inheritTypeLevel": 1
+            "value": "#051D0D"
           }
         }
       },
       "accent": {
         "r500": {
-          "value": "#FD3D4A",
-          "type": "color",
-          "inheritTypeLevel": 1
+          "value": "#FD3D4A"
         },
         "r400": {
-          "value": "#F46670",
-          "type": "color",
-          "inheritTypeLevel": 1
+          "value": "#F46670"
         },
         "br600": {
-          "value": "#CF5A35",
-          "type": "color",
-          "inheritTypeLevel": 1
+          "value": "#CF5A35"
         },
         "o550": {
-          "value": "#FF5F0F",
-          "type": "color",
-          "inheritTypeLevel": 1
+          "value": "#FF5F0F"
         },
         "o600": {
-          "value": "#DC7929",
-          "type": "color",
-          "inheritTypeLevel": 1
+          "value": "#DC7929"
         },
         "o500": {
-          "value": "#FF8422",
-          "type": "color",
-          "inheritTypeLevel": 1
+          "value": "#FF8422"
         },
         "gld500": {
-          "value": "#C28030",
-          "type": "color",
-          "inheritTypeLevel": 1
+          "value": "#C28030"
         },
         "y400": {
-          "value": "#FFBF39",
-          "type": "color",
-          "inheritTypeLevel": 1
+          "value": "#FFBF39"
         },
         "g400": {
-          "value": "#66CC84",
-          "type": "color",
-          "inheritTypeLevel": 1
+          "value": "#66CC84"
         },
         "t500": {
-          "value": "#14BCA0",
-          "type": "color",
-          "inheritTypeLevel": 1
+          "value": "#14BCA0"
         },
         "t600": {
-          "value": "#2BA09B",
-          "type": "color",
-          "inheritTypeLevel": 1
+          "value": "#2BA09B"
         },
         "b500": {
-          "value": "#2D8CFF",
-          "type": "color",
-          "inheritTypeLevel": 1
+          "value": "#2D8CFF"
         },
         "b600": {
-          "value": "#1E71D6",
-          "type": "color",
-          "inheritTypeLevel": 1
+          "value": "#1E71D6"
         },
         "b700": {
-          "value": "#0956B5",
-          "type": "color",
-          "inheritTypeLevel": 1
+          "value": "#0956B5"
         },
         "b800": {
-          "value": "#285081",
-          "type": "color",
-          "inheritTypeLevel": 1
+          "value": "#285081"
         },
         "bp400": {
-          "value": "#A477FF",
-          "type": "color",
-          "inheritTypeLevel": 1
+          "value": "#A477FF"
         },
         "bp500": {
-          "value": "#9D87C9",
-          "type": "color",
-          "inheritTypeLevel": 1
+          "value": "#9D87C9"
         },
         "bp600": {
-          "value": "#925DFF",
-          "type": "color",
-          "inheritTypeLevel": 1
+          "value": "#925DFF"
         },
         "p500": {
-          "value": "#5B4FB0",
-          "type": "color",
-          "inheritTypeLevel": 1
+          "value": "#5B4FB0"
         },
         "p600": {
-          "value": "#493AB7",
-          "type": "color",
-          "inheritTypeLevel": 1
+          "value": "#493AB7"
         },
         "gry100": {
-          "value": "#F7F9FA",
-          "type": "color",
-          "inheritTypeLevel": 1
+          "value": "#F7F9FA"
         },
         "gry800": {
-          "value": "#252A30",
-          "type": "color",
-          "inheritTypeLevel": 1
+          "value": "#252A30"
         }
       },
       "brand": {
         "slate": {
-          "value": "#646C73",
-          "type": "color",
-          "inheritTypeLevel": 1
+          "value": "#646C73"
         },
         "azul": {
-          "value": "#1671C1",
-          "type": "color",
-          "inheritTypeLevel": 1
+          "value": "#1671C1"
         },
         "olive": {
-          "value": "#2E382E",
-          "type": "color",
-          "inheritTypeLevel": 1
+          "value": "#2E382E"
         },
         "violet": {
-          "value": "#996888",
-          "type": "color",
-          "inheritTypeLevel": 1
+          "value": "#996888"
         },
         "carrot": {
-          "value": "#F18F01",
-          "type": "color",
-          "inheritTypeLevel": 1
+          "value": "#F18F01"
         },
         "aqua": {
-          "value": "#42F2F7",
-          "type": "color",
-          "inheritTypeLevel": 1
+          "value": "#42F2F7"
         },
         "tomato": {
-          "value": "#F55D3E",
-          "type": "color",
-          "inheritTypeLevel": 1
+          "value": "#F55D3E"
         },
         "maize": {
-          "value": "#FDE74C",
-          "type": "color",
-          "inheritTypeLevel": 1
+          "value": "#FDE74C"
         },
         "grass": {
-          "value": "#20BF55",
-          "type": "color",
-          "inheritTypeLevel": 1
+          "value": "#20BF55"
         }
       }
     }

@@ -1,90 +1,57 @@
 {
   "mobile": {
+    "type": "other",
     "spread": {
       "none": {
-        "value": "roundTo({desktop.spread.none}*{scale.majorSecond})",
-        "type": "other",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.spread.none}*{scale.majorSecond})"
       },
       "xxxs": {
-        "value": "roundTo({desktop.spread.xxxs}*{scale.majorSecond})",
-        "type": "other",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.spread.xxxs}*{scale.majorSecond})"
       },
       "xxs": {
-        "value": "roundTo({desktop.spread.xxs}*{scale.majorSecond})",
-        "type": "other",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.spread.xxs}*{scale.majorSecond})"
       },
       "xs": {
-        "value": "roundTo({desktop.spread.xs}*{scale.majorSecond})",
-        "type": "other",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.spread.xs}*{scale.majorSecond})"
       },
       "sm": {
-        "value": "roundTo({desktop.spread.sm}*{scale.majorSecond})",
-        "type": "other",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.spread.sm}*{scale.majorSecond})"
       },
       "xxms": {
-        "value": "roundTo({desktop.spread.xxms}*{scale.majorSecond})",
-        "type": "other",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.spread.xxms}*{scale.majorSecond})"
       },
       "xms": {
-        "value": "roundTo({desktop.spread.xms}*{scale.majorSecond})",
-        "type": "other",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.spread.xms}*{scale.majorSecond})"
       },
       "ms": {
-        "value": "roundTo({desktop.spread.ms}*{scale.majorSecond})",
-        "type": "other",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.spread.ms}*{scale.majorSecond})"
       },
       "md": {
-        "value": "roundTo({desktop.spread.md}*{scale.majorSecond})",
-        "type": "other",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.spread.md}*{scale.majorSecond})"
       },
       "ml": {
-        "value": "roundTo({desktop.spread.ml}*{scale.majorSecond})",
-        "type": "other",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.spread.ml}*{scale.majorSecond})"
       },
       "xml": {
-        "value": "roundTo({desktop.spread.xml}*{scale.majorSecond})",
-        "type": "other",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.spread.xml}*{scale.majorSecond})"
       },
       "xxml": {
-        "value": "roundTo({desktop.spread.xxml}*{scale.majorSecond})",
-        "type": "other",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.spread.xxml}*{scale.majorSecond})"
       },
       "xxxml": {
-        "value": "roundTo({desktop.spread.xxxml}*{scale.majorSecond})",
-        "type": "other",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.spread.xxxml}*{scale.majorSecond})"
       },
       "lg": {
-        "value": "roundTo({desktop.spread.lg}*{scale.majorSecond})",
-        "type": "other",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.spread.lg}*{scale.majorSecond})"
       },
       "xl": {
-        "value": "roundTo({desktop.spread.xl}*{scale.majorSecond})",
-        "type": "other",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.spread.xl}*{scale.majorSecond})"
       },
       "xxl": {
-        "value": "roundTo({desktop.spread.xxl}*{scale.majorSecond})",
-        "type": "other",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.spread.xxl}*{scale.majorSecond})"
       },
       "xxxl": {
-        "value": "roundTo({desktop.spread.xxxl}*{scale.majorSecond})",
-        "type": "other",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.spread.xxxl}*{scale.majorSecond})"
       }
     }
   }

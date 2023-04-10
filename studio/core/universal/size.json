@@ -1,126 +1,81 @@
 {
+  "": {
+    "type": "other"
+  },
   "scale": {
     "minorSecond": {
-      "value": "1.067",
-      "type": "other",
-      "inheritTypeLevel": 1
+      "value": "1.067"
     },
     "majorSecond": {
-      "value": "1.125",
-      "type": "other",
-      "inheritTypeLevel": 1
+      "value": "1.125"
     },
     "minorThird": {
-      "value": "1.2",
-      "type": "other",
-      "inheritTypeLevel": 1
+      "value": "1.2"
     },
     "majorThird": {
-      "value": "1.25",
-      "type": "other",
-      "inheritTypeLevel": 1
+      "value": "1.25"
     },
     "perfectFourth": {
-      "value": "1.333",
-      "type": "other",
-      "inheritTypeLevel": 1
+      "value": "1.333"
     },
     "augmentedFourth": {
-      "value": "1.414",
-      "type": "other",
-      "inheritTypeLevel": 1
+      "value": "1.414"
     },
     "perfectFifth": {
-      "value": "1.5",
-      "type": "other",
-      "inheritTypeLevel": 1
+      "value": "1.5"
     },
     "minorSixth": {
-      "value": "1.6",
-      "type": "other",
-      "inheritTypeLevel": 1
+      "value": "1.6"
     },
     "goldenRatio": {
-      "value": "1.618",
-      "type": "other",
-      "inheritTypeLevel": 1
+      "value": "1.618"
     },
     "majorSixth": {
-      "value": "1.667",
-      "type": "other",
-      "inheritTypeLevel": 1
+      "value": "1.667"
     },
     "minorSeventh": {
-      "value": "1.778",
-      "type": "other",
-      "inheritTypeLevel": 1
+      "value": "1.778"
     },
     "majorSeventh": {
-      "value": "1.875",
-      "type": "other",
-      "inheritTypeLevel": 1
+      "value": "1.875"
     },
     "octave": {
-      "value": "2",
-      "type": "other",
-      "inheritTypeLevel": 1
+      "value": "2"
     },
     "majorTenth": {
-      "value": "2.5",
-      "type": "other",
-      "inheritTypeLevel": 1
+      "value": "2.5"
     },
     "majorEleventh": {
-      "value": "2.667",
-      "type": "other",
-      "inheritTypeLevel": 1
+      "value": "2.667"
     },
     "majorTwelfth": {
-      "value": "3",
-      "type": "other",
-      "inheritTypeLevel": 1
+      "value": "3"
     },
     "doubleOctave": {
-      "value": "4",
-      "type": "other",
-      "inheritTypeLevel": 1
+      "value": "4"
     }
   },
   "breakpoint": {
     "mobileS": {
-      "value": "320",
-      "type": "other",
-      "inheritTypeLevel": 1
+      "value": "320"
     },
     "mobileM": {
-      "value": "375",
-      "type": "other",
-      "inheritTypeLevel": 1
+      "value": "375"
     },
     "mobileL": {
-      "value": "425",
-      "type": "other",
-      "inheritTypeLevel": 1
+      "value": "425"
     },
     "tablet": {
-      "value": "768",
-      "type": "other",
-      "inheritTypeLevel": 1
+      "value": "768"
     },
     "laptop": {
-      "value": "1024",
-      "type": "other",
-      "inheritTypeLevel": 1
+      "value": "1024"
     },
     "laptopL": {
-      "value": "1440",
-      "type": "other",
-      "inheritTypeLevel": 1
+      "value": "1440"
     },
     "4k": {
-      "value": "2560",
-      "type": "other",
-      "inheritTypeLevel": 1
+      "value": "2560"
     }
   }
 }

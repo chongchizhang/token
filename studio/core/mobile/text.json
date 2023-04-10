@@ -1,99 +1,65 @@
 {
   "mobile": {
+    "type": "lineHeight",
     "fontSize": {
       "xs": {
-        "value": "roundTo({desktop.fontSize.xs}*{scale.majorSecond})",
-        "type": "fontSize",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.fontSize.xs}*{scale.majorSecond})"
       },
       "sm": {
-        "value": "roundTo({desktop.fontSize.sm}*{scale.majorSecond})",
-        "type": "fontSize",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.fontSize.sm}*{scale.majorSecond})"
       },
       "md": {
-        "value": "roundTo({desktop.fontSize.md}*{scale.majorSecond})",
-        "type": "fontSize",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.fontSize.md}*{scale.majorSecond})"
       },
       "lg": {
-        "value": "roundTo({desktop.fontSize.lg}*{scale.majorSecond})",
-        "type": "fontSize",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.fontSize.lg}*{scale.majorSecond})"
       },
       "xl": {
-        "value": "roundTo({desktop.fontSize.xl}*{scale.majorSecond})",
-        "type": "fontSize",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.fontSize.xl}*{scale.majorSecond})"
       },
       "xxl": {
-        "value": "roundTo({desktop.fontSize.xxl}*{scale.majorSecond})",
-        "type": "fontSize",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.fontSize.xxl}*{scale.majorSecond})"
       },
       "xxxl": {
-        "value": "roundTo({desktop.fontSize.xxxl}*{scale.majorSecond})",
-        "type": "fontSize",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.fontSize.xxxl}*{scale.majorSecond})"
       }
     },
     "lineHeight": {
       "xs": {
-        "value": "roundTo({desktop.lineHeight.xs}*{scale.majorSecond})",
-        "type": "lineHeight",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.lineHeight.xs}*{scale.majorSecond})"
       },
       "sm": {
-        "value": "roundTo({desktop.lineHeight.sm}*{scale.majorSecond})",
-        "type": "lineHeight",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.lineHeight.sm}*{scale.majorSecond})"
       },
       "md": {
-        "value": "roundTo({desktop.lineHeight.md}*{scale.majorSecond})",
-        "type": "lineHeight",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.lineHeight.md}*{scale.majorSecond})"
       },
       "lg": {
-        "value": "roundTo({desktop.lineHeight.lg}*{scale.majorSecond})",
-        "type": "lineHeight",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.lineHeight.lg}*{scale.majorSecond})"
       },
       "xl": {
-        "value": "roundTo({desktop.lineHeight.xl}*{scale.majorSecond})",
-        "type": "lineHeight",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.lineHeight.xl}*{scale.majorSecond})"
       },
       "xxl": {
-        "value": "roundTo({desktop.lineHeight.xxl}*{scale.majorSecond})",
-        "type": "lineHeight",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.lineHeight.xxl}*{scale.majorSecond})"
       },
       "xxxl": {
-        "value": "roundTo({desktop.lineHeight.xxxl}*{scale.majorSecond})",
-        "type": "lineHeight",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.lineHeight.xxxl}*{scale.majorSecond})"
       },
       "auto": {
-        "value": "auto",
-        "type": "lineHeight",
-        "inheritTypeLevel": 2
+        "value": "auto"
       }
     },
     "paragraphSpacing": {
+      "type": "paragraphSpacing",
       "sm": {
-        "value": "roundTo({desktop.paragraphSpacing.sm}*{scale.majorSecond})",
-        "type": "paragraphSpacing",
-        "inheritTypeLevel": 3
+        "value": "roundTo({desktop.paragraphSpacing.sm}*{scale.majorSecond})"
       },
       "md": {
-        "value": "roundTo({desktop.paragraphSpacing.md}*{scale.majorSecond})",
-        "type": "paragraphSpacing",
-        "inheritTypeLevel": 3
+        "value": "roundTo({desktop.paragraphSpacing.md}*{scale.majorSecond})"
       },
       "lg": {
-        "value": "roundTo({desktop.paragraphSpacing.lg}*{scale.majorSecond})",
-        "type": "paragraphSpacing",
-        "inheritTypeLevel": 3
+        "value": "roundTo({desktop.paragraphSpacing.lg}*{scale.majorSecond})"
       }
     }
   }

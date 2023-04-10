@@ -1,7 +1,5 @@
 {
   "tokenSetOrder": [
-    "core/palette/color1.0",
-    "core/palette/color2.0",
     "core/palette/color3.0",
     "core/universal/size",
     "core/universal/text",

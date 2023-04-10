@@ -1,99 +1,64 @@
 {
   "desktop": {
+    "type": "paragraphSpacing",
     "fontSize": {
       "xs": {
-        "value": "10",
-        "type": "fontSize",
-        "inheritTypeLevel": 2
+        "value": "10"
       },
       "sm": {
-        "value": "12",
-        "type": "fontSize",
-        "inheritTypeLevel": 2
+        "value": "12"
       },
       "md": {
-        "value": "14",
-        "type": "fontSize",
-        "inheritTypeLevel": 2
+        "value": "14"
       },
       "lg": {
-        "value": "16",
-        "type": "fontSize",
-        "inheritTypeLevel": 2
+        "value": "16"
       },
       "xl": {
-        "value": "20",
-        "type": "fontSize",
-        "inheritTypeLevel": 2
+        "value": "20"
       },
       "xxl": {
-        "value": "24",
-        "type": "fontSize",
-        "inheritTypeLevel": 2
+        "value": "24"
       },
       "xxxl": {
-        "value": "36",
-        "type": "fontSize",
-        "inheritTypeLevel": 2
+        "value": "36"
       }
     },
     "lineHeight": {
       "xs": {
-        "value": "12",
-        "type": "lineHeight",
-        "inheritTypeLevel": 2
+        "value": "12"
       },
       "sm": {
-        "value": "16",
-        "type": "lineHeight",
-        "inheritTypeLevel": 2
+        "value": "16"
       },
       "md": {
-        "value": "18",
-        "type": "lineHeight",
-        "inheritTypeLevel": 2
+        "value": "18"
       },
       "lg": {
-        "value": "20",
-        "type": "lineHeight",
-        "inheritTypeLevel": 2
+        "value": "20"
       },
       "xl": {
-        "value": "24",
-        "type": "lineHeight",
-        "inheritTypeLevel": 2
+        "value": "24"
       },
       "xxl": {
-        "value": "32",
-        "type": "lineHeight",
-        "inheritTypeLevel": 2
+        "value": "32"
       },
       "xxxl": {
-        "value": "40",
-        "type": "lineHeight",
-        "inheritTypeLevel": 2
+        "value": "40"
       },
       "auto": {
-        "value": "auto",
-        "type": "lineHeight",
-        "inheritTypeLevel": 2
+        "value": "auto"
       }
     },
     "paragraphSpacing": {
       "sm": {
-        "value": "6",
-        "type": "paragraphSpacing",
-        "inheritTypeLevel": 2
+        "value": "6"
       },
       "md": {
-        "value": "8",
-        "type": "paragraphSpacing",
-        "inheritTypeLevel": 2
+        "value": "8"
       },
       "lg": {
-        "value": "12",
-        "type": "paragraphSpacing",
-        "inheritTypeLevel": 2
+        "value": "12"
       }
     }
   }

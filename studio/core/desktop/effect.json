@@ -1,90 +1,57 @@
 {
   "desktop": {
+    "type": "other",
     "spread": {
       "none": {
-        "value": "0",
-        "type": "other",
-        "inheritTypeLevel": 2
+        "value": "0"
       },
       "xxxs": {
-        "value": "1",
-        "type": "other",
-        "inheritTypeLevel": 2
+        "value": "1"
       },
       "xxs": {
-        "value": "2",
-        "type": "other",
-        "inheritTypeLevel": 2
+        "value": "2"
       },
       "xs": {
-        "value": "3",
-        "type": "other",
-        "inheritTypeLevel": 2
+        "value": "3"
       },
       "sm": {
-        "value": "4",
-        "type": "other",
-        "inheritTypeLevel": 2
+        "value": "4"
       },
       "xxms": {
-        "value": "5",
-        "type": "other",
-        "inheritTypeLevel": 2
+        "value": "5"
       },
       "xms": {
-        "value": "6",
-        "type": "other",
-        "inheritTypeLevel": 2
+        "value": "6"
       },
       "ms": {
-        "value": "7",
-        "type": "other",
-        "inheritTypeLevel": 2
+        "value": "7"
       },
       "md": {
-        "value": "8",
-        "type": "other",
-        "inheritTypeLevel": 2
+        "value": "8"
       },
       "ml": {
-        "value": "9",
-        "type": "other",
-        "inheritTypeLevel": 2
+        "value": "9"
       },
       "xml": {
-        "value": "10",
-        "type": "other",
-        "inheritTypeLevel": 2
+        "value": "10"
       },
       "xxml": {
-        "value": "12",
-        "type": "other",
-        "inheritTypeLevel": 2
+        "value": "12"
       },
       "xxxml": {
-        "value": "14",
-        "type": "other",
-        "inheritTypeLevel": 2
+        "value": "14"
       },
       "lg": {
-        "value": "16",
-        "type": "other",
-        "inheritTypeLevel": 2
+        "value": "16"
       },
       "xl": {
-        "value": "24",
-        "type": "other",
-        "inheritTypeLevel": 2
+        "value": "24"
       },
       "xxl": {
-        "value": "32",
-        "type": "other",
-        "inheritTypeLevel": 2
+        "value": "32"
       },
       "xxxl": {
-        "value": "40",
-        "type": "other",
-        "inheritTypeLevel": 2
+        "value": "40"
       }
     }
   }

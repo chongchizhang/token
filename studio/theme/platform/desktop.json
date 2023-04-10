@@ -137,310 +137,198 @@
     }
   },
   "padding": {
+    "type": "spacing",
     "none": {
-      "value": "{desktop.spacing.none}",
-      "type": "spacing",
-      "inheritTypeLevel": 2
+      "value": "{desktop.spacing.none}"
     },
     "xxxs": {
-      "value": "{desktop.spacing.xxxs}",
-      "type": "spacing",
-      "inheritTypeLevel": 2
+      "value": "{desktop.spacing.xxxs}"
     },
     "xxs": {
-      "value": "{desktop.spacing.xxs}",
-      "type": "spacing",
-      "inheritTypeLevel": 2
+      "value": "{desktop.spacing.xxs}"
     },
     "xs": {
-      "value": "{desktop.spacing.xs}",
-      "type": "spacing",
-      "inheritTypeLevel": 2
+      "value": "{desktop.spacing.xs}"
     },
     "sm": {
-      "value": "{desktop.spacing.sm}",
-      "type": "spacing",
-      "inheritTypeLevel": 2
+      "value": "{desktop.spacing.sm}"
     },
     "md": {
-      "value": "{desktop.spacing.md}",
-      "type": "spacing",
-      "inheritTypeLevel": 2
+      "value": "{desktop.spacing.md}"
     },
     "lg": {
-      "value": "{desktop.spacing.lg}",
-      "type": "spacing",
-      "inheritTypeLevel": 2
+      "value": "{desktop.spacing.lg}"
     },
     "xl": {
-      "value": "{desktop.spacing.xl}",
-      "type": "spacing",
-      "inheritTypeLevel": 2
+      "value": "{desktop.spacing.xl}"
     },
     "xxl": {
-      "value": "{desktop.spacing.xxl}",
-      "type": "spacing",
-      "inheritTypeLevel": 2
+      "value": "{desktop.spacing.xxl}"
     },
     "xxxl": {
-      "value": "{desktop.spacing.xxxl}",
-      "type": "spacing",
-      "inheritTypeLevel": 2
+      "value": "{desktop.spacing.xxxl}"
     }
   },
   "gap": {
+    "type": "spacing",
     "none": {
-      "value": "{desktop.spacing.none}",
-      "type": "spacing",
-      "inheritTypeLevel": 2
+      "value": "{desktop.spacing.none}"
     },
     "xxxs": {
-      "value": "{desktop.spacing.xxxs}",
-      "type": "spacing",
-      "inheritTypeLevel": 2
+      "value": "{desktop.spacing.xxxs}"
     },
     "xxs": {
-      "value": "{desktop.spacing.xxs}",
-      "type": "spacing",
-      "inheritTypeLevel": 2
+      "value": "{desktop.spacing.xxs}"
     },
     "xs": {
-      "value": "{desktop.spacing.xs}",
-      "type": "spacing",
-      "inheritTypeLevel": 2
+      "value": "{desktop.spacing.xs}"
     },
     "sm": {
-      "value": "{desktop.spacing.sm}",
-      "type": "spacing",
-      "inheritTypeLevel": 2
+      "value": "{desktop.spacing.sm}"
     },
     "md": {
-      "value": "{desktop.spacing.md}",
-      "type": "spacing",
-      "inheritTypeLevel": 2
+      "value": "{desktop.spacing.md}"
     },
     "lg": {
-      "value": "{desktop.spacing.lg}",
-      "type": "spacing",
-      "inheritTypeLevel": 2
+      "value": "{desktop.spacing.lg}"
     },
     "xl": {
-      "value": "{desktop.spacing.xl}",
-      "type": "spacing",
-      "inheritTypeLevel": 2
+      "value": "{desktop.spacing.xl}"
     },
     "xxl": {
-      "value": "{desktop.spacing.xxl}",
-      "type": "spacing",
-      "inheritTypeLevel": 2
+      "value": "{desktop.spacing.xxl}"
     },
     "xxxl": {
-      "value": "{desktop.spacing.xxxl}",
-      "type": "spacing",
-      "inheritTypeLevel": 2
+      "value": "{desktop.spacing.xxxl}"
     }
   },
   "width": {
+    "type": "sizing",
     "none": {
-      "value": "{desktop.sizing.none}",
-      "type": "sizing",
-      "inheritTypeLevel": 2
+      "value": "{desktop.sizing.none}"
     },
     "xxxs": {
-      "value": "{desktop.sizing.xxxs}",
-      "type": "sizing",
-      "inheritTypeLevel": 2
+      "value": "{desktop.sizing.xxxs}"
     },
     "xxs": {
-      "value": "{desktop.sizing.xxs}",
-      "type": "sizing",
-      "inheritTypeLevel": 2
+      "value": "{desktop.sizing.xxs}"
     },
     "xs": {
-      "value": "{desktop.sizing.xs}",
-      "type": "sizing",
-      "inheritTypeLevel": 2
+      "value": "{desktop.sizing.xs}"
     },
     "sm": {
-      "value": "{desktop.sizing.sm}",
-      "type": "sizing",
-      "inheritTypeLevel": 2
+      "value": "{desktop.sizing.sm}"
     },
     "md": {
-      "value": "{desktop.sizing.md}",
-      "type": "sizing",
-      "inheritTypeLevel": 2
+      "value": "{desktop.sizing.md}"
     },
     "lg": {
-      "value": "{desktop.sizing.lg}",
-      "type": "sizing",
-      "inheritTypeLevel": 2
+      "value": "{desktop.sizing.lg}"
     },
     "xl": {
-      "value": "{desktop.sizing.xl}",
-      "type": "sizing",
-      "inheritTypeLevel": 2
+      "value": "{desktop.sizing.xl}"
     },
     "xxl": {
-      "value": "{desktop.sizing.xxl}",
-      "type": "sizing",
-      "inheritTypeLevel": 2
+      "value": "{desktop.sizing.xxl}"
     },
     "xxxl": {
-      "value": "{desktop.sizing.xxxl}",
-      "type": "sizing",
-      "inheritTypeLevel": 2
+      "value": "{desktop.sizing.xxxl}"
     }
   },
   "height": {
+    "type": "sizing",
     "none": {
-      "value": "{desktop.sizing.none}",
-      "type": "sizing",
-      "inheritTypeLevel": 2
+      "value": "{desktop.sizing.none}"
     },
     "xxxs": {
-      "value": "{desktop.sizing.xxxs}",
-      "type": "sizing",
-      "inheritTypeLevel": 2
+      "value": "{desktop.sizing.xxxs}"
     },
     "xxs": {
-      "value": "{desktop.sizing.xxs}",
-      "type": "sizing",
-      "inheritTypeLevel": 2
+      "value": "{desktop.sizing.xxs}"
     },
     "xs": {
-      "value": "{desktop.sizing.xs}",
-      "type": "sizing",
-      "inheritTypeLevel": 2
+      "value": "{desktop.sizing.xs}"
     },
     "sm": {
-      "value": "{desktop.sizing.sm}",
-      "type": "sizing",
-      "inheritTypeLevel": 2
+      "value": "{desktop.sizing.sm}"
     },
     "md": {
-      "value": "{desktop.sizing.md}",
-      "type": "sizing",
-      "inheritTypeLevel": 2
+      "value": "{desktop.sizing.md}"
     },
     "lg": {
-      "value": "{desktop.sizing.lg}",
-      "type": "sizing",
-      "inheritTypeLevel": 2
+      "value": "{desktop.sizing.lg}"
     },
     "xl": {
-      "value": "{desktop.sizing.xl}",
-      "type": "sizing",
-      "inheritTypeLevel": 2
+      "value": "{desktop.sizing.xl}"
     },
     "xxl": {
-      "value": "{desktop.sizing.xxl}",
-      "type": "sizing",
-      "inheritTypeLevel": 2
+      "value": "{desktop.sizing.xxl}"
     },
     "xxxl": {
-      "value": "{desktop.sizing.xxxl}",
-      "type": "sizing",
-      "inheritTypeLevel": 2
+      "value": "{desktop.sizing.xxxl}"
     }
   },
   "stroke": {
+    "type": "borderWidth",
     "none": {
-      "value": "{desktop.borderWidth.none}",
-      "type": "borderWidth",
-      "inheritTypeLevel": 2
+      "value": "{desktop.borderWidth.none}"
     },
     "xxs": {
-      "value": "{desktop.borderWidth.xxs}",
-      "type": "borderWidth",
-      "inheritTypeLevel": 2
+      "value": "{desktop.borderWidth.xxs}"
     },
     "xs": {
-      "value": "{desktop.borderWidth.xs}",
-      "type": "borderWidth",
-      "inheritTypeLevel": 2
+      "value": "{desktop.borderWidth.xs}"
     },
     "sm": {
-      "value": "{desktop.borderWidth.sm}",
-      "type": "borderWidth",
-      "inheritTypeLevel": 2
+      "value": "{desktop.borderWidth.sm}"
     },
     "md": {
-      "value": "{desktop.borderWidth.md}",
-      "type": "borderWidth",
-      "inheritTypeLevel": 2
+      "value": "{desktop.borderWidth.md}"
     },
     "lg": {
-      "value": "{desktop.borderWidth.lg}",
-      "type": "borderWidth",
-      "inheritTypeLevel": 2
+      "value": "{desktop.borderWidth.lg}"
     },
     "xl": {
-      "value": "{desktop.borderWidth.xl}",
-      "type": "borderWidth",
-      "inheritTypeLevel": 2
+      "value": "{desktop.borderWidth.xl}"
     },
     "xxl": {
-      "value": "{desktop.borderWidth.xxl}",
-      "type": "borderWidth",
-      "inheritTypeLevel": 2
+      "value": "{desktop.borderWidth.xxl}"
     },
     "xxxl": {
-      "value": "{desktop.borderWidth.xxxl}",
-      "type": "borderWidth",
-      "inheritTypeLevel": 2
+      "value": "{desktop.borderWidth.xxxl}"
     }
   },
   "cornerRadius": {
+    "type": "borderRadius",
     "none": {
-      "value": "{desktop.borderRadius.none}",
-      "type": "borderRadius",
-      "inheritTypeLevel": 2
+      "value": "{desktop.borderRadius.none}"
     },
     "xxxs": {
-      "value": "{desktop.borderRadius.xxxs}",
-      "type": "borderRadius",
-      "inheritTypeLevel": 2
+      "value": "{desktop.borderRadius.xxxs}"
     },
     "xxs": {
-      "value": "{desktop.borderRadius.xxs}",
-      "type": "borderRadius",
-      "inheritTypeLevel": 2
+      "value": "{desktop.borderRadius.xxs}"
     },
     "xs": {
-      "value": "{desktop.borderRadius.xs}",
-      "type": "borderRadius",
-      "inheritTypeLevel": 2
+      "value": "{desktop.borderRadius.xs}"
     },
     "sm": {
-      "value": "{desktop.borderRadius.sm}",
-      "type": "borderRadius",
-      "inheritTypeLevel": 2
+      "value": "{desktop.borderRadius.sm}"
     },
     "md": {
-      "value": "{desktop.borderRadius.md}",
-      "type": "borderRadius",
-      "inheritTypeLevel": 2
+      "value": "{desktop.borderRadius.md}"
     },
     "lg": {
-      "value": "{desktop.borderRadius.lg}",
-      "type": "borderRadius",
-      "inheritTypeLevel": 2
+      "value": "{desktop.borderRadius.lg}"
     },
     "xl": {
-      "value": "{desktop.borderRadius.xl}",
-      "type": "borderRadius",
-      "inheritTypeLevel": 2
+      "value": "{desktop.borderRadius.xl}"
     },
     "xxl": {
-      "value": "{desktop.borderRadius.xxl}",
-      "type": "borderRadius",
-      "inheritTypeLevel": 2
+      "value": "{desktop.borderRadius.xxl}"
     },
     "xxxl": {
-      "value": "{desktop.borderRadius.xxxl}",
-      "type": "borderRadius",
-      "inheritTypeLevel": 2
+      "value": "{desktop.borderRadius.xxxl}"
     },
     "max": {
       "value": "{desktop.borderRadius.max}",
@@ -448,6 +336,7 @@
     }
   },
   "dropShadow": {
+    "type": "boxShadow",
     "sm": {
       "value": [
         {
@@ -466,9 +355,7 @@
           "spread": "{desktop.spread.none}",
           "color": "{color.underlay.dark}"
         }
-      ],
-      "type": "boxShadow",
-      "inheritTypeLevel": 2
+      ]
     },
     "md": {
       "value": [
@@ -488,9 +375,7 @@
           "spread": "{desktop.spread.none}",
           "color": "{color.underlay.dark}"
         }
-      ],
-      "type": "boxShadow",
-      "inheritTypeLevel": 2
+      ]
     },
     "lg": {
       "value": [
@@ -510,9 +395,7 @@
           "spread": "{desktop.spread.none}",
           "color": "{color.underlay.dark}"
         }
-      ],
-      "type": "boxShadow",
-      "inheritTypeLevel": 2
+      ]
     }
   },
   "focus": {

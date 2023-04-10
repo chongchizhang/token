@@ -91,313 +91,202 @@
     }
   },
   "padding": {
+    "type": "spacing",
     "none": {
-      "value": "{mobile.spacing.none}",
-      "type": "spacing",
-      "inheritTypeLevel": 2
+      "value": "{mobile.spacing.none}"
     },
     "xxxs": {
-      "value": "{mobile.spacing.xxxs}",
-      "type": "spacing",
-      "inheritTypeLevel": 2
+      "value": "{mobile.spacing.xxxs}"
     },
     "xxs": {
-      "value": "{mobile.spacing.xxs}",
-      "type": "spacing",
-      "inheritTypeLevel": 2
+      "value": "{mobile.spacing.xxs}"
     },
     "xs": {
-      "value": "{mobile.spacing.xs}",
-      "type": "spacing",
-      "inheritTypeLevel": 2
+      "value": "{mobile.spacing.xs}"
     },
     "sm": {
-      "value": "{mobile.spacing.sm}",
-      "type": "spacing",
-      "inheritTypeLevel": 2
+      "value": "{mobile.spacing.sm}"
     },
     "md": {
-      "value": "{mobile.spacing.md}",
-      "type": "spacing",
-      "inheritTypeLevel": 2
+      "value": "{mobile.spacing.md}"
     },
     "lg": {
-      "value": "{mobile.spacing.lg}",
-      "type": "spacing",
-      "inheritTypeLevel": 2
+      "value": "{mobile.spacing.lg}"
     },
     "xl": {
-      "value": "{mobile.spacing.xl}",
-      "type": "spacing",
-      "inheritTypeLevel": 2
+      "value": "{mobile.spacing.xl}"
     },
     "xxl": {
-      "value": "{mobile.spacing.xxl}",
-      "type": "spacing",
-      "inheritTypeLevel": 2
+      "value": "{mobile.spacing.xxl}"
     },
     "xxxl": {
-      "value": "{mobile.spacing.xxxl}",
-      "type": "spacing",
-      "inheritTypeLevel": 2
+      "value": "{mobile.spacing.xxxl}"
     }
   },
   "gap": {
+    "type": "spacing",
     "none": {
-      "value": "{mobile.spacing.none}",
-      "type": "spacing",
-      "inheritTypeLevel": 2
+      "value": "{mobile.spacing.none}"
     },
     "xxxs": {
-      "value": "{mobile.spacing.xxxs}",
-      "type": "spacing",
-      "inheritTypeLevel": 2
+      "value": "{mobile.spacing.xxxs}"
     },
     "xxs": {
-      "value": "{mobile.spacing.xxs}",
-      "type": "spacing",
-      "inheritTypeLevel": 2
+      "value": "{mobile.spacing.xxs}"
     },
     "xs": {
-      "value": "{mobile.spacing.xs}",
-      "type": "spacing",
-      "inheritTypeLevel": 2
+      "value": "{mobile.spacing.xs}"
     },
     "sm": {
-      "value": "{mobile.spacing.sm}",
-      "type": "spacing",
-      "inheritTypeLevel": 2
+      "value": "{mobile.spacing.sm}"
     },
     "md": {
-      "value": "{mobile.spacing.md}",
-      "type": "spacing",
-      "inheritTypeLevel": 2
+      "value": "{mobile.spacing.md}"
     },
     "lg": {
-      "value": "{mobile.spacing.lg}",
-      "type": "spacing",
-      "inheritTypeLevel": 2
+      "value": "{mobile.spacing.lg}"
     },
     "xl": {
-      "value": "{mobile.spacing.xl}",
-      "type": "spacing",
-      "inheritTypeLevel": 2
+      "value": "{mobile.spacing.xl}"
     },
     "xxl": {
-      "value": "{mobile.spacing.xxl}",
-      "type": "spacing",
-      "inheritTypeLevel": 2
+      "value": "{mobile.spacing.xxl}"
     },
     "xxxl": {
-      "value": "{mobile.spacing.xxxl}",
-      "type": "spacing",
-      "inheritTypeLevel": 2
+      "value": "{mobile.spacing.xxxl}"
     }
   },
   "width": {
+    "type": "sizing",
     "none": {
-      "value": "{mobile.sizing.none}",
-      "type": "sizing",
-      "inheritTypeLevel": 2
+      "value": "{mobile.sizing.none}"
     },
     "xxxs": {
-      "value": "{mobile.sizing.xxxs}",
-      "type": "sizing",
-      "inheritTypeLevel": 2
+      "value": "{mobile.sizing.xxxs}"
     },
     "xxs": {
-      "value": "{mobile.sizing.xxs}",
-      "type": "sizing",
-      "inheritTypeLevel": 2
+      "value": "{mobile.sizing.xxs}"
     },
     "xs": {
-      "value": "{mobile.sizing.xs}",
-      "type": "sizing",
-      "inheritTypeLevel": 2
+      "value": "{mobile.sizing.xs}"
     },
     "sm": {
-      "value": "{mobile.sizing.sm}",
-      "type": "sizing",
-      "inheritTypeLevel": 2
+      "value": "{mobile.sizing.sm}"
     },
     "md": {
-      "value": "{mobile.sizing.md}",
-      "type": "sizing",
-      "inheritTypeLevel": 2
+      "value": "{mobile.sizing.md}"
     },
     "lg": {
-      "value": "{mobile.sizing.lg}",
-      "type": "sizing",
-      "inheritTypeLevel": 2
+      "value": "{mobile.sizing.lg}"
     },
     "xl": {
-      "value": "{mobile.sizing.xl}",
-      "type": "sizing",
-      "inheritTypeLevel": 2
+      "value": "{mobile.sizing.xl}"
     },
     "xxl": {
-      "value": "{mobile.sizing.xxl}",
-      "type": "sizing",
-      "inheritTypeLevel": 2
+      "value": "{mobile.sizing.xxl}"
     },
     "xxxl": {
-      "value": "{mobile.sizing.xxxl}",
-      "type": "sizing",
-      "inheritTypeLevel": 2
+      "value": "{mobile.sizing.xxxl}"
     }
   },
   "height": {
+    "type": "sizing",
     "none": {
-      "value": "{mobile.sizing.none}",
-      "type": "sizing",
-      "inheritTypeLevel": 2
+      "value": "{mobile.sizing.none}"
     },
     "xxxs": {
-      "value": "{mobile.sizing.xxxs}",
-      "type": "sizing",
-      "inheritTypeLevel": 2
+      "value": "{mobile.sizing.xxxs}"
     },
     "xxs": {
-      "value": "{mobile.sizing.xxs}",
-      "type": "sizing",
-      "inheritTypeLevel": 2
+      "value": "{mobile.sizing.xxs}"
     },
     "xs": {
-      "value": "{mobile.sizing.xs}",
-      "type": "sizing",
-      "inheritTypeLevel": 2
+      "value": "{mobile.sizing.xs}"
     },
     "sm": {
-      "value": "{mobile.sizing.sm}",
-      "type": "sizing",
-      "inheritTypeLevel": 2
+      "value": "{mobile.sizing.sm}"
     },
     "md": {
-      "value": "{mobile.sizing.md}",
-      "type": "sizing",
-      "inheritTypeLevel": 2
+      "value": "{mobile.sizing.md}"
     },
     "lg": {
-      "value": "{mobile.sizing.lg}",
-      "type": "sizing",
-      "inheritTypeLevel": 2
+      "value": "{mobile.sizing.lg}"
     },
     "xl": {
-      "value": "{mobile.sizing.xl}",
-      "type": "sizing",
-      "inheritTypeLevel": 2
+      "value": "{mobile.sizing.xl}"
     },
     "xxl": {
-      "value": "{mobile.sizing.xxl}",
-      "type": "sizing",
-      "inheritTypeLevel": 2
+      "value": "{mobile.sizing.xxl}"
     },
     "xxxl": {
-      "value": "{mobile.sizing.xxxl}",
-      "type": "sizing",
-      "inheritTypeLevel": 2
+      "value": "{mobile.sizing.xxxl}"
     }
   },
   "stroke": {
+    "type": "borderWidth",
     "none": {
-      "value": "{mobile.borderWidth.none}",
-      "type": "borderWidth",
-      "inheritTypeLevel": 2
+      "value": "{mobile.borderWidth.none}"
     },
     "xxs": {
-      "value": "{mobile.borderWidth.xxs}",
-      "type": "borderWidth",
-      "inheritTypeLevel": 2
+      "value": "{mobile.borderWidth.xxs}"
     },
     "xs": {
-      "value": "{mobile.borderWidth.xs}",
-      "type": "borderWidth",
-      "inheritTypeLevel": 2
+      "value": "{mobile.borderWidth.xs}"
     },
     "sm": {
-      "value": "{mobile.borderWidth.sm}",
-      "type": "borderWidth",
-      "inheritTypeLevel": 2
+      "value": "{mobile.borderWidth.sm}"
     },
     "md": {
-      "value": "{mobile.borderWidth.md}",
-      "type": "borderWidth",
-      "inheritTypeLevel": 2
+      "value": "{mobile.borderWidth.md}"
     },
     "lg": {
-      "value": "{mobile.borderWidth.lg}",
-      "type": "borderWidth",
-      "inheritTypeLevel": 2
+      "value": "{mobile.borderWidth.lg}"
     },
     "xl": {
-      "value": "{mobile.borderWidth.xl}",
-      "type": "borderWidth",
-      "inheritTypeLevel": 2
+      "value": "{mobile.borderWidth.xl}"
     },
     "xxl": {
-      "value": "{mobile.borderWidth.xxl}",
-      "type": "borderWidth",
-      "inheritTypeLevel": 2
+      "value": "{mobile.borderWidth.xxl}"
     },
     "xxxl": {
-      "value": "{mobile.borderWidth.xxxl}",
-      "type": "borderWidth",
-      "inheritTypeLevel": 2
+      "value": "{mobile.borderWidth.xxxl}"
     }
   },
   "cornerRadius": {
+    "type": "borderRadius",
     "none": {
-      "value": "{mobile.borderRadius.none}",
-      "type": "borderRadius",
-      "inheritTypeLevel": 2
+      "value": "{mobile.borderRadius.none}"
     },
     "xxxs": {
-      "value": "{mobile.borderRadius.xxxs}",
-      "type": "borderRadius",
-      "inheritTypeLevel": 2
+      "value": "{mobile.borderRadius.xxxs}"
     },
     "xxs": {
-      "value": "{mobile.borderRadius.xxs}",
-      "type": "borderRadius",
-      "inheritTypeLevel": 2
+      "value": "{mobile.borderRadius.xxs}"
     },
     "xs": {
-      "value": "{mobile.borderRadius.xs}",
-      "type": "borderRadius",
-      "inheritTypeLevel": 2
+      "value": "{mobile.borderRadius.xs}"
     },
     "sm": {
-      "value": "{mobile.borderRadius.sm}",
-      "type": "borderRadius",
-      "inheritTypeLevel": 2
+      "value": "{mobile.borderRadius.sm}"
     },
     "md": {
-      "value": "{mobile.borderRadius.md}",
-      "type": "borderRadius",
-      "inheritTypeLevel": 2
+      "value": "{mobile.borderRadius.md}"
     },
     "lg": {
-      "value": "{mobile.borderRadius.lg}",
-      "type": "borderRadius",
-      "inheritTypeLevel": 2
+      "value": "{mobile.borderRadius.lg}"
     },
     "xl": {
-      "value": "{mobile.borderRadius.xl}",
-      "type": "borderRadius",
-      "inheritTypeLevel": 2
+      "value": "{mobile.borderRadius.xl}"
     },
     "xxl": {
-      "value": "{mobile.borderRadius.xxl}",
-      "type": "borderRadius",
-      "inheritTypeLevel": 2
+      "value": "{mobile.borderRadius.xxl}"
     },
     "xxxl": {
-      "value": "{mobile.borderRadius.xxxl}",
-      "type": "borderRadius",
-      "inheritTypeLevel": 2
+      "value": "{mobile.borderRadius.xxxl}"
     }
   },
   "dropShadow": {
+    "type": "boxShadow",
     "sm": {
       "value": [
         {
@@ -416,9 +305,7 @@
           "spread": "{spread.none}",
           "color": "{underlay.dark}"
         }
-      ],
-      "type": "boxShadow",
-      "inheritTypeLevel": 2
+      ]
     },
     "md": {
       "value": [
@@ -438,9 +325,7 @@
           "spread": "{spread.none}",
           "color": "{underlay.dark}"
         }
-      ],
-      "type": "boxShadow",
-      "inheritTypeLevel": 2
+      ]
     },
     "lg": {
       "value": [
@@ -460,9 +345,7 @@
           "spread": "{spread.none}",
           "color": "{underlay.dark}"
         }
-      ],
-      "type": "boxShadow",
-      "inheritTypeLevel": 2
+      ]
     }
   }
 }

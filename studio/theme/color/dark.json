@@ -1,172 +1,119 @@
 {
   "color": {
+    "type": "color",
     "bg": {
       "default": {
         "value": "{palette.gl.ui.gray.130}",
-        "description": "gray-130",
-        "type": "color",
-        "inheritTypeLevel": 2
+        "description": "gray-130"
       },
       "neutral": {
         "value": "{palette.gl.ui.gray.120}",
-        "description": "gray-120",
-        "type": "color",
-        "inheritTypeLevel": 2
+        "description": "gray-120"
       }
     },
     "fill": {
       "default": {
         "value": "{palette.gl.ui.gray.130}",
-        "description": "gray-130",
-        "type": "color",
-        "inheritTypeLevel": 2
+        "description": "gray-130"
       },
       "subtle": {
         "neutral": {
           "value": "{palette.gl.ui.gray.110}",
-          "description": "fill.disable gray-110",
-          "type": "color",
-          "inheritTypeLevel": 2
+          "description": "fill.disable gray-110"
         },
         "primary": {
           "value": "{palette.gl.ui.blue.110}",
-          "description": "blue-110",
-          "type": "color",
-          "inheritTypeLevel": 2
+          "description": "blue-110"
         },
         "error": {
           "value": "{palette.gl.ui.red.110}",
-          "description": "red-110",
-          "type": "color",
-          "inheritTypeLevel": 2
+          "description": "red-110"
         },
         "warning": {
           "value": "{palette.gl.ui.yellow.110}",
-          "description": "yellow-110",
-          "type": "color",
-          "inheritTypeLevel": 2
+          "description": "yellow-110"
         },
         "success": {
           "value": "{palette.gl.ui.green.110}",
-          "description": "green-110",
-          "type": "color",
-          "inheritTypeLevel": 2
+          "description": "green-110"
         },
         "complementary": {
           "value": "{palette.gl.ui.orange.110}",
-          "description": "orange-110",
-          "type": "color",
-          "inheritTypeLevel": 2
+          "description": "orange-110"
         },
         "supplementary1": {
           "value": "{palette.gl.ui.olive.110}",
-          "description": "olive-110",
-          "type": "color",
-          "inheritTypeLevel": 2
+          "description": "olive-110"
         },
         "supplementary2": {
           "value": "{palette.gl.ui.purple.110}",
-          "description": "purple-110",
-          "type": "color",
-          "inheritTypeLevel": 2
+          "description": "purple-110"
         },
         "supplementary3": {
           "value": "{palette.gl.ui.teal.110}",
-          "description": "teal-110",
-          "type": "color",
-          "inheritTypeLevel": 2
+          "description": "teal-110"
         },
         "darkOverlay": {
           "value": "rgba({palette.gl.ui.black},{shade.30})",
-          "description": "shade-30",
-          "type": "color",
-          "inheritTypeLevel": 2
+          "description": "shade-30"
         },
         "lightOverlay": {
           "value": "rgba({palette.gl.ui.white},{shade.100})",
-          "description": "shade-30",
-          "type": "color",
-          "inheritTypeLevel": 2
+          "description": "shade-30"
         }
       },
       "neutral": {
         "value": "{palette.gl.ui.gray.60}",
-        "description": "gray-60",
-        "type": "color",
-        "inheritTypeLevel": 2
+        "description": "gray-60"
       },
       "primary": {
         "value": "{palette.gl.ui.blue.60}",
-        "description": "blue-60",
-        "type": "color",
-        "inheritTypeLevel": 2
+        "description": "blue-60"
       },
       "error": {
         "value": "{palette.gl.ui.red.60}",
-        "description": "red-60",
-        "type": "color",
-        "inheritTypeLevel": 2
+        "description": "red-60"
       },
       "warning": {
         "value": "{palette.gl.ui.yellow.60}",
-        "description": "yellow-60",
-        "type": "color",
-        "inheritTypeLevel": 2
+        "description": "yellow-60"
       },
       "success": {
         "value": "{palette.gl.ui.green.60}",
-        "description": "green-60",
-        "type": "color",
-        "inheritTypeLevel": 2
+        "description": "green-60"
       },
       "complementary": {
         "value": "{palette.gl.ui.orange.50}",
-        "description": "orange-50",
-        "type": "color",
-        "inheritTypeLevel": 2
+        "description": "orange-50"
       },
       "supplementary1": {
         "value": "{palette.gl.ui.olive.60}",
-        "type": "color",
-        "inheritTypeLevel": 2,
         "description": "olive-50"
       },
       "supplementary2": {
         "value": "{palette.gl.ui.purple.60}",
-        "type": "color",
-        "inheritTypeLevel": 2,
         "description": "purple-50"
       },
       "supplementary3": {
         "value": "{palette.gl.ui.teal.60}",
-        "type": "color",
-        "inheritTypeLevel": 2,
         "description": "teal-50"
       },
       "darkOverlay": {
         "value": "rgba({palette.gl.ui.black},{shade.50})",
-        "description": "shade-50",
-        "type": "color",
-        "inheritTypeLevel": 2
+        "description": "shade-50"
       },
       "lightOverlay": {
         "value": "rgba({palette.gl.ui.white},{shade.80})",
-        "description": "shade-50",
-        "type": "color",
-        "inheritTypeLevel": 2
+        "description": "shade-50"
       },
       "strong": {
         "darkOverlay": {
           "value": "rgba({palette.gl.ui.black},{shade.70})",
-          "description": "shade-70",
-          "type": "color",
-          "inheritTypeLevel": 2
+          "description": "shade-70"
         },
         "lightOverlay": {
           "value": "rgba({palette.gl.ui.white},{shade.60})",
-          "description": "shade-70",
-          "type": "color",
-          "inheritTypeLevel": 2
+          "description": "shade-70"
         }
       }
     },
@@ -174,453 +121,307 @@
       "stronger": {
         "neutral": {
           "value": "{palette.gl.ui.gray.20}",
-          "description": "gray-20",
-          "type": "color",
-          "inheritTypeLevel": 2
+          "description": "gray-20"
         },
         "primary": {
           "value": "{palette.gl.ui.blue.20}",
-          "description": "blue-20",
-          "type": "color",
-          "inheritTypeLevel": 2
+          "description": "blue-20"
         },
         "error": {
           "value": "{palette.gl.ui.red.20}",
-          "description": "red-20",
-          "type": "color",
-          "inheritTypeLevel": 2
+          "description": "red-20"
         },
         "warning": {
           "value": "{palette.gl.ui.yellow.20}",
-          "description": "yellow-20",
-          "type": "color",
-          "inheritTypeLevel": 2
+          "description": "yellow-20"
         },
         "success": {
           "value": "{palette.gl.ui.green.20}",
-          "description": "green-20",
-          "type": "color",
-          "inheritTypeLevel": 2
+          "description": "green-20"
         },
         "complementary": {
           "value": "{palette.gl.ui.orange.20}",
-          "description": "orange-20",
-          "type": "color",
-          "inheritTypeLevel": 2
+          "description": "orange-20"
         },
         "supplementary1": {
           "value": "{palette.gl.ui.olive.20}",
-          "description": "olive-20",
-          "type": "color",
-          "inheritTypeLevel": 2
+          "description": "olive-20"
         },
         "supplementary2": {
           "value": "{palette.gl.ui.purple.20}",
-          "description": "purple-20",
-          "type": "color",
-          "inheritTypeLevel": 2
+          "description": "purple-20"
         },
         "supplementary3": {
           "value": "{palette.gl.ui.teal.20}",
-          "description": "teal-20",
-          "type": "color",
-          "inheritTypeLevel": 2
+          "description": "teal-20"
         }
       },
       "strong": {
         "neutral": {
           "value": "{palette.gl.ui.gray.40}",
-          "description": "text.default gray-40",
-          "type": "color",
-          "inheritTypeLevel": 2
+          "description": "text.default gray-40"
         },
         "primary": {
           "value": "{palette.gl.ui.blue.40}",
-          "description": "blue-40",
-          "type": "color",
-          "inheritTypeLevel": 2
+          "description": "blue-40"
         },
         "error": {
           "value": "{palette.gl.ui.red.40}",
-          "description": "red-40",
-          "type": "color",
-          "inheritTypeLevel": 2
+          "description": "red-40"
         },
         "warning": {
           "value": "{palette.gl.ui.yellow.40}",
-          "description": "yellow-40",
-          "type": "color",
-          "inheritTypeLevel": 2
+          "description": "yellow-40"
         },
         "success": {
           "value": "{palette.gl.ui.green.40}",
-          "description": "green-40",
-          "type": "color",
-          "inheritTypeLevel": 2
+          "description": "green-40"
         },
         "complementary": {
           "value": "{palette.gl.ui.orange.40}",
-          "description": "orange-40",
-          "type": "color",
-          "inheritTypeLevel": 2
+          "description": "orange-40"
         },
         "supplementary1": {
           "value": "{palette.gl.ui.olive.40}",
-          "description": "olive-40",
-          "type": "color",
-          "inheritTypeLevel": 2
+          "description": "olive-40"
         },
         "supplementary2": {
           "value": "{palette.gl.ui.purple.40}",
-          "description": "purple-40",
-          "type": "color",
-          "inheritTypeLevel": 2
+          "description": "purple-40"
         },
         "supplementary3": {
           "value": "{palette.gl.ui.teal.40}",
-          "description": "teal-40",
-          "type": "color",
-          "inheritTypeLevel": 2
+          "description": "teal-40"
         }
       },
       "neutral": {
         "value": "{palette.gl.ui.gray.60}",
-        "description": "gray-60",
-        "type": "color",
-        "inheritTypeLevel": 2
+        "description": "gray-60"
       },
       "primary": {
         "value": "{palette.gl.ui.blue.60}",
-        "description": "blue-60",
-        "type": "color",
-        "inheritTypeLevel": 2
+        "description": "blue-60"
       },
       "error": {
         "value": "{palette.gl.ui.red.60}",
-        "description": "red-60",
-        "type": "color",
-        "inheritTypeLevel": 2
+        "description": "red-60"
       },
       "warning": {
         "value": "{palette.gl.ui.yellow.60}",
-        "description": "yelow-60",
-        "type": "color",
-        "inheritTypeLevel": 2
+        "description": "yelow-60"
       },
       "success": {
         "value": "{palette.gl.ui.green.60}",
-        "description": "green-60",
-        "type": "color",
-        "inheritTypeLevel": 2
+        "description": "green-60"
       },
       "complementary": {
         "value": "{palette.gl.ui.orange.60}",
-        "description": "orange-60",
-        "type": "color",
-        "inheritTypeLevel": 2
+        "description": "orange-60"
       },
       "supplementary1": {
         "value": "{palette.gl.ui.olive.60}",
-        "description": "olive-60",
-        "type": "color",
-        "inheritTypeLevel": 2
+        "description": "olive-60"
       },
       "supplementary2": {
         "value": "{palette.gl.ui.purple.60}",
-        "description": "purple-60",
-        "type": "color",
-        "inheritTypeLevel": 2
+        "description": "purple-60"
       },
       "supplementary3": {
         "value": "{palette.gl.ui.teal.60}",
-        "description": "purple-60",
-        "type": "color",
-        "inheritTypeLevel": 2
+        "description": "purple-60"
       },
       "inverse": {
         "neutral": {
           "value": "{palette.gl.ui.gray.120}",
-          "description": "gray-120",
-          "type": "color",
-          "inheritTypeLevel": 2
+          "description": "gray-120"
         },
         "primary": {
           "value": "{palette.gl.ui.blue.120}",
-          "description": "blue-120",
-          "type": "color",
-          "inheritTypeLevel": 2
+          "description": "blue-120"
         },
         "error": {
           "value": "{palette.gl.ui.red.120}",
-          "description": "red-120",
-          "type": "color",
-          "inheritTypeLevel": 2
+          "description": "red-120"
         },
         "warning": {
           "value": "{palette.gl.ui.yellow.120}",
-          "description": "yellow-120",
-          "type": "color",
-          "inheritTypeLevel": 2
+          "description": "yellow-120"
         },
         "success": {
           "value": "{palette.gl.ui.green.120}",
-          "description": "green-120",
-          "type": "color",
-          "inheritTypeLevel": 2
+          "description": "green-120"
         },
         "complementary": {
           "value": "{palette.gl.ui.orange.120}",
-          "description": "orange-120",
-          "type": "color",
-          "inheritTypeLevel": 2
+          "description": "orange-120"
         },
         "supplementary1": {
           "value": "{palette.gl.ui.olive.120}",
-          "description": "olive-120",
-          "type": "color",
-          "inheritTypeLevel": 2
+          "description": "olive-120"
         },
         "supplementary2": {
           "value": "{palette.gl.ui.purple.120}",
-          "description": "olive-120",
-          "type": "color",
-          "inheritTypeLevel": 2
+          "description": "olive-120"
         },
         "supplementary3": {
           "value": "{palette.gl.ui.teal.120}",
-          "description": "olive-120",
-          "type": "color",
-          "inheritTypeLevel": 2
+          "description": "olive-120"
         }
       }
     },
     "icon": {
       "neutral": {
         "value": "{palette.gl.ui.gray.80}",
-        "description": "gray-80",
-        "type": "color",
-        "inheritTypeLevel": 2
+        "description": "gray-80"
       },
       "primary": {
         "value": "{palette.gl.ui.blue.80}",
-        "description": "blue-80",
-        "type": "color",
-        "inheritTypeLevel": 2
+        "description": "blue-80"
       },
       "error": {
         "value": "{palette.gl.ui.red.80}",
-        "description": "red-80",
-        "type": "color",
-        "inheritTypeLevel": 2
+        "description": "red-80"
       },
       "warning": {
         "value": "{palette.gl.ui.yellow.30}",
-        "description": "yellow-30",
-        "type": "color",
-        "inheritTypeLevel": 2
+        "description": "yellow-30"
       },
       "success": {
         "value": "{palette.gl.ui.green.80}",
-        "description": "green-80",
-        "type": "color",
-        "inheritTypeLevel": 2
+        "description": "green-80"
       },
       "complementary": {
         "value": "{palette.gl.ui.orange.50}",
-        "description": "orange-50",
-        "type": "color",
-        "inheritTypeLevel": 2
+        "description": "orange-50"
       },
       "supplementary1": {
         "value": "{palette.gl.ui.olive.80}",
-        "description": "olive-80",
-        "type": "color",
-        "inheritTypeLevel": 2
+        "description": "olive-80"
       },
       "supplementary2": {
         "value": "{palette.gl.ui.purple.80}",
-        "description": "purple-80",
-        "type": "color",
-        "inheritTypeLevel": 2
+        "description": "purple-80"
       },
       "supplementary3": {
         "value": "{palette.gl.ui.teal.80}",
-        "description": "teal-80",
-        "type": "color",
-        "inheritTypeLevel": 2
+        "description": "teal-80"
       },
       "inverse": {
         "value": "{palette.gl.ui.gray.0}",
-        "description": "gray-0",
-        "type": "color",
-        "inheritTypeLevel": 2
+        "description": "gray-0"
       }
     },
     "border": {
       "strong": {
         "neutral": {
           "value": "{palette.gl.ui.gray.40}",
-          "description": "gray-40",
-          "type": "color",
-          "inheritTypeLevel": 2
+          "description": "gray-40"
         },
         "primary": {
           "value": "{palette.gl.ui.blue.40}",
-          "description": "blue-40",
-          "type": "color",
-          "inheritTypeLevel": 2
+          "description": "blue-40"
         },
         "error": {
           "value": "{palette.gl.ui.red.40}",
-          "description": "red-40",
-          "type": "color",
-          "inheritTypeLevel": 2
+          "description": "red-40"
         },
         "warning": {
           "value": "{palette.gl.ui.yellow.40}",
-          "description": "yellow-40",
-          "type": "color",
-          "inheritTypeLevel": 2
+          "description": "yellow-40"
         },
         "success": {
           "value": "{palette.gl.ui.green.40}",
-          "description": "green-40",
-          "type": "color",
-          "inheritTypeLevel": 2
+          "description": "green-40"
         },
         "complementary": {
           "value": "{palette.gl.ui.orange.40}",
-          "description": "orange-40",
-          "type": "color",
-          "inheritTypeLevel": 2
+          "description": "orange-40"
         },
         "supplementary1": {
           "value": "{palette.gl.ui.olive.40}",
-          "description": "olive-40",
-          "type": "color",
-          "inheritTypeLevel": 2
+          "description": "olive-40"
         },
         "supplementary2": {
           "value": "{palette.gl.ui.purple.40}",
-          "description": "purple-40",
-          "type": "color",
-          "inheritTypeLevel": 2
+          "description": "purple-40"
         },
         "supplementary3": {
           "value": "{palette.gl.ui.teal.40}",
-          "description": "teal-40",
-          "type": "color",
-          "inheritTypeLevel": 2
+          "description": "teal-40"
         }
       },
       "neutral": {
         "value": "{palette.gl.ui.gray.80}",
-        "description": "gray-80",
-        "type": "color",
-        "inheritTypeLevel": 2
+        "description": "gray-80"
       },
       "primary": {
         "value": "{palette.gl.ui.blue.80}",
-        "description": "blue-80",
-        "type": "color",
-        "inheritTypeLevel": 2
+        "description": "blue-80"
       },
       "error": {
         "value": "{palette.gl.ui.red.80}",
-        "description": "red-80",
-        "type": "color",
-        "inheritTypeLevel": 2
+        "description": "red-80"
       },
       "warning": {
         "value": "{palette.gl.ui.yellow.80}",
-        "description": "yellow-80",
-        "type": "color",
-        "inheritTypeLevel": 2
+        "description": "yellow-80"
       },
       "success": {
         "value": "{palette.gl.ui.green.80}",
-        "description": "green-80",
-        "type": "color",
-        "inheritTypeLevel": 2
+        "description": "green-80"
       },
       "complementary": {
         "value": "{palette.gl.ui.orange.80}",
-        "description": "orange-80",
-        "type": "color",
-        "inheritTypeLevel": 2
+        "description": "orange-80"
       },
       "supplementary1": {
         "value": "{palette.gl.ui.olive.80}",
-        "description": "olive-80",
-        "type": "color",
-        "inheritTypeLevel": 2
+        "description": "olive-80"
       },
       "supplementary2": {
         "value": "{palette.gl.ui.purple.80}",
-        "description": "purple-80",
-        "type": "color",
-        "inheritTypeLevel": 2
+        "description": "purple-80"
       },
       "supplementary3": {
         "value": "{palette.gl.ui.teal.80}",
-        "description": "teal-80",
-        "type": "color",
-        "inheritTypeLevel": 2
+        "description": "teal-80"
       },
       "subtle": {
         "neutral": {
           "value": "{palette.gl.ui.gray.100}",
-          "description": "gray-100",
-          "type": "color",
-          "inheritTypeLevel": 2
+          "description": "gray-100"
         },
         "primary": {
           "value": "{palette.gl.ui.blue.100}",
-          "description": "blue-100",
-          "type": "color",
-          "inheritTypeLevel": 2
+          "description": "blue-100"
         },
         "error": {
           "value": "{palette.gl.ui.red.100}",
-          "description": "red-100",
-          "type": "color",
-          "inheritTypeLevel": 2
+          "description": "red-100"
         },
         "warning": {
           "value": "{palette.gl.ui.yellow.100}",
-          "description": "yellow-100",
-          "type": "color",
-          "inheritTypeLevel": 2
+          "description": "yellow-100"
         },
         "success": {
           "value": "{palette.gl.ui.green.100}",
-          "description": "green-100",
-          "type": "color",
-          "inheritTypeLevel": 2
+          "description": "green-100"
         },
         "complementary": {
           "value": "{palette.gl.ui.orange.100}",
-          "description": "orange-100",
-          "type": "color",
-          "inheritTypeLevel": 2
+          "description": "orange-100"
         },
         "supplementary1": {
           "value": "{palette.gl.ui.olive.100}",
-          "description": "olive-100",
-          "type": "color",
-          "inheritTypeLevel": 2
+          "description": "olive-100"
         },
         "supplementary2": {
           "value": "{palette.gl.ui.purple.100}",
-          "description": "purple-100",
-          "type": "color",
-          "inheritTypeLevel": 2
+          "description": "purple-100"
         },
         "supplementary3": {
           "value": "{palette.gl.ui.teal.100}",
-          "description": "teal-100",
-          "type": "color",
-          "inheritTypeLevel": 2
+          "description": "teal-100"
         }
       }
     },
@@ -629,169 +430,121 @@
         "neutral": {
           "hover": {
             "value": "rgba({palette.gl.ui.gray.60},{shade.80})",
-            "description": "shade-80",
-            "type": "color",
-            "inheritTypeLevel": 2
+            "description": "shade-80"
           },
           "press": {
             "value": "rgba({palette.gl.ui.black},{shade.50})",
-            "description": "shade-50",
-            "type": "color",
-            "inheritTypeLevel": 2
+            "description": "shade-50"
           }
         },
         "primary": {
           "hover": {
             "value": "rgba({palette.gl.ui.blue.60},{shade.80})",
-            "description": "shade-80",
-            "type": "color",
-            "inheritTypeLevel": 2
+            "description": "shade-80"
           },
           "press": {
             "value": "rgba({palette.gl.ui.black},{shade.50})",
-            "description": "shade-50",
-            "type": "color",
-            "inheritTypeLevel": 2
+            "description": "shade-50"
           }
         },
         "error": {
           "hover": {
             "value": "rgba({palette.gl.ui.red.60},{shade.80})",
-            "description": "shade-80",
-            "type": "color",
-            "inheritTypeLevel": 2
+            "description": "shade-80"
           },
           "press": {
             "value": "rgba({palette.gl.ui.black},{shade.50})",
-            "description": "shade-50",
-            "type": "color",
-            "inheritTypeLevel": 2
+            "description": "shade-50"
           }
         },
         "warning": {
           "hover": {
             "value": "rgba({palette.gl.ui.yellow.60},{shade.80})",
-            "description": "shade-80",
-            "type": "color",
-            "inheritTypeLevel": 2
+            "description": "shade-80"
           },
           "press": {
             "value": "rgba({palette.gl.ui.black},{shade.50})",
-            "description": "shade-50",
-            "type": "color",
-            "inheritTypeLevel": 2
+            "description": "shade-50"
           }
         },
         "success": {
           "hover": {
             "value": "rgba({palette.gl.ui.green.60},{shade.80})",
-            "description": "shade-80",
-            "type": "color",
-            "inheritTypeLevel": 2
+            "description": "shade-80"
           },
           "press": {
             "value": "rgba({palette.gl.ui.black},{shade.50})",
-            "description": "shade-50",
-            "type": "color",
-            "inheritTypeLevel": 2
+            "description": "shade-50"
           }
         },
         "complementary": {
           "hover": {
             "value": "rgba({palette.gl.ui.orange.60},{shade.80})",
-            "description": "shade-80",
-            "type": "color",
-            "inheritTypeLevel": 2
+            "description": "shade-80"
           },
           "press": {
             "value": "rgba({palette.gl.ui.black},{shade.50})",
-            "description": "shade-50",
-            "type": "color",
-            "inheritTypeLevel": 2
+            "description": "shade-50"
           }
         },
         "supplementary1": {
           "hover": {
             "value": "rgba({palette.gl.ui.olive.70},{shade.80})",
-            "description": "shade-80",
-            "type": "color",
-            "inheritTypeLevel": 2
+            "description": "shade-80"
           },
           "press": {
             "value": "rgba({palette.gl.ui.black},{shade.50})",
-            "description": "shade-50",
-            "type": "color",
-            "inheritTypeLevel": 2
+            "description": "shade-50"
           }
         },
         "supplementary2": {
           "hover": {
             "value": "rgba({palette.gl.ui.purple.70},{shade.80})",
-            "description": "shade-80",
-            "type": "color",
-            "inheritTypeLevel": 2
+            "description": "shade-80"
           },
           "press": {
             "value": "rgba({palette.gl.ui.black},{shade.50})",
-            "description": "shade-50",
-            "type": "color",
-            "inheritTypeLevel": 2
+            "description": "shade-50"
           }
         },
         "supplementary3": {
           "hover": {
             "value": "rgba({palette.gl.ui.teal.70},{shade.80})",
-            "description": "shade-80",
-            "type": "color",
-            "inheritTypeLevel": 2
+            "description": "shade-80"
           },
           "press": {
             "value": "rgba({palette.gl.ui.black},{shade.50})",
-            "description": "shade-50",
-            "type": "color",
-            "inheritTypeLevel": 2
+            "description": "shade-50"
           }
         },
         "darkOverlay": {
           "hover": {
             "value": "rgba({palette.gl.ui.black},{opacity.sm})",
-            "description": "opacity-sm",
-            "type": "color",
-            "inheritTypeLevel": 2
+            "description": "opacity-sm"
           },
           "press": {
             "value": "rgba({palette.gl.ui.black},{opacity.lg})",
-            "description": "opacity-lg",
-            "type": "color",
-            "inheritTypeLevel": 2
+            "description": "opacity-lg"
           }
         },
         "lightOverlay": {
           "hover": {
             "value": "rgba({palette.gl.ui.white},{opacity.lg})",
-            "description": "opacity-lg",
-            "type": "color",
-            "inheritTypeLevel": 2
+            "description": "opacity-lg"
           },
           "press": {
             "value": "rgba({palette.gl.ui.black},{opacity.md})",
-            "description": "opacity-md",
-            "type": "color",
-            "inheritTypeLevel": 2
+            "description": "opacity-md"
           }
         },
         "disable": {
           "value": "{palette.gl.ui.gray.110}",
-          "type": "color",
-          "inheritTypeLevel": 2,
           "description": "fill.disable"
         }
       },
       "neutral": {
         "hover": {
           "value": "{palette.gl.ui.gray.60}",
-          "type": "color",
-          "inheritTypeLevel": 2,
           "description": "shade-30",
           "$extensions": {
             "studio.tokens": {
@@ -805,8 +558,6 @@
         },
         "press": {
           "value": "{palette.gl.ui.gray.60}",
-          "type": "color",
-          "inheritTypeLevel": 2,
           "description": "shade-50",
           "$extensions": {
             "studio.tokens": {
@@ -822,8 +573,6 @@
       "primary": {
         "hover": {
           "value": "{palette.gl.ui.blue.60}",
-          "type": "color",
-          "inheritTypeLevel": 2,
           "description": "shade-30",
           "$extensions": {
             "studio.tokens": {
@@ -837,8 +586,6 @@
         },
         "press": {
           "value": "{palette.gl.ui.blue.60}",
-          "type": "color",
-          "inheritTypeLevel": 2,
           "description": "shade-50",
           "$extensions": {
             "studio.tokens": {
@@ -854,8 +601,6 @@
       "error": {
         "hover": {
           "value": "{palette.gl.ui.red.60}",
-          "type": "color",
-          "inheritTypeLevel": 2,
           "description": "shade-30",
           "$extensions": {
             "studio.tokens": {
@@ -869,8 +614,6 @@
         },
         "press": {
           "value": "{palette.gl.ui.red.60}",
-          "type": "color",
-          "inheritTypeLevel": 2,
           "description": "shade-50",
           "$extensions": {
             "studio.tokens": {
@@ -886,8 +629,6 @@
       "warning": {
         "hover": {
           "value": "{palette.gl.ui.yellow.60}",
-          "type": "color",
-          "inheritTypeLevel": 2,
           "description": "shade-30",
           "$extensions": {
             "studio.tokens": {
@@ -901,8 +642,6 @@
         },
         "press": {
           "value": "{palette.gl.ui.yellow.60}",
-          "type": "color",
-          "inheritTypeLevel": 2,
           "description": "shade-50",
           "$extensions": {
             "studio.tokens": {
@@ -918,8 +657,6 @@
       "success": {
         "hover": {
           "value": "{palette.gl.ui.green.60}",
-          "type": "color",
-          "inheritTypeLevel": 2,
           "description": "shade-30",
           "$extensions": {
             "studio.tokens": {
@@ -933,8 +670,6 @@
         },
         "press": {
           "value": "{palette.gl.ui.green.60}",
-          "type": "color",
-          "inheritTypeLevel": 2,
           "description": "shade-50",
           "$extensions": {
             "studio.tokens": {
@@ -950,8 +685,6 @@
       "complementary": {
         "hover": {
           "value": "{palette.gl.ui.orange.60}",
-          "type": "color",
-          "inheritTypeLevel": 2,
           "description": "shade-30",
           "$extensions": {
             "studio.tokens": {
@@ -965,8 +698,6 @@
         },
         "press": {
           "value": "{palette.gl.ui.orange.60}",
-          "type": "color",
-          "inheritTypeLevel": 2,
           "description": "shade-50",
           "$extensions": {
             "studio.tokens": {
@@ -982,8 +713,6 @@
       "supplementary1": {
         "hover": {
           "value": "{palette.gl.ui.olive.60}",
-          "type": "color",
-          "inheritTypeLevel": 2,
           "description": "shade-30",
           "$extensions": {
             "studio.tokens": {
@@ -997,8 +726,6 @@
         },
         "press": {
           "value": "{palette.gl.ui.olive.60}",
-          "type": "color",
-          "inheritTypeLevel": 2,
           "description": "shade-50",
           "$extensions": {
             "studio.tokens": {
@@ -1014,8 +741,6 @@
       "supplementary2": {
         "hover": {
           "value": "{palette.gl.ui.purple.60}",
-          "type": "color",
-          "inheritTypeLevel": 2,
           "description": "shade-30",
           "$extensions": {
             "studio.tokens": {
@@ -1029,8 +754,6 @@
         },
         "press": {
           "value": "{palette.gl.ui.purple.60}",
-          "type": "color",
-          "inheritTypeLevel": 2,
           "description": "shade-50",
           "$extensions": {
             "studio.tokens": {
@@ -1046,8 +769,6 @@
       "supplementary3": {
         "hover": {
           "value": "{palette.gl.ui.teal.60}",
-          "type": "color",
-          "inheritTypeLevel": 2,
           "description": "shade-30",
           "$extensions": {
             "studio.tokens": {
@@ -1061,8 +782,6 @@
         },
         "press": {
           "value": "{palette.gl.ui.teal.60}",
-          "type": "color",
-          "inheritTypeLevel": 2,
           "description": "shade-50",
           "$extensions": {
             "studio.tokens": {
@@ -1078,65 +797,47 @@
       "darkOverlay": {
         "hover": {
           "value": "rgba({palette.gl.ui.black},{opacity.lg})",
-          "description": "opacity-lg",
-          "type": "color",
-          "inheritTypeLevel": 2
+          "description": "opacity-lg"
         },
         "press": {
           "value": "rgba({palette.gl.ui.black},{opacity.xxl})",
-          "description": "opacity-xxl",
-          "type": "color",
-          "inheritTypeLevel": 2
+          "description": "opacity-xxl"
         }
       },
       "lightOverlay": {
         "hover": {
           "value": "rgba({palette.gl.ui.white},{opacity.xl})",
-          "description": "opacity-xl",
-          "type": "color",
-          "inheritTypeLevel": 2
+          "description": "opacity-xl"
         },
         "press": {
           "value": "rgba({palette.gl.ui.black},{opacity.sm})",
-          "description": "opacity-sm",
-          "type": "color",
-          "inheritTypeLevel": 2
+          "description": "opacity-sm"
         }
       },
       "strong": {
         "darkOverlay": {
           "hover": {
             "value": "rgba({palette.gl.ui.black},{opacity.xl})",
-            "description": "opacity-xl",
-            "type": "color",
-            "inheritTypeLevel": 2
+            "description": "opacity-xl"
           },
           "press": {
             "value": "rgba({palette.gl.ui.black},{opacity.xxl})",
-            "type": "color",
-            "inheritTypeLevel": 2,
             "description": "opacity-xxxl"
           }
         },
         "lightOverlay": {
           "hover": {
             "value": "rgba({palette.gl.ui.white},{opacity.xxl})",
-            "description": "opacity-xxl",
-            "type": "color",
-            "inheritTypeLevel": 2
+            "description": "opacity-xxl"
           },
           "press": {
             "value": "rgba({palette.gl.ui.black},{opacity.xs})",
-            "description": "opacity-xs",
-            "type": "color",
-            "inheritTypeLevel": 2
+            "description": "opacity-xs"
           }
         }
       },
       "disable": {
         "value": "{palette.gl.ui.gray.50}",
-        "type": "color",
-        "inheritTypeLevel": 2,
         "description": "fill.disable text.disable",
         "$extensions": {
           "studio.tokens": {
@@ -1150,29 +851,21 @@
       },
       "hover": {
         "value": "rgba({palette.gl.ui.white},{shade.80})",
-        "description": "shade-80",
-        "type": "color",
-        "inheritTypeLevel": 2
+        "description": "shade-80"
       },
       "press": {
         "value": "rgba({palette.gl.ui.black},{shade.50})",
-        "description": "shade-50",
-        "type": "color",
-        "inheritTypeLevel": 2
+        "description": "shade-50"
       },
       "inactive": {
         "value": "rgba({palette.gl.ui.black},{shade.90})",
-        "description": "shade-90",
-        "type": "color",
-        "inheritTypeLevel": 2
+        "description": "shade-90"
       }
     },
     "underlay": {
       "dark": {
         "value": "rgba({palette.gl.ui.black},{opacity.lg})",
-        "description": "opacity-lg",
-        "type": "color",
-        "inheritTypeLevel": 2
+        "description": "opacity-lg"
       }
     }
   }

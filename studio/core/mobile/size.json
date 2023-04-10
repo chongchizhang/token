@@ -1,356 +1,219 @@
 {
   "mobile": {
+    "type": "borderWidth",
     "sizing": {
       "none": {
-        "value": "roundTo({desktop.sizing.none}*{scale.majorSecond})",
-        "type": "sizing",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.sizing.none}*{scale.majorSecond})"
       },
       "xxxs": {
-        "value": "roundTo({desktop.sizing.xxxs}*{scale.majorSecond})",
-        "type": "sizing",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.sizing.xxxs}*{scale.majorSecond})"
       },
       "xxs": {
-        "value": "roundTo({desktop.sizing.xxs}*{scale.majorSecond})",
-        "type": "sizing",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.sizing.xxs}*{scale.majorSecond})"
       },
       "xs": {
-        "value": "roundTo({desktop.sizing.xs}*{scale.majorSecond})",
-        "type": "sizing",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.sizing.xs}*{scale.majorSecond})"
       },
       "sm": {
-        "value": "roundTo({desktop.sizing.sm}*{scale.majorSecond})",
-        "type": "sizing",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.sizing.sm}*{scale.majorSecond})"
       },
       "xxms": {
-        "value": "roundTo({desktop.sizing.xxms}*{scale.majorSecond})",
-        "type": "sizing",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.sizing.xxms}*{scale.majorSecond})"
       },
       "xms": {
-        "value": "roundTo({desktop.sizing.xms}*{scale.majorSecond})",
-        "type": "sizing",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.sizing.xms}*{scale.majorSecond})"
       },
       "ms": {
-        "value": "roundTo({desktop.sizing.ms}*{scale.majorSecond})",
-        "type": "sizing",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.sizing.ms}*{scale.majorSecond})"
       },
       "md": {
-        "value": "roundTo({desktop.sizing.md}*{scale.majorSecond})",
-        "type": "sizing",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.sizing.md}*{scale.majorSecond})"
       },
       "ml": {
-        "value": "roundTo({desktop.sizing.ml}*{scale.majorSecond})",
-        "type": "sizing",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.sizing.ml}*{scale.majorSecond})"
       },
       "xml": {
-        "value": "roundTo({desktop.sizing.xml}*{scale.majorSecond})",
-        "type": "sizing",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.sizing.xml}*{scale.majorSecond})"
       },
       "xxml": {
-        "value": "roundTo({desktop.sizing.xxml}*{scale.majorSecond})",
-        "type": "sizing",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.sizing.xxml}*{scale.majorSecond})"
       },
       "xxxml": {
-        "value": "roundTo({desktop.sizing.xxxml}*{scale.majorSecond})",
-        "type": "sizing",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.sizing.xxxml}*{scale.majorSecond})"
       },
       "lg": {
-        "value": "roundTo({desktop.sizing.lg}*{scale.majorSecond})",
-        "type": "sizing",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.sizing.lg}*{scale.majorSecond})"
       },
       "xl": {
-        "value": "roundTo({desktop.sizing.xl}*{scale.majorSecond})",
-        "type": "sizing",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.sizing.xl}*{scale.majorSecond})"
       },
       "xxl": {
-        "value": "roundTo({desktop.sizing.xxl}*{scale.majorSecond})",
-        "type": "sizing",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.sizing.xxl}*{scale.majorSecond})"
       },
       "xxxl": {
-        "value": "roundTo({desktop.sizing.xxxl}*{scale.majorSecond})",
-        "type": "sizing",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.sizing.xxxl}*{scale.majorSecond})"
       }
     },
     "spacing": {
       "none": {
-        "value": "roundTo({desktop.spacing.none}*{scale.majorSecond})",
-        "type": "spacing",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.spacing.none}*{scale.majorSecond})"
       },
       "xxxs": {
-        "value": "roundTo({desktop.spacing.xxxs}*{scale.majorSecond})",
-        "type": "spacing",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.spacing.xxxs}*{scale.majorSecond})"
       },
       "xxs": {
-        "value": "roundTo({desktop.spacing.xxs}*{scale.majorSecond})",
-        "type": "spacing",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.spacing.xxs}*{scale.majorSecond})"
       },
       "xs": {
-        "value": "roundTo({desktop.spacing.xs}*{scale.majorSecond})",
-        "type": "spacing",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.spacing.xs}*{scale.majorSecond})"
       },
       "sm": {
-        "value": "roundTo({desktop.spacing.sm}*{scale.majorSecond})",
-        "type": "spacing",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.spacing.sm}*{scale.majorSecond})"
       },
       "xxms": {
-        "value": "roundTo({desktop.spacing.xxms}*{scale.majorSecond})",
-        "type": "spacing",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.spacing.xxms}*{scale.majorSecond})"
       },
       "xms": {
-        "value": "roundTo({desktop.spacing.xms}*{scale.majorSecond})",
-        "type": "spacing",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.spacing.xms}*{scale.majorSecond})"
       },
       "ms": {
-        "value": "roundTo({desktop.spacing.ms}*{scale.majorSecond})",
-        "type": "spacing",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.spacing.ms}*{scale.majorSecond})"
       },
       "md": {
-        "value": "roundTo({desktop.spacing.md}*{scale.majorSecond})",
-        "type": "spacing",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.spacing.md}*{scale.majorSecond})"
       },
       "ml": {
-        "value": "roundTo({desktop.spacing.ml}*{scale.majorSecond})",
-        "type": "spacing",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.spacing.ml}*{scale.majorSecond})"
       },
       "xml": {
-        "value": "roundTo({desktop.spacing.xml}*{scale.majorSecond})",
-        "type": "spacing",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.spacing.xml}*{scale.majorSecond})"
       },
       "xxml": {
-        "value": "roundTo({desktop.spacing.xxml}*{scale.majorSecond})",
-        "type": "spacing",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.spacing.xxml}*{scale.majorSecond})"
       },
       "xxxml": {
-        "value": "roundTo({desktop.spacing.xxxml}*{scale.majorSecond})",
-        "type": "spacing",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.spacing.xxxml}*{scale.majorSecond})"
       },
       "lg": {
-        "value": "roundTo({desktop.spacing.lg}*{scale.majorSecond})",
-        "type": "spacing",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.spacing.lg}*{scale.majorSecond})"
       },
       "xl": {
-        "value": "roundTo({desktop.spacing.xl}*{scale.majorSecond})",
-        "type": "spacing",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.spacing.xl}*{scale.majorSecond})"
       },
       "xxl": {
-        "value": "roundTo({desktop.spacing.xxl}*{scale.majorSecond})",
-        "type": "spacing",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.spacing.xxl}*{scale.majorSecond})"
       },
       "xxxl": {
-        "value": "roundTo({desktop.spacing.xxxl}*{scale.majorSecond})",
-        "type": "spacing",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.spacing.xxxl}*{scale.majorSecond})"
       }
     },
     "borderRadius": {
       "none": {
-        "value": "roundTo({desktop.borderRadius.none}*{scale.majorSecond})",
-        "type": "borderRadius",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.borderRadius.none}*{scale.majorSecond})"
       },
       "xxxs": {
-        "value": "roundTo({desktop.borderRadius.xxxs}*{scale.majorSecond})",
-        "type": "borderRadius",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.borderRadius.xxxs}*{scale.majorSecond})"
       },
       "xxs": {
-        "value": "roundTo({desktop.borderRadius.xxs}*{scale.majorSecond})",
-        "type": "borderRadius",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.borderRadius.xxs}*{scale.majorSecond})"
       },
       "xs": {
-        "value": "roundTo({desktop.borderRadius.xs}*{scale.majorSecond})",
-        "type": "borderRadius",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.borderRadius.xs}*{scale.majorSecond})"
       },
       "sm": {
-        "value": "roundTo({desktop.borderRadius.sm}*{scale.majorSecond})",
-        "type": "borderRadius",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.borderRadius.sm}*{scale.majorSecond})"
       },
       "xxms": {
-        "value": "roundTo({desktop.borderRadius.xxms}*{scale.majorSecond})",
-        "type": "borderRadius",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.borderRadius.xxms}*{scale.majorSecond})"
       },
       "xms": {
-        "value": "roundTo({desktop.borderRadius.xms}*{scale.majorSecond})",
-        "type": "borderRadius",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.borderRadius.xms}*{scale.majorSecond})"
       },
       "ms": {
-        "value": "roundTo({desktop.borderRadius.ms}*{scale.majorSecond})",
-        "type": "borderRadius",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.borderRadius.ms}*{scale.majorSecond})"
       },
       "md": {
-        "value": "roundTo({desktop.borderRadius.md}*{scale.majorSecond})",
-        "type": "borderRadius",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.borderRadius.md}*{scale.majorSecond})"
       },
       "ml": {
-        "value": "roundTo({desktop.borderRadius.ml}*{scale.majorSecond})",
-        "type": "borderRadius",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.borderRadius.ml}*{scale.majorSecond})"
       },
       "xml": {
-        "value": "roundTo({desktop.borderRadius.xml}*{scale.majorSecond})",
-        "type": "borderRadius",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.borderRadius.xml}*{scale.majorSecond})"
       },
       "xxml": {
-        "value": "roundTo({desktop.borderRadius.xxml}*{scale.majorSecond})",
-        "type": "borderRadius",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.borderRadius.xxml}*{scale.majorSecond})"
       },
       "xxxml": {
-        "value": "roundTo({desktop.borderRadius.xxxml}*{scale.majorSecond})",
-        "type": "borderRadius",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.borderRadius.xxxml}*{scale.majorSecond})"
       },
       "lg": {
-        "value": "roundTo({desktop.borderRadius.lg}*{scale.majorSecond})",
-        "type": "borderRadius",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.borderRadius.lg}*{scale.majorSecond})"
       },
       "xl": {
-        "value": "roundTo({desktop.borderRadius.xl}*{scale.majorSecond})",
-        "type": "borderRadius",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.borderRadius.xl}*{scale.majorSecond})"
       },
       "xxl": {
-        "value": "roundTo({desktop.borderRadius.xxl}*{scale.majorSecond})",
-        "type": "borderRadius",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.borderRadius.xxl}*{scale.majorSecond})"
       },
       "xxxl": {
-        "value": "roundTo({desktop.borderRadius.xxxl}*{scale.majorSecond})",
-        "type": "borderRadius",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.borderRadius.xxxl}*{scale.majorSecond})"
       },
       "max": {
-        "value": "roundTo({desktop.borderRadius.max}*{scale.majorSecond})",
-        "type": "borderRadius",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.borderRadius.max}*{scale.majorSecond})"
       }
     },
     "borderWidth": {
       "none": {
-        "value": "roundTo({desktop.borderWidth.none}*{scale.majorSecond})",
-        "type": "borderWidth",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.borderWidth.none}*{scale.majorSecond})"
       },
       "xxxs": {
-        "value": "roundTo({desktop.borderWidth.xxxs}*{scale.majorSecond})",
-        "type": "borderWidth",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.borderWidth.xxxs}*{scale.majorSecond})"
       },
       "xxs": {
-        "value": "roundTo({desktop.borderWidth.xxs}*{scale.majorSecond})",
-        "type": "borderWidth",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.borderWidth.xxs}*{scale.majorSecond})"
       },
       "xs": {
-        "value": "roundTo({desktop.borderWidth.xs}*{scale.majorSecond})",
-        "type": "borderWidth",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.borderWidth.xs}*{scale.majorSecond})"
       },
       "sm": {
-        "value": "roundTo({desktop.borderWidth.sm}*{scale.majorSecond})",
-        "type": "borderWidth",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.borderWidth.sm}*{scale.majorSecond})"
       },
       "xxms": {
-        "value": "roundTo({desktop.borderWidth.xxms}*{scale.majorSecond})",
-        "type": "borderWidth",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.borderWidth.xxms}*{scale.majorSecond})"
       },
       "xms": {
-        "value": "roundTo({desktop.borderWidth.xms}*{scale.majorSecond})",
-        "type": "borderWidth",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.borderWidth.xms}*{scale.majorSecond})"
       },
       "ms": {
-        "value": "roundTo({desktop.borderWidth.ms}*{scale.majorSecond})",
-        "type": "borderWidth",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.borderWidth.ms}*{scale.majorSecond})"
       },
       "md": {
-        "value": "roundTo({desktop.borderWidth.md}*{scale.majorSecond})",
-        "type": "borderWidth",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.borderWidth.md}*{scale.majorSecond})"
       },
       "ml": {
-        "value": "roundTo({desktop.borderWidth.ml}*{scale.majorSecond})",
-        "type": "borderWidth",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.borderWidth.ml}*{scale.majorSecond})"
       },
       "xml": {
-        "value": "roundTo({desktop.borderWidth.xml}*{scale.majorSecond})",
-        "type": "borderWidth",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.borderWidth.xml}*{scale.majorSecond})"
       },
       "xxml": {
-        "value": "roundTo({desktop.borderWidth.xxml}*{scale.majorSecond})",
-        "type": "borderWidth",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.borderWidth.xxml}*{scale.majorSecond})"
       },
       "xxxml": {
-        "value": "roundTo({desktop.borderWidth.xxxml}*{scale.majorSecond})",
-        "type": "borderWidth",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.borderWidth.xxxml}*{scale.majorSecond})"
       },
       "lg": {
-        "value": "roundTo({desktop.borderWidth.lg}*{scale.majorSecond})",
-        "type": "borderWidth",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.borderWidth.lg}*{scale.majorSecond})"
       },
       "xl": {
-        "value": "roundTo({desktop.borderWidth.xl}*{scale.majorSecond})",
-        "type": "borderWidth",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.borderWidth.xl}*{scale.majorSecond})"
       },
       "xxl": {
-        "value": "roundTo({desktop.borderWidth.xxl}*{scale.majorSecond})",
-        "type": "borderWidth",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.borderWidth.xxl}*{scale.majorSecond})"
       },
       "xxxl": {
-        "value": "roundTo({desktop.borderWidth.xxxl}*{scale.majorSecond})",
-        "type": "borderWidth",
-        "inheritTypeLevel": 2
+        "value": "roundTo({desktop.borderWidth.xxxl}*{scale.majorSecond})"
       }
     }
   }

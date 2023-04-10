@@ -1,162 +1,105 @@
 {
+  "": {
+    "type": "textDecoration"
+  },
   "fontFamily": {
     "inter": {
-      "value": "Inter",
-      "type": "fontFamily",
-      "inheritTypeLevel": 1
+      "value": "Inter"
     },
     "sfPro": {
-      "value": "SF Pro",
-      "type": "fontFamily",
-      "inheritTypeLevel": 1
+      "value": "SF Pro"
     },
     "segoeUI": {
-      "value": "Segoe UI Variable",
-      "type": "fontFamily",
-      "inheritTypeLevel": 1
+      "value": "Segoe UI Variable"
     },
     "roboto": {
-      "value": "Roboto",
-      "type": "fontFamily",
-      "inheritTypeLevel": 1
+      "value": "Roboto"
     },
     "ubuntu": {
-      "value": "Ubuntu",
-      "type": "fontFamily",
-      "inheritTypeLevel": 1
+      "value": "Ubuntu"
     },
     "notoSansMono": {
-      "value": "Noto Sans Mono",
-      "type": "fontFamily",
-      "inheritTypeLevel": 1
+      "value": "Noto Sans Mono"
     },
     "sfMono": {
-      "value": "SF Mono",
-      "type": "fontFamily",
-      "inheritTypeLevel": 1
+      "value": "SF Mono"
     },
     "consolas": {
-      "value": "Consolas",
-      "type": "fontFamily",
-      "inheritTypeLevel": 1
+      "value": "Consolas"
     },
     "robotoMono": {
-      "value": "Roboto Mono",
-      "type": "fontFamily",
-      "inheritTypeLevel": 1
+      "value": "Roboto Mono"
     },
     "ubuntuMono": {
-      "value": "Ubuntu Mono",
-      "type": "fontFamily",
-      "inheritTypeLevel": 1
+      "value": "Ubuntu Mono"
     }
   },
   "fontWeight": {
     "regularSmall": {
-      "value": "Regular Small",
-      "type": "fontWeight",
-      "inheritTypeLevel": 1
+      "value": "Regular Small"
     },
     "regular": {
-      "value": "Regular",
-      "type": "fontWeight",
-      "inheritTypeLevel": 1
+      "value": "Regular"
     },
     "medium": {
-      "value": "Medium",
-      "type": "fontWeight",
-      "inheritTypeLevel": 1
+      "value": "Medium"
     },
     "semiBoldSmall": {
-      "value": "Semibold Small",
-      "type": "fontWeight",
-      "inheritTypeLevel": 1
+      "value": "Semibold Small"
     },
     "semiBold": {
-      "value": "Semibold",
-      "type": "fontWeight",
-      "inheritTypeLevel": 1
+      "value": "Semibold"
     },
     "semiBold2": {
-      "value": "Semi Bold",
-      "type": "fontWeight",
-      "inheritTypeLevel": 1
+      "value": "Semi Bold"
     },
     "semiBold3": {
-      "value": "SemiBold",
-      "type": "fontWeight",
-      "inheritTypeLevel": 1
+      "value": "SemiBold"
     },
     "semiBoldDisplay": {
-      "value": "Semibold Display",
-      "type": "fontWeight",
-      "inheritTypeLevel": 1
+      "value": "Semibold Display"
     },
     "semiBoldText": {
-      "value": "Semibold Text",
-      "type": "fontWeight",
-      "inheritTypeLevel": 1
+      "value": "Semibold Text"
     },
     "bold": {
-      "value": "Bold",
-      "type": "fontWeight",
-      "inheritTypeLevel": 1
+      "value": "Bold"
     },
     "boldText": {
-      "value": "Bold Text",
-      "type": "fontWeight",
-      "inheritTypeLevel": 1
+      "value": "Bold Text"
     },
     "boldDisplay": {
-      "value": "Bold Display",
-      "type": "fontWeight",
-      "inheritTypeLevel": 1
+      "value": "Bold Display"
     }
   },
   "letterSpacing": {
     "auto": {
-      "value": "auto",
-      "type": "lineHeight",
-      "inheritTypeLevel": 1
+      "value": "auto"
     }
   },
   "textCase": {
     "none": {
-      "value": "none",
-      "type": "textCase",
-      "inheritTypeLevel": 1
+      "value": "none"
     },
     "upper": {
-      "value": "uppercase",
-      "type": "textCase",
-      "inheritTypeLevel": 1
+      "value": "uppercase"
     },
     "lower": {
-      "value": "lowercase",
-      "type": "textCase",
-      "inheritTypeLevel": 1
+      "value": "lowercase"
     },
     "cap": {
-      "value": "capitalize",
-      "type": "textCase",
-      "inheritTypeLevel": 1
+      "value": "capitalize"
     }
   },
   "textDecoration": {
     "none": {
-      "value": "none",
-      "type": "textDecoration",
-      "inheritTypeLevel": 1
+      "value": "none"
     },
     "underline": {
-      "value": "underline",
-      "type": "textDecoration",
-      "inheritTypeLevel": 1
+      "value": "underline"
     },
     "lineThrough": {
-      "value": "line-through",
-      "type": "textDecoration",
-      "inheritTypeLevel": 1
+      "value": "line-through"
     }
   }
 }
