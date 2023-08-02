@@ -1,81 +1,102 @@
 {
-  "": {
-    "type": "other"
-  },
   "scale": {
     "minorSecond": {
-      "value": "1.067"
+      "value": "1.067",
+      "type": "other"
     },
     "majorSecond": {
-      "value": "1.125"
+      "value": "1.125",
+      "type": "other"
     },
     "minorThird": {
-      "value": "1.2"
+      "value": "1.2",
+      "type": "other"
     },
     "majorThird": {
-      "value": "1.25"
+      "value": "1.25",
+      "type": "other"
     },
     "perfectFourth": {
-      "value": "1.333"
+      "value": "1.333",
+      "type": "other"
     },
     "augmentedFourth": {
-      "value": "1.414"
+      "value": "1.414",
+      "type": "other"
     },
     "perfectFifth": {
-      "value": "1.5"
+      "value": "1.5",
+      "type": "other"
     },
     "minorSixth": {
-      "value": "1.6"
+      "value": "1.6",
+      "type": "other"
     },
     "goldenRatio": {
-      "value": "1.618"
+      "value": "1.618",
+      "type": "other"
     },
     "majorSixth": {
-      "value": "1.667"
+      "value": "1.667",
+      "type": "other"
     },
     "minorSeventh": {
-      "value": "1.778"
+      "value": "1.778",
+      "type": "other"
     },
     "majorSeventh": {
-      "value": "1.875"
+      "value": "1.875",
+      "type": "other"
     },
     "octave": {
-      "value": "2"
+      "value": "2",
+      "type": "other"
     },
     "majorTenth": {
-      "value": "2.5"
+      "value": "2.5",
+      "type": "other"
     },
     "majorEleventh": {
-      "value": "2.667"
+      "value": "2.667",
+      "type": "other"
     },
     "majorTwelfth": {
-      "value": "3"
+      "value": "3",
+      "type": "other"
     },
     "doubleOctave": {
-      "value": "4"
+      "value": "4",
+      "type": "other"
     }
   },
   "breakpoint": {
     "mobileS": {
-      "value": "320"
+      "value": "320",
+      "type": "other"
     },
     "mobileM": {
-      "value": "375"
+      "value": "375",
+      "type": "other"
     },
     "mobileL": {
-      "value": "425"
+      "value": "425",
+      "type": "other"
     },
     "tablet": {
-      "value": "768"
+      "value": "768",
+      "type": "other"
     },
     "laptop": {
-      "value": "1024"
+      "value": "1024",
+      "type": "other"
     },
     "laptopL": {
-      "value": "1440"
+      "value": "1440",
+      "type": "other"
     },
     "4k": {
-      "value": "2560"
+      "value": "2560",
+      "type": "other"
     }
   }
 }

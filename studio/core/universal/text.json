@@ -1,105 +1,132 @@
 {
-  "": {
-    "type": "textDecoration"
-  },
   "fontFamily": {
     "inter": {
-      "value": "Inter"
+      "value": "Inter",
+      "type": "other"
     },
     "sfPro": {
-      "value": "SF Pro"
+      "value": "SF Pro",
+      "type": "other"
     },
     "segoeUI": {
-      "value": "Segoe UI Variable"
+      "value": "Segoe UI Variable",
+      "type": "other"
     },
     "roboto": {
-      "value": "Roboto"
+      "value": "Roboto",
+      "type": "other"
     },
     "ubuntu": {
-      "value": "Ubuntu"
+      "value": "Ubuntu",
+      "type": "other"
     },
     "notoSansMono": {
-      "value": "Noto Sans Mono"
+      "value": "Noto Sans Mono",
+      "type": "other"
     },
     "sfMono": {
-      "value": "SF Mono"
+      "value": "SF Mono",
+      "type": "other"
     },
     "consolas": {
-      "value": "Consolas"
+      "value": "Consolas",
+      "type": "other"
     },
     "robotoMono": {
-      "value": "Roboto Mono"
+      "value": "Roboto Mono",
+      "type": "other"
     },
     "ubuntuMono": {
-      "value": "Ubuntu Mono"
+      "value": "Ubuntu Mono",
+      "type": "other"
     }
   },
   "fontWeight": {
     "regularSmall": {
-      "value": "Regular Small"
+      "value": "Regular Small",
+      "type": "other"
     },
     "regular": {
-      "value": "Regular"
+      "value": "Regular",
+      "type": "other"
     },
     "medium": {
-      "value": "Medium"
+      "value": "Medium",
+      "type": "other"
     },
     "semiBoldSmall": {
-      "value": "Semibold Small"
+      "value": "Semibold Small",
+      "type": "other"
     },
     "semiBold": {
-      "value": "Semibold"
+      "value": "Semibold",
+      "type": "other"
     },
     "semiBold2": {
-      "value": "Semi Bold"
+      "value": "Semi Bold",
+      "type": "other"
     },
     "semiBold3": {
-      "value": "SemiBold"
+      "value": "SemiBold",
+      "type": "other"
     },
     "semiBoldDisplay": {
-      "value": "Semibold Display"
+      "value": "Semibold Display",
+      "type": "other"
     },
     "semiBoldText": {
-      "value": "Semibold Text"
+      "value": "Semibold Text",
+      "type": "other"
     },
     "bold": {
-      "value": "Bold"
+      "value": "Bold",
+      "type": "other"
     },
     "boldText": {
-      "value": "Bold Text"
+      "value": "Bold Text",
+      "type": "other"
     },
     "boldDisplay": {
-      "value": "Bold Display"
+      "value": "Bold Display",
+      "type": "other"
     }
   },
   "letterSpacing": {
     "auto": {
-      "value": "auto"
+      "value": "auto",
+      "type": "letterSpacing"
     }
   },
   "textCase": {
     "none": {
-      "value": "none"
+      "value": "none",
+      "type": "other"
     },
     "upper": {
-      "value": "uppercase"
+      "value": "uppercase",
+      "type": "other"
     },
     "lower": {
-      "value": "lowercase"
+      "value": "lowercase",
+      "type": "other"
     },
     "cap": {
-      "value": "capitalize"
+      "value": "capitalize",
+      "type": "other"
     }
   },
   "textDecoration": {
     "none": {
-      "value": "none"
+      "value": "none",
+      "type": "other"
     },
     "underline": {
-      "value": "underline"
+      "value": "underline",
+      "type": "other"
     },
     "lineThrough": {
-      "value": "line-through"
+      "value": "line-through",
+      "type": "other"
     }
   }
 }
