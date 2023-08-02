@@ -12,7 +12,7 @@
       }
     },
     "fill": {
-      "default": {
+      "default2": {
         "value": "{palette.gl.ui.gray.0}",
         "description": "gray-0"
       },
